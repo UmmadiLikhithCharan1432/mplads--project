@@ -1,0 +1,465 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8" />
+<meta name="viewport" content="width=device-width, initial-scale=1.0" />
+<title>MPLADS Audit Dashboard</title>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link href="https://fonts.googleapis.com/css2?family=Source+Serif+4:opsz,wght@8..60,400;8..60,600&family=Inter:wght@400;500;600;700&display=swap" rel="stylesheet">
+<style>
+  :root {
+    --bg: #F5F6F4;
+    --surface: #FFFFFF;
+    --ink: #1C2430;
+    --ink-muted: #5B6472;
+    --line: #DADFE3;
+    --accent: #1F5C8B;
+    --accent-soft: #E7EFF5;
+    --risk-high: #B23A2E;
+    --risk-high-soft: #F7E9E7;
+    --risk-mid: #B8792A;
+    --risk-mid-soft: #F7EEE1;
+    --risk-low: #3C7A5C;
+    --risk-low-soft: #E7F1EB;
+  }
+
+  * { box-sizing: border-box; }
+
+  body {
+    margin: 0;
+    background: var(--bg);
+    color: var(--ink);
+    font-family: 'Inter', -apple-system, sans-serif;
+    font-feature-settings: 'tnum' 1;
+  }
+
+  header {
+    padding: 32px 40px 24px;
+    border-bottom: 1px solid var(--line);
+    background: var(--surface);
+  }
+
+  header h1 {
+    font-family: 'Source Serif 4', Georgia, serif;
+    font-weight: 600;
+    font-size: 28px;
+    margin: 0 0 4px;
+    letter-spacing: -0.01em;
+  }
+
+  header p {
+    margin: 0;
+    color: var(--ink-muted);
+    font-size: 14px;
+    max-width: 60ch;
+  }
+
+  main {
+    max-width: 1180px;
+    margin: 0 auto;
+    padding: 28px 40px 60px;
+  }
+
+  .stats {
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    gap: 1px;
+    background: var(--line);
+    border: 1px solid var(--line);
+    margin-bottom: 28px;
+  }
+
+  .stat {
+    background: var(--surface);
+    padding: 18px 20px;
+    border-left: 3px solid var(--accent);
+  }
+
+  .stat.flagged { border-left-color: var(--risk-high); }
+
+  .stat .label {
+    font-size: 13px;
+    color: var(--ink-muted);
+    margin-bottom: 6px;
+  }
+
+  .stat .value {
+    font-size: 26px;
+    font-weight: 600;
+    font-variant-numeric: tabular-nums;
+  }
+
+  .controls {
+    display: flex;
+    align-items: center;
+    gap: 24px;
+    flex-wrap: wrap;
+    padding: 16px 0;
+    margin-bottom: 4px;
+    border-bottom: 1px solid var(--line);
+  }
+
+  .field { display: flex; flex-direction: column; gap: 6px; }
+
+  .field label {
+    font-size: 12px;
+    color: var(--ink-muted);
+  }
+
+  select, input[type="range"] {
+    font-family: inherit;
+    font-size: 14px;
+  }
+
+  select {
+    padding: 6px 10px;
+    border: 1px solid var(--line);
+    background: var(--surface);
+    color: var(--ink);
+    min-width: 180px;
+  }
+
+  .risk-field { display: flex; align-items: center; gap: 10px; }
+  .risk-field input[type="range"] { width: 160px; }
+  .risk-field .risk-readout {
+    font-variant-numeric: tabular-nums;
+    font-weight: 600;
+    min-width: 28px;
+  }
+
+  table {
+    width: 100%;
+    border-collapse: collapse;
+    margin-top: 16px;
+  }
+
+  thead th {
+    text-align: left;
+    font-size: 12px;
+    font-weight: 600;
+    color: var(--ink-muted);
+    padding: 10px 12px;
+    border-bottom: 1px solid var(--line);
+  }
+
+  tbody td {
+    padding: 12px;
+    border-bottom: 1px solid var(--line);
+    font-size: 14px;
+    vertical-align: middle;
+  }
+
+  tbody tr {
+    cursor: pointer;
+    transition: background 120ms ease;
+  }
+
+  tbody tr:hover { background: var(--accent-soft); }
+
+  .amount { font-variant-numeric: tabular-nums; }
+
+  .risk-cell {
+    display: flex;
+    align-items: center;
+    gap: 8px;
+  }
+
+  .risk-bar {
+    width: 4px;
+    height: 22px;
+    border-radius: 1px;
+  }
+
+  .risk-num {
+    font-weight: 600;
+    font-variant-numeric: tabular-nums;
+  }
+
+  .status-pill {
+    font-size: 12px;
+    padding: 3px 8px;
+    border: 1px solid var(--line);
+    color: var(--ink-muted);
+    display: inline-block;
+  }
+
+  .empty-state {
+    padding: 60px 20px;
+    text-align: center;
+    color: var(--ink-muted);
+  }
+
+  /* Detail drawer */
+  .overlay {
+    position: fixed;
+    inset: 0;
+    background: rgba(28, 36, 48, 0.35);
+    opacity: 0;
+    pointer-events: none;
+    transition: opacity 160ms ease;
+    z-index: 10;
+  }
+
+  .overlay.open { opacity: 1; pointer-events: auto; }
+
+  .drawer {
+    position: fixed;
+    top: 0;
+    right: 0;
+    height: 100%;
+    width: 420px;
+    max-width: 90vw;
+    background: var(--surface);
+    border-left: 1px solid var(--line);
+    transform: translateX(100%);
+    transition: transform 200ms ease;
+    z-index: 11;
+    padding: 32px;
+    overflow-y: auto;
+  }
+
+  .drawer.open { transform: translateX(0); }
+
+  .drawer-close {
+    background: none;
+    border: none;
+    color: var(--ink-muted);
+    font-size: 14px;
+    cursor: pointer;
+    padding: 0;
+    margin-bottom: 24px;
+  }
+
+  .drawer-close:hover { color: var(--ink); }
+
+  .drawer h2 {
+    font-family: 'Source Serif 4', Georgia, serif;
+    font-size: 20px;
+    margin: 0 0 4px;
+  }
+
+  .drawer .work-id {
+    color: var(--ink-muted);
+    font-size: 13px;
+    margin-bottom: 24px;
+  }
+
+  .drawer .risk-badge {
+    display: inline-block;
+    padding: 6px 12px;
+    font-weight: 600;
+    font-size: 14px;
+    margin-bottom: 20px;
+  }
+
+  .drawer dl {
+    display: grid;
+    grid-template-columns: 120px 1fr;
+    row-gap: 12px;
+    column-gap: 12px;
+    font-size: 14px;
+    margin-bottom: 24px;
+  }
+
+  .drawer dt { color: var(--ink-muted); }
+  .drawer dd { margin: 0; }
+
+  .drawer .explanation-block {
+    padding: 16px;
+    background: var(--bg);
+    border-left: 3px solid var(--accent);
+    font-size: 14px;
+    line-height: 1.5;
+  }
+
+  .drawer .explanation-block.high { border-left-color: var(--risk-high); }
+  .drawer .explanation-block.mid { border-left-color: var(--risk-mid); }
+  .drawer .explanation-block.low { border-left-color: var(--risk-low); }
+</style>
+</head>
+<body>
+
+<header>
+  <h1>MPLADS Audit Dashboard</h1>
+  <p>Rule-based and AI-assisted risk scoring across recommended works under the Member of Parliament Local Area Development Scheme.</p>
+</header>
+
+<main>
+  <div class="stats" id="stats">
+    <div class="stat"><div class="label">Total works analyzed</div><div class="value">—</div></div>
+    <div class="stat flagged"><div class="label">Flagged high-risk</div><div class="value">—</div></div>
+    <div class="stat"><div class="label">Flagged value (₹)</div><div class="value">—</div></div>
+  </div>
+
+  <div class="controls">
+    <div class="field">
+      <label for="district-filter">District</label>
+      <select id="district-filter">
+        <option value="">All districts</option>
+      </select>
+    </div>
+    <div class="field risk-field">
+      <label for="risk-filter">Minimum risk score</label>
+      <div style="display:flex; align-items:center; gap:10px;">
+        <input type="range" id="risk-filter" min="0" max="100" value="0" step="5" />
+        <span class="risk-readout" id="risk-readout">0</span>
+      </div>
+    </div>
+  </div>
+
+  <table>
+    <thead>
+      <tr>
+        <th>Work</th>
+        <th>MP</th>
+        <th>District</th>
+        <th>Agency</th>
+        <th>Sanction amount</th>
+        <th>Status</th>
+        <th>Risk</th>
+      </tr>
+    </thead>
+    <tbody id="table-body"></tbody>
+  </table>
+  <div class="empty-state" id="empty-state" style="display:none;">No works match this filter.</div>
+</main>
+
+<div class="overlay" id="overlay"></div>
+<div class="drawer" id="drawer">
+  <button class="drawer-close" id="drawer-close">← Back to table</button>
+  <div id="drawer-content"></div>
+</div>
+
+<script>
+  // Point this at your backend. Change if it's deployed somewhere other
+  // than localhost:8000.
+ const API_BASE = "http://localhost:9000";
+  let allWorks = [];
+
+  function riskLevel(score) {
+    if (score >= 60) return "high";
+    if (score >= 40) return "mid";
+    return "low";
+  }
+
+  function riskColor(level) {
+    return { high: "var(--risk-high)", mid: "var(--risk-mid)", low: "var(--risk-low)" }[level];
+  }
+
+  function formatInr(amount) {
+    return "₹" + Math.round(amount).toLocaleString("en-IN");
+  }
+
+  async function loadSummary() {
+    const res = await fetch(`${API_BASE}/summary`);
+    const data = await res.json();
+    const stats = document.querySelectorAll("#stats .value");
+    stats[0].textContent = data.total_works.toLocaleString("en-IN");
+    stats[1].textContent = `${data.flagged_works} (${data.flagged_percent}%)`;
+    stats[2].textContent = formatInr(data.flagged_value_inr);
+  }
+
+  async function loadWorks(minRisk = 0, district = "") {
+    const params = new URLSearchParams({ min_risk: minRisk, limit: 500 });
+    if (district) params.set("district", district);
+    const res = await fetch(`${API_BASE}/works?${params}`);
+    allWorks = await res.json();
+    renderTable(allWorks);
+    populateDistrictOptions(allWorks);
+  }
+
+  function populateDistrictOptions(works) {
+    const select = document.getElementById("district-filter");
+    const current = select.value;
+    const districts = [...new Set(works.map(w => w.district))].sort();
+    // Only rebuild options the first time, to avoid resetting user's selection
+    if (select.dataset.populated) return;
+    districts.forEach(d => {
+      const opt = document.createElement("option");
+      opt.value = d;
+      opt.textContent = d;
+      select.appendChild(opt);
+    });
+    select.dataset.populated = "true";
+    select.value = current;
+  }
+
+  function renderTable(works) {
+    const tbody = document.getElementById("table-body");
+    const emptyState = document.getElementById("empty-state");
+    tbody.innerHTML = "";
+
+    if (works.length === 0) {
+      emptyState.style.display = "block";
+      return;
+    }
+    emptyState.style.display = "none";
+
+    works.forEach(w => {
+      const level = riskLevel(w.risk_score);
+      const tr = document.createElement("tr");
+      tr.innerHTML = `
+        <td>${w.work_name}</td>
+        <td>${w.mp_name}</td>
+        <td>${w.district}</td>
+        <td>${w.agency}</td>
+        <td class="amount">${formatInr(w.sanction_amount)}</td>
+        <td><span class="status-pill">${w.status}</span></td>
+        <td>
+          <div class="risk-cell">
+            <div class="risk-bar" style="background:${riskColor(level)}"></div>
+            <span class="risk-num">${w.risk_score.toFixed(1)}</span>
+          </div>
+        </td>
+      `;
+      tr.addEventListener("click", () => openDrawer(w));
+      tbody.appendChild(tr);
+    });
+  }
+
+  function openDrawer(work) {
+    const level = riskLevel(work.risk_score);
+    const content = document.getElementById("drawer-content");
+    content.innerHTML = `
+      <h2>${work.work_name}</h2>
+      <div class="work-id">${work.work_id}</div>
+      <div class="risk-badge" style="background:${riskColor(level)}22; color:${riskColor(level)}">
+        Risk score: ${work.risk_score.toFixed(1)} / 100
+      </div>
+      <dl>
+        <dt>MP</dt><dd>${work.mp_name}</dd>
+        <dt>District</dt><dd>${work.district}</dd>
+        <dt>Agency</dt><dd>${work.agency}</dd>
+        <dt>Amount</dt><dd>${formatInr(work.sanction_amount)}</dd>
+        <dt>Status</dt><dd>${work.status}</dd>
+      </dl>
+      <div class="explanation-block ${level}">${work.explanation}</div>
+    `;
+    document.getElementById("overlay").classList.add("open");
+    document.getElementById("drawer").classList.add("open");
+  }
+
+  function closeDrawer() {
+    document.getElementById("overlay").classList.remove("open");
+    document.getElementById("drawer").classList.remove("open");
+  }
+
+  document.getElementById("drawer-close").addEventListener("click", closeDrawer);
+  document.getElementById("overlay").addEventListener("click", closeDrawer);
+
+  document.getElementById("risk-filter").addEventListener("input", (e) => {
+    document.getElementById("risk-readout").textContent = e.target.value;
+  });
+  document.getElementById("risk-filter").addEventListener("change", (e) => {
+    loadWorks(e.target.value, document.getElementById("district-filter").value);
+  });
+  document.getElementById("district-filter").addEventListener("change", (e) => {
+    loadWorks(document.getElementById("risk-filter").value, e.target.value);
+  });
+
+  loadSummary();
+  loadWorks();
+</script>
+
+</body>
+</html>

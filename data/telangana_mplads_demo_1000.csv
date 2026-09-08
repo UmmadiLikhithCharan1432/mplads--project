@@ -1,0 +1,1001 @@
+state,nodal_district,implementing_district,house_name,member_type,mp_name,sanction_amount,date_of_administrative_approval,work_name,unique_work_number,implementing_agency_name,work_status,date_of_receipt_of_work_proposal_from_mp,unit
+Telangana,Adilabad,Adilabad,Lok Sabha,MP,MP_Telangana_06,910267.26,07-12-2024,Road Improvement,TS-MPLADS-0001,Rural Development Agency,Sanctioned,08-08-2024,Km
+Telangana,Bhadradri Kothagudem,Bhadradri Kothagudem,Lok Sabha,MP,MP_Telangana_12,1254912.31,17-09-2021,School Building Repair,TS-MPLADS-0002,Health Department,Under Execution,10-06-2021,Number
+Telangana,Hanamkonda,Hanamkonda,Lok Sabha,MP,MP_Telangana_06,1224372.88,05-01-2022,Drainage Improvement,TS-MPLADS-0003,Municipal Administration,Under Execution,06-08-2021,Meter
+Telangana,Hyderabad,Hyderabad,Lok Sabha,MP,MP_Telangana_10,824443.49,18-03-2024,Bus Shelter,TS-MPLADS-0004,Public Works Department,Completed,31-12-2023,Number
+Telangana,Jagtial,Jagtial,Lok Sabha,MP,MP_Telangana_01,951974.21,08-01-2024,Road Improvement,TS-MPLADS-0005,District Panchayat,Sanctioned,01-08-2023,Km
+Telangana,Jangaon,Jangaon,Lok Sabha,MP,MP_Telangana_05,3835041.29,18-11-2024,Community Hall,TS-MPLADS-0006,Public Works Department,Under Execution,12-07-2024,Number
+Telangana,Jayashankar Bhupalpally,Jayashankar Bhupalpally,Lok Sabha,MP,MP_Telangana_03,602396.77,02-01-2025,Public Toilet,TS-MPLADS-0007,Public Works Department,Completed,16-08-2024,Number
+Telangana,Jogulamba Gadwal,Jogulamba Gadwal,Lok Sabha,MP,MP_Telangana_09,1904493.6,03-02-2022,Drainage Improvement,TS-MPLADS-0008,District Panchayat,Under Execution,20-09-2021,Meter
+Telangana,Kamareddy,Kamareddy,Lok Sabha,MP,MP_Telangana_05,744358.26,18-12-2022,Street Lighting,TS-MPLADS-0009,Water Supply Department,Completed,08-07-2022,Number
+Telangana,Karimnagar,Karimnagar,Lok Sabha,MP,MP_Telangana_06,449601.32,13-12-2021,Street Lighting,TS-MPLADS-0010,Education Department,Sanctioned,09-08-2021,Number
+Telangana,Khammam,Khammam,Lok Sabha,MP,MP_Telangana_10,995556.7,20-02-2023,Health Centre Improvement,TS-MPLADS-0011,Rural Development Agency,In Progress,14-01-2023,Number
+Telangana,Komaram Bheem Asifabad,Komaram Bheem Asifabad,Lok Sabha,MP,MP_Telangana_10,729179.82,06-02-2025,Bus Shelter,TS-MPLADS-0012,Local Body,In Progress,15-11-2024,Number
+Telangana,Mahabubabad,Mahabubabad,Lok Sabha,MP,MP_Telangana_02,1521872.22,02-07-2024,School Building Repair,TS-MPLADS-0013,Water Supply Department,Completed,06-03-2024,Number
+Telangana,Mahabubnagar,Mahabubnagar,Lok Sabha,MP,MP_Telangana_08,420345.0,19-01-2025,Bus Shelter,TS-MPLADS-0014,District Panchayat,Under Execution,30-08-2024,Number
+Telangana,Mancherial,Mancherial,Lok Sabha,MP,MP_Telangana_07,817372.54,26-05-2023,Drainage Improvement,TS-MPLADS-0015,Municipal Administration,Completed,20-02-2023,Meter
+Telangana,Medak,Medak,Lok Sabha,MP,MP_Telangana_06,332927.66,11-06-2024,Street Lighting,TS-MPLADS-0016,Rural Development Agency,Under Execution,11-02-2024,Number
+Telangana,Medchal-Malkajgiri,Medchal-Malkajgiri,Lok Sabha,MP,MP_Telangana_07,1154386.22,31-03-2024,Drainage Improvement,TS-MPLADS-0017,Water Supply Department,In Progress,16-12-2023,Meter
+Telangana,Mulugu,Mulugu,Lok Sabha,MP,MP_Telangana_06,675126.21,02-05-2021,Public Toilet,TS-MPLADS-0018,District Panchayat,In Progress,22-02-2021,Number
+Telangana,Nagarkurnool,Nagarkurnool,Lok Sabha,MP,MP_Telangana_03,1087255.69,05-01-2025,Health Centre Improvement,TS-MPLADS-0019,Water Supply Department,In Progress,21-12-2024,Number
+Telangana,Nalgonda,Nalgonda,Lok Sabha,MP,MP_Telangana_08,1291658.02,06-08-2022,Health Centre Improvement,TS-MPLADS-0020,Education Department,Under Execution,15-05-2022,Number
+Telangana,Narayanpet,Narayanpet,Lok Sabha,MP,MP_Telangana_05,1760039.83,23-04-2024,Health Centre Improvement,TS-MPLADS-0021,District Panchayat,Completed,04-02-2024,Number
+Telangana,Nirmal,Nirmal,Lok Sabha,MP,MP_Telangana_02,526403.41,08-03-2021,Drinking Water Facility,TS-MPLADS-0022,Health Department,In Progress,08-02-2021,Number
+Telangana,Nizamabad,Nizamabad,Lok Sabha,MP,MP_Telangana_07,828272.05,14-03-2022,Bus Shelter,TS-MPLADS-0023,Public Works Department,Sanctioned,02-10-2021,Number
+Telangana,Peddapalli,Peddapalli,Lok Sabha,MP,MP_Telangana_05,517378.77,08-03-2023,Street Lighting,TS-MPLADS-0024,Health Department,Sanctioned,29-01-2023,Number
+Telangana,Rajanna Sircilla,Rajanna Sircilla,Lok Sabha,MP,MP_Telangana_02,314713.67,28-02-2023,Public Toilet,TS-MPLADS-0025,District Panchayat,Under Execution,08-09-2022,Number
+Telangana,Rangareddy,Rangareddy,Lok Sabha,MP,MP_Telangana_09,700822.63,27-06-2025,Drinking Water Facility,TS-MPLADS-0026,Water Supply Department,Under Execution,25-03-2025,Number
+Telangana,Sangareddy,Sangareddy,Lok Sabha,MP,MP_Telangana_09,865502.83,09-10-2024,School Building Repair,TS-MPLADS-0027,Health Department,In Progress,16-08-2024,Number
+Telangana,Siddipet,Siddipet,Lok Sabha,MP,MP_Telangana_11,939350.03,06-09-2021,Road Improvement,TS-MPLADS-0028,Health Department,Completed,13-06-2021,Km
+Telangana,Suryapet,Suryapet,Lok Sabha,MP,MP_Telangana_07,568571.94,30-10-2022,Bus Shelter,TS-MPLADS-0029,Public Works Department,Under Execution,05-06-2022,Number
+Telangana,Vikarabad,Vikarabad,Lok Sabha,MP,MP_Telangana_09,759391.16,14-10-2024,Road Improvement,TS-MPLADS-0030,District Panchayat,Sanctioned,13-07-2024,Km
+Telangana,Wanaparthy,Wanaparthy,Lok Sabha,MP,MP_Telangana_08,1747291.04,16-10-2023,Community Hall,TS-MPLADS-0031,Water Supply Department,In Progress,20-09-2023,Number
+Telangana,Warangal,Warangal,Lok Sabha,MP,MP_Telangana_06,937642.99,21-04-2021,Bus Shelter,TS-MPLADS-0032,Health Department,Completed,12-03-2021,Number
+Telangana,Yadadri Bhuvanagiri,Yadadri Bhuvanagiri,Lok Sabha,MP,MP_Telangana_08,399692.32,03-08-2021,Public Toilet,TS-MPLADS-0033,District Panchayat,Under Execution,25-06-2021,Number
+Telangana,Adilabad,Adilabad,Lok Sabha,MP,MP_Telangana_05,1873424.31,09-12-2023,Health Centre Improvement,TS-MPLADS-0034,District Panchayat,Completed,15-09-2023,Number
+Telangana,Bhadradri Kothagudem,Bhadradri Kothagudem,Lok Sabha,MP,MP_Telangana_06,2789941.36,07-09-2025,Community Hall,TS-MPLADS-0035,Rural Development Agency,Completed,18-06-2025,Number
+Telangana,Hanamkonda,Hanamkonda,Lok Sabha,MP,MP_Telangana_06,1387307.56,10-08-2023,School Building Repair,TS-MPLADS-0036,Municipal Administration,Sanctioned,08-04-2023,Number
+Telangana,Hyderabad,Hyderabad,Lok Sabha,MP,MP_Telangana_04,677131.42,10-08-2023,Drainage Improvement,TS-MPLADS-0037,Education Department,Sanctioned,16-03-2023,Meter
+Telangana,Jagtial,Jagtial,Lok Sabha,MP,MP_Telangana_01,1452219.51,16-03-2023,Library Building,TS-MPLADS-0038,Rural Development Agency,Under Execution,17-01-2023,Number
+Telangana,Jangaon,Jangaon,Lok Sabha,MP,MP_Telangana_07,500824.5,27-10-2021,Drainage Improvement,TS-MPLADS-0039,Health Department,Sanctioned,27-08-2021,Meter
+Telangana,Jayashankar Bhupalpally,Jayashankar Bhupalpally,Lok Sabha,MP,MP_Telangana_08,4641632.8,14-06-2022,Community Hall,TS-MPLADS-0040,Local Body,Under Execution,24-04-2022,Number
+Telangana,Jogulamba Gadwal,Jogulamba Gadwal,Lok Sabha,MP,MP_Telangana_11,528414.71,25-10-2021,Drinking Water Facility,TS-MPLADS-0041,Municipal Administration,Completed,03-07-2021,Number
+Telangana,Kamareddy,Kamareddy,Lok Sabha,MP,MP_Telangana_05,1875368.91,24-03-2025,Community Hall,TS-MPLADS-0042,Public Works Department,Under Execution,02-08-2023,Number
+Telangana,Karimnagar,Karimnagar,Lok Sabha,MP,MP_Telangana_12,1716346.57,07-08-2022,Health Centre Improvement,TS-MPLADS-0043,Education Department,Sanctioned,24-06-2022,Number
+Telangana,Khammam,Khammam,Lok Sabha,MP,MP_Telangana_12,1753458.95,06-09-2022,Health Centre Improvement,TS-MPLADS-0044,Education Department,Completed,12-03-2022,Number
+Telangana,Komaram Bheem Asifabad,Komaram Bheem Asifabad,Lok Sabha,MP,MP_Telangana_12,1274721.0,03-07-2023,School Building Repair,TS-MPLADS-0045,Rural Development Agency,Sanctioned,10-01-2023,Number
+Telangana,Mahabubabad,Mahabubabad,Lok Sabha,MP,MP_Telangana_11,1105214.19,11-04-2025,Library Building,TS-MPLADS-0046,Public Works Department,In Progress,23-02-2025,Number
+Telangana,Mahabubnagar,Mahabubnagar,Lok Sabha,MP,MP_Telangana_08,1030996.8,11-10-2024,Road Improvement,TS-MPLADS-0047,Local Body,Completed,05-08-2024,Km
+Telangana,Mancherial,Mancherial,Lok Sabha,MP,MP_Telangana_04,456010.65,05-09-2024,Bus Shelter,TS-MPLADS-0048,Local Body,Completed,23-06-2024,Number
+Telangana,Medak,Medak,Lok Sabha,MP,MP_Telangana_10,657371.04,18-08-2021,Road Improvement,TS-MPLADS-0049,Health Department,Completed,28-07-2021,Km
+Telangana,Medchal-Malkajgiri,Medchal-Malkajgiri,Lok Sabha,MP,MP_Telangana_11,1308315.05,25-02-2024,Drinking Water Facility,TS-MPLADS-0050,District Panchayat,In Progress,16-10-2023,Number
+Telangana,Mulugu,Mulugu,Lok Sabha,MP,MP_Telangana_12,1497313.43,17-10-2024,Health Centre Improvement,TS-MPLADS-0051,Public Works Department,Completed,14-08-2024,Number
+Telangana,Nagarkurnool,Nagarkurnool,Lok Sabha,MP,MP_Telangana_03,1548319.0,04-03-2021,Health Centre Improvement,TS-MPLADS-0052,Rural Development Agency,Sanctioned,24-01-2021,Number
+Telangana,Nalgonda,Nalgonda,Lok Sabha,MP,MP_Telangana_07,1116651.54,25-09-2021,Health Centre Improvement,TS-MPLADS-0053,Water Supply Department,Sanctioned,27-07-2021,Number
+Telangana,Narayanpet,Narayanpet,Lok Sabha,MP,MP_Telangana_10,826744.37,11-05-2022,Street Lighting,TS-MPLADS-0054,Rural Development Agency,Sanctioned,06-12-2021,Number
+Telangana,Nirmal,Nirmal,Lok Sabha,MP,MP_Telangana_02,1186466.98,02-11-2021,Library Building,TS-MPLADS-0055,Rural Development Agency,In Progress,11-08-2021,Number
+Telangana,Nizamabad,Nizamabad,Lok Sabha,MP,MP_Telangana_06,1810866.59,28-06-2022,Health Centre Improvement,TS-MPLADS-0056,District Panchayat,Under Execution,27-05-2022,Number
+Telangana,Peddapalli,Peddapalli,Lok Sabha,MP,MP_Telangana_12,832176.18,22-10-2022,Drainage Improvement,TS-MPLADS-0057,Education Department,Sanctioned,02-05-2022,Meter
+Telangana,Rajanna Sircilla,Rajanna Sircilla,Lok Sabha,MP,MP_Telangana_02,2580445.75,14-05-2024,Community Hall,TS-MPLADS-0058,Health Department,In Progress,14-12-2023,Number
+Telangana,Rangareddy,Rangareddy,Lok Sabha,MP,MP_Telangana_08,519281.0,08-08-2025,Road Improvement,TS-MPLADS-0059,Health Department,Under Execution,01-07-2025,Km
+Telangana,Sangareddy,Sangareddy,Lok Sabha,MP,MP_Telangana_10,670076.18,01-07-2023,Street Lighting,TS-MPLADS-0060,Health Department,Completed,06-03-2023,Number
+Telangana,Siddipet,Siddipet,Lok Sabha,MP,MP_Telangana_10,3961729.0300000003,02-01-2025,School Building Repair,TS-MPLADS-0061,District Panchayat,Sanctioned,11-11-2024,Number
+Telangana,Suryapet,Suryapet,Lok Sabha,MP,MP_Telangana_11,1517690.46,13-04-2024,Bus Shelter,TS-MPLADS-0062,District Panchayat,In Progress,28-10-2023,Number
+Telangana,Vikarabad,Vikarabad,Lok Sabha,MP,MP_Telangana_06,2418866.01,15-03-2023,Community Hall,TS-MPLADS-0063,Local Body,Under Execution,29-09-2022,Number
+Telangana,Wanaparthy,Wanaparthy,Lok Sabha,MP,MP_Telangana_03,764696.43,22-05-2023,School Building Repair,TS-MPLADS-0064,Local Body,Sanctioned,11-02-2023,Number
+Telangana,Warangal,Warangal,Lok Sabha,MP,MP_Telangana_02,663618.18,11-04-2025,Library Building,TS-MPLADS-0065,Public Works Department,Sanctioned,20-10-2024,Number
+Telangana,Yadadri Bhuvanagiri,Yadadri Bhuvanagiri,Lok Sabha,MP,MP_Telangana_10,566349.71,18-10-2021,Drinking Water Facility,TS-MPLADS-0066,Local Body,Completed,06-09-2021,Number
+Telangana,Adilabad,Adilabad,Lok Sabha,MP,MP_Telangana_02,1314965.57,04-08-2025,Health Centre Improvement,TS-MPLADS-0067,Education Department,Completed,15-04-2025,Number
+Telangana,Bhadradri Kothagudem,Bhadradri Kothagudem,Lok Sabha,MP,MP_Telangana_01,546587.3,25-10-2021,Street Lighting,TS-MPLADS-0068,Municipal Administration,Completed,16-07-2021,Number
+Telangana,Hanamkonda,Hanamkonda,Lok Sabha,MP,MP_Telangana_08,1425397.23,22-06-2021,Library Building,TS-MPLADS-0069,Water Supply Department,In Progress,01-04-2021,Number
+Telangana,Hyderabad,Hyderabad,Lok Sabha,MP,MP_Telangana_07,1000029.54,19-12-2022,Library Building,TS-MPLADS-0070,Water Supply Department,Under Execution,25-06-2022,Number
+Telangana,Jagtial,Jagtial,Lok Sabha,MP,MP_Telangana_03,2409860.44,16-06-2021,Drainage Improvement,TS-MPLADS-0071,Municipal Administration,Completed,15-03-2021,Meter
+Telangana,Jangaon,Jangaon,Lok Sabha,MP,MP_Telangana_05,382809.73,17-02-2024,Public Toilet,TS-MPLADS-0072,Rural Development Agency,In Progress,30-08-2023,Number
+Telangana,Jayashankar Bhupalpally,Jayashankar Bhupalpally,Lok Sabha,MP,MP_Telangana_02,2275876.25,18-11-2023,Health Centre Improvement,TS-MPLADS-0073,Rural Development Agency,Completed,10-06-2023,Number
+Telangana,Jogulamba Gadwal,Jogulamba Gadwal,Lok Sabha,MP,MP_Telangana_02,830089.17,27-08-2025,Street Lighting,TS-MPLADS-0074,Water Supply Department,Under Execution,22-04-2025,Number
+Telangana,Kamareddy,Kamareddy,Lok Sabha,MP,MP_Telangana_10,1316033.88,26-09-2025,School Building Repair,TS-MPLADS-0075,Health Department,Sanctioned,24-07-2025,Number
+Telangana,Karimnagar,Karimnagar,Lok Sabha,MP,MP_Telangana_02,457792.5,30-12-2024,Public Toilet,TS-MPLADS-0076,District Panchayat,Sanctioned,17-08-2024,Number
+Telangana,Khammam,Khammam,Lok Sabha,MP,MP_Telangana_06,1380668.1,28-05-2025,Health Centre Improvement,TS-MPLADS-0077,Health Department,Sanctioned,28-12-2024,Number
+Telangana,Komaram Bheem Asifabad,Komaram Bheem Asifabad,Lok Sabha,MP,MP_Telangana_02,648864.69,18-04-2022,School Building Repair,TS-MPLADS-0078,Municipal Administration,In Progress,29-03-2022,Number
+Telangana,Mahabubabad,Mahabubabad,Lok Sabha,MP,MP_Telangana_05,676510.46,08-04-2022,Public Toilet,TS-MPLADS-0079,Health Department,In Progress,31-01-2022,Number
+Telangana,Mahabubnagar,Mahabubnagar,Lok Sabha,MP,MP_Telangana_09,533719.27,18-11-2022,Street Lighting,TS-MPLADS-0080,Water Supply Department,Under Execution,08-10-2022,Number
+Telangana,Mancherial,Mancherial,Lok Sabha,MP,MP_Telangana_06,754988.31,09-09-2025,Public Toilet,TS-MPLADS-0081,Public Works Department,Sanctioned,07-04-2025,Number
+Telangana,Medak,Medak,Lok Sabha,MP,MP_Telangana_08,2004232.05,16-03-2025,Health Centre Improvement,TS-MPLADS-0082,Education Department,Sanctioned,13-12-2024,Number
+Telangana,Medchal-Malkajgiri,Medchal-Malkajgiri,Lok Sabha,MP,MP_Telangana_04,989732.51,03-01-2024,Bus Shelter,TS-MPLADS-0083,Rural Development Agency,Completed,12-12-2023,Number
+Telangana,Mulugu,Mulugu,Lok Sabha,MP,MP_Telangana_11,922450.67,30-06-2024,Drainage Improvement,TS-MPLADS-0084,Local Body,Sanctioned,27-03-2024,Meter
+Telangana,Nagarkurnool,Nagarkurnool,Lok Sabha,MP,MP_Telangana_09,645728.57,04-10-2021,Public Toilet,TS-MPLADS-0085,Education Department,Under Execution,11-06-2021,Number
+Telangana,Nalgonda,Nalgonda,Lok Sabha,MP,MP_Telangana_12,583872.36,11-02-2022,Bus Shelter,TS-MPLADS-0086,Public Works Department,Sanctioned,22-08-2021,Number
+Telangana,Narayanpet,Narayanpet,Lok Sabha,MP,MP_Telangana_10,420787.76,18-02-2025,Street Lighting,TS-MPLADS-0087,Rural Development Agency,In Progress,23-08-2024,Number
+Telangana,Nirmal,Nirmal,Lok Sabha,MP,MP_Telangana_02,780772.37,19-10-2023,Bus Shelter,TS-MPLADS-0088,Municipal Administration,Sanctioned,01-10-2023,Number
+Telangana,Nizamabad,Nizamabad,Lok Sabha,MP,MP_Telangana_06,778686.63,30-11-2023,Road Improvement,TS-MPLADS-0089,Health Department,Under Execution,01-09-2023,Km
+Telangana,Peddapalli,Peddapalli,Lok Sabha,MP,MP_Telangana_06,728572.39,27-12-2024,Health Centre Improvement,TS-MPLADS-0090,Municipal Administration,Under Execution,20-09-2024,Number
+Telangana,Rajanna Sircilla,Rajanna Sircilla,Lok Sabha,MP,MP_Telangana_02,1676288.57,13-12-2021,Library Building,TS-MPLADS-0091,Public Works Department,Sanctioned,23-07-2021,Number
+Telangana,Rangareddy,Rangareddy,Lok Sabha,MP,MP_Telangana_10,930663.36,28-05-2023,Bus Shelter,TS-MPLADS-0092,Health Department,In Progress,13-12-2022,Number
+Telangana,Sangareddy,Sangareddy,Lok Sabha,MP,MP_Telangana_10,769468.85,03-08-2025,Bus Shelter,TS-MPLADS-0093,Water Supply Department,In Progress,08-03-2025,Number
+Telangana,Siddipet,Siddipet,Lok Sabha,MP,MP_Telangana_02,1029246.87,21-08-2022,Drainage Improvement,TS-MPLADS-0094,Rural Development Agency,Under Execution,19-06-2022,Meter
+Telangana,Suryapet,Suryapet,Lok Sabha,MP,MP_Telangana_05,1511570.12,30-05-2023,Drainage Improvement,TS-MPLADS-0095,Municipal Administration,Sanctioned,15-01-2023,Meter
+Telangana,Vikarabad,Vikarabad,Lok Sabha,MP,MP_Telangana_10,2015767.32,21-07-2025,Health Centre Improvement,TS-MPLADS-0096,Municipal Administration,In Progress,11-05-2025,Number
+Telangana,Wanaparthy,Wanaparthy,Lok Sabha,MP,MP_Telangana_09,671319.46,15-08-2025,Public Toilet,TS-MPLADS-0097,Public Works Department,Completed,05-08-2025,Number
+Telangana,Warangal,Warangal,Lok Sabha,MP,MP_Telangana_08,595168.19,24-05-2025,School Building Repair,TS-MPLADS-0098,Public Works Department,Sanctioned,16-12-2024,Number
+Telangana,Yadadri Bhuvanagiri,Yadadri Bhuvanagiri,Lok Sabha,MP,MP_Telangana_01,1107015.66,22-06-2024,Road Improvement,TS-MPLADS-0099,Health Department,Under Execution,12-03-2024,Km
+Telangana,Adilabad,Adilabad,Lok Sabha,MP,MP_Telangana_06,454401.86,08-11-2022,Street Lighting,TS-MPLADS-0100,Rural Development Agency,In Progress,18-05-2022,Number
+Telangana,Bhadradri Kothagudem,Bhadradri Kothagudem,Lok Sabha,MP,MP_Telangana_10,548905.72,24-08-2025,Drainage Improvement,TS-MPLADS-0101,Public Works Department,Under Execution,11-04-2025,Meter
+Telangana,Hanamkonda,Hanamkonda,Lok Sabha,MP,MP_Telangana_04,822102.72,09-06-2025,Road Improvement,TS-MPLADS-0102,Rural Development Agency,Completed,03-02-2025,Km
+Telangana,Hyderabad,Hyderabad,Lok Sabha,MP,MP_Telangana_08,524787.07,09-09-2025,Public Toilet,TS-MPLADS-0103,Education Department,Completed,26-08-2025,Number
+Telangana,Jagtial,Jagtial,Lok Sabha,MP,MP_Telangana_01,390712.68,08-08-2025,Public Toilet,TS-MPLADS-0104,Public Works Department,Completed,05-03-2025,Number
+Telangana,Jangaon,Jangaon,Lok Sabha,MP,MP_Telangana_03,871264.73,07-01-2025,Library Building,TS-MPLADS-0105,District Panchayat,Sanctioned,13-08-2024,Number
+Telangana,Jayashankar Bhupalpally,Jayashankar Bhupalpally,Lok Sabha,MP,MP_Telangana_01,2005306.21,13-03-2021,Health Centre Improvement,TS-MPLADS-0106,Water Supply Department,Sanctioned,03-03-2021,Number
+Telangana,Jogulamba Gadwal,Jogulamba Gadwal,Lok Sabha,MP,MP_Telangana_03,662787.71,16-03-2025,Health Centre Improvement,TS-MPLADS-0107,Municipal Administration,Completed,24-09-2024,Number
+Telangana,Kamareddy,Kamareddy,Lok Sabha,MP,MP_Telangana_12,535839.47,16-03-2025,Public Toilet,TS-MPLADS-0108,Water Supply Department,Sanctioned,23-09-2024,Number
+Telangana,Karimnagar,Karimnagar,Lok Sabha,MP,MP_Telangana_01,763906.94,18-02-2025,Library Building,TS-MPLADS-0109,Rural Development Agency,Completed,25-11-2024,Number
+Telangana,Khammam,Khammam,Lok Sabha,MP,MP_Telangana_09,516384.91,17-08-2023,Public Toilet,TS-MPLADS-0110,Rural Development Agency,Under Execution,08-05-2023,Number
+Telangana,Komaram Bheem Asifabad,Komaram Bheem Asifabad,Lok Sabha,MP,MP_Telangana_09,439695.66,16-02-2022,Street Lighting,TS-MPLADS-0111,Rural Development Agency,In Progress,21-09-2021,Number
+Telangana,Mahabubabad,Mahabubabad,Lok Sabha,MP,MP_Telangana_12,431521.27,28-07-2024,Road Improvement,TS-MPLADS-0112,Education Department,Completed,21-04-2024,Km
+Telangana,Mahabubnagar,Mahabubnagar,Lok Sabha,MP,MP_Telangana_01,668609.38,24-11-2023,Road Improvement,TS-MPLADS-0113,Public Works Department,Sanctioned,14-11-2023,Km
+Telangana,Mancherial,Mancherial,Lok Sabha,MP,MP_Telangana_02,497733.39,03-01-2022,Street Lighting,TS-MPLADS-0114,Public Works Department,Under Execution,22-10-2021,Number
+Telangana,Medak,Medak,Lok Sabha,MP,MP_Telangana_10,842319.37,01-06-2023,Drainage Improvement,TS-MPLADS-0115,Water Supply Department,Sanctioned,19-02-2023,Meter
+Telangana,Medchal-Malkajgiri,Medchal-Malkajgiri,Lok Sabha,MP,MP_Telangana_12,532165.48,26-10-2021,Street Lighting,TS-MPLADS-0116,Public Works Department,Sanctioned,04-09-2021,Number
+Telangana,Mulugu,Mulugu,Lok Sabha,MP,MP_Telangana_08,1329425.43,27-05-2024,Drainage Improvement,TS-MPLADS-0117,Municipal Administration,Completed,04-04-2024,Meter
+Telangana,Nagarkurnool,Nagarkurnool,Lok Sabha,MP,MP_Telangana_05,1187712.01,19-09-2023,Street Lighting,TS-MPLADS-0118,Municipal Administration,Completed,15-05-2023,Number
+Telangana,Nalgonda,Nalgonda,Lok Sabha,MP,MP_Telangana_04,2186165.65,03-02-2022,Health Centre Improvement,TS-MPLADS-0119,Education Department,In Progress,16-08-2021,Number
+Telangana,Narayanpet,Narayanpet,Lok Sabha,MP,MP_Telangana_08,781291.41,22-01-2024,Bus Shelter,TS-MPLADS-0120,Municipal Administration,In Progress,05-11-2023,Number
+Telangana,Nirmal,Nirmal,Lok Sabha,MP,MP_Telangana_08,676323.05,25-06-2022,Library Building,TS-MPLADS-0121,Local Body,Completed,05-01-2022,Number
+Telangana,Nizamabad,Nizamabad,Lok Sabha,MP,MP_Telangana_06,12370682.799999999,14-03-2023,School Building Repair,TS-MPLADS-0122,Rural Development Agency,Sanctioned,13-12-2022,Number
+Telangana,Peddapalli,Peddapalli,Lok Sabha,MP,MP_Telangana_09,724212.16,08-12-2023,Drinking Water Facility,TS-MPLADS-0123,Education Department,Sanctioned,20-08-2023,Number
+Telangana,Rajanna Sircilla,Rajanna Sircilla,Lok Sabha,MP,MP_Telangana_10,725568.97,12-08-2022,Public Toilet,TS-MPLADS-0124,Municipal Administration,In Progress,22-06-2022,Number
+Telangana,Rangareddy,Rangareddy,Lok Sabha,MP,MP_Telangana_05,973086.2,09-03-2024,Drainage Improvement,TS-MPLADS-0125,Water Supply Department,Sanctioned,01-12-2023,Meter
+Telangana,Sangareddy,Sangareddy,Lok Sabha,MP,MP_Telangana_12,882289.86,18-03-2025,Drainage Improvement,TS-MPLADS-0126,Health Department,Sanctioned,15-02-2025,Meter
+Telangana,Siddipet,Siddipet,Lok Sabha,MP,MP_Telangana_04,890727.74,11-11-2024,School Building Repair,TS-MPLADS-0127,Public Works Department,In Progress,21-09-2024,Number
+Telangana,Suryapet,Suryapet,Lok Sabha,MP,MP_Telangana_01,1023446.15,04-08-2021,Road Improvement,TS-MPLADS-0128,Water Supply Department,Completed,16-07-2021,Km
+Telangana,Vikarabad,Vikarabad,Lok Sabha,MP,MP_Telangana_05,628316.97,07-08-2022,Road Improvement,TS-MPLADS-0129,Health Department,In Progress,23-04-2022,Km
+Telangana,Wanaparthy,Wanaparthy,Lok Sabha,MP,MP_Telangana_01,348729.36,26-11-2024,Road Improvement,TS-MPLADS-0130,Health Department,Under Execution,16-06-2024,Km
+Telangana,Warangal,Warangal,Lok Sabha,MP,MP_Telangana_02,466431.69,02-02-2023,Street Lighting,TS-MPLADS-0131,Health Department,Completed,25-09-2022,Number
+Telangana,Yadadri Bhuvanagiri,Yadadri Bhuvanagiri,Lok Sabha,MP,MP_Telangana_12,2099679.55,17-12-2022,Drainage Improvement,TS-MPLADS-0132,Public Works Department,Under Execution,13-09-2022,Meter
+Telangana,Adilabad,Adilabad,Lok Sabha,MP,MP_Telangana_09,347440.78,01-11-2022,Street Lighting,TS-MPLADS-0133,Water Supply Department,In Progress,13-06-2022,Number
+Telangana,Bhadradri Kothagudem,Bhadradri Kothagudem,Lok Sabha,MP,MP_Telangana_01,1978318.52,01-03-2024,Health Centre Improvement,TS-MPLADS-0134,Water Supply Department,Sanctioned,26-12-2023,Number
+Telangana,Hanamkonda,Hanamkonda,Lok Sabha,MP,MP_Telangana_02,821527.2,13-02-2022,Street Lighting,TS-MPLADS-0135,Local Body,Under Execution,06-10-2021,Number
+Telangana,Hyderabad,Hyderabad,Lok Sabha,MP,MP_Telangana_11,16758402.5,17-09-2023,Health Centre Improvement,TS-MPLADS-0136,Health Department,Completed,04-08-2023,Number
+Telangana,Jagtial,Jagtial,Lok Sabha,MP,MP_Telangana_05,1497662.32,05-07-2023,Drainage Improvement,TS-MPLADS-0137,Water Supply Department,Under Execution,02-02-2023,Meter
+Telangana,Jangaon,Jangaon,Lok Sabha,MP,MP_Telangana_06,616748.1,09-04-2023,Road Improvement,TS-MPLADS-0138,District Panchayat,Completed,08-01-2023,Km
+Telangana,Jayashankar Bhupalpally,Jayashankar Bhupalpally,Lok Sabha,MP,MP_Telangana_01,693714.96,08-09-2025,School Building Repair,TS-MPLADS-0139,Municipal Administration,In Progress,23-03-2025,Number
+Telangana,Jogulamba Gadwal,Jogulamba Gadwal,Lok Sabha,MP,MP_Telangana_08,1081446.64,10-10-2023,Community Hall,TS-MPLADS-0140,Rural Development Agency,Completed,14-04-2023,Number
+Telangana,Kamareddy,Kamareddy,Lok Sabha,MP,MP_Telangana_11,1308661.19,21-07-2022,School Building Repair,TS-MPLADS-0141,Education Department,Sanctioned,19-02-2022,Number
+Telangana,Karimnagar,Karimnagar,Lok Sabha,MP,MP_Telangana_10,644268.48,08-07-2024,Street Lighting,TS-MPLADS-0142,Health Department,In Progress,14-02-2024,Number
+Telangana,Khammam,Khammam,Lok Sabha,MP,MP_Telangana_05,800986.12,13-12-2023,Bus Shelter,TS-MPLADS-0143,District Panchayat,In Progress,07-07-2023,Number
+Telangana,Komaram Bheem Asifabad,Komaram Bheem Asifabad,Lok Sabha,MP,MP_Telangana_11,872979.26,04-12-2024,Drainage Improvement,TS-MPLADS-0144,Public Works Department,Under Execution,30-07-2024,Meter
+Telangana,Mahabubabad,Mahabubabad,Lok Sabha,MP,MP_Telangana_11,517519.19,26-10-2023,Drinking Water Facility,TS-MPLADS-0145,Education Department,In Progress,26-09-2023,Number
+Telangana,Mahabubnagar,Mahabubnagar,Lok Sabha,MP,MP_Telangana_02,975565.35,28-09-2023,Library Building,TS-MPLADS-0146,Local Body,Under Execution,23-06-2023,Number
+Telangana,Mancherial,Mancherial,Lok Sabha,MP,MP_Telangana_03,685173.91,23-02-2024,Public Toilet,TS-MPLADS-0147,District Panchayat,Completed,09-12-2023,Number
+Telangana,Medak,Medak,Lok Sabha,MP,MP_Telangana_12,1453931.59,05-06-2021,School Building Repair,TS-MPLADS-0148,Public Works Department,In Progress,12-02-2021,Number
+Telangana,Medchal-Malkajgiri,Medchal-Malkajgiri,Lok Sabha,MP,MP_Telangana_01,2740124.25,29-01-2024,Community Hall,TS-MPLADS-0149,Municipal Administration,Sanctioned,15-10-2023,Number
+Telangana,Mulugu,Mulugu,Lok Sabha,MP,MP_Telangana_12,1436636.5,23-04-2024,Drainage Improvement,TS-MPLADS-0150,Local Body,In Progress,14-12-2023,Meter
+Telangana,Nagarkurnool,Nagarkurnool,Lok Sabha,MP,MP_Telangana_11,645320.89,15-11-2024,Health Centre Improvement,TS-MPLADS-0151,District Panchayat,Under Execution,18-07-2024,Number
+Telangana,Nalgonda,Nalgonda,Lok Sabha,MP,MP_Telangana_11,642037.6,18-11-2024,Public Toilet,TS-MPLADS-0152,Education Department,Sanctioned,22-08-2024,Number
+Telangana,Narayanpet,Narayanpet,Lok Sabha,MP,MP_Telangana_07,1085897.6,19-05-2023,Library Building,TS-MPLADS-0153,Public Works Department,Under Execution,19-01-2023,Number
+Telangana,Nirmal,Nirmal,Lok Sabha,MP,MP_Telangana_04,4729149.28,06-09-2025,Community Hall,TS-MPLADS-0154,Local Body,Sanctioned,01-08-2025,Number
+Telangana,Nizamabad,Nizamabad,Lok Sabha,MP,MP_Telangana_02,319332.82,23-08-2022,Public Toilet,TS-MPLADS-0155,Education Department,Under Execution,13-08-2022,Number
+Telangana,Peddapalli,Peddapalli,Lok Sabha,MP,MP_Telangana_12,1632391.32,18-09-2023,Health Centre Improvement,TS-MPLADS-0156,District Panchayat,Under Execution,13-04-2023,Number
+Telangana,Rajanna Sircilla,Rajanna Sircilla,Lok Sabha,MP,MP_Telangana_10,1874567.72,23-12-2022,School Building Repair,TS-MPLADS-0157,Municipal Administration,Sanctioned,01-12-2022,Number
+Telangana,Rangareddy,Rangareddy,Lok Sabha,MP,MP_Telangana_12,1175464.93,19-11-2024,Drainage Improvement,TS-MPLADS-0158,Municipal Administration,Completed,25-09-2024,Meter
+Telangana,Sangareddy,Sangareddy,Lok Sabha,MP,MP_Telangana_01,487393.85,17-03-2023,Road Improvement,TS-MPLADS-0159,Local Body,Sanctioned,26-09-2022,Km
+Telangana,Siddipet,Siddipet,Lok Sabha,MP,MP_Telangana_10,527828.13,26-08-2024,Bus Shelter,TS-MPLADS-0160,Health Department,Sanctioned,27-04-2024,Number
+Telangana,Suryapet,Suryapet,Lok Sabha,MP,MP_Telangana_01,645302.92,06-12-2024,Drinking Water Facility,TS-MPLADS-0161,Rural Development Agency,Sanctioned,23-09-2024,Number
+Telangana,Vikarabad,Vikarabad,Lok Sabha,MP,MP_Telangana_01,1318429.51,24-03-2025,School Building Repair,TS-MPLADS-0162,District Panchayat,Sanctioned,29-12-2024,Number
+Telangana,Wanaparthy,Wanaparthy,Lok Sabha,MP,MP_Telangana_05,779241.76,09-07-2021,Drainage Improvement,TS-MPLADS-0163,Education Department,Sanctioned,20-02-2021,Meter
+Telangana,Warangal,Warangal,Lok Sabha,MP,MP_Telangana_11,2108864.19,30-04-2022,School Building Repair,TS-MPLADS-0164,Water Supply Department,Under Execution,09-02-2022,Number
+Telangana,Yadadri Bhuvanagiri,Yadadri Bhuvanagiri,Lok Sabha,MP,MP_Telangana_08,1345540.4,01-10-2022,Health Centre Improvement,TS-MPLADS-0165,Rural Development Agency,In Progress,24-05-2022,Number
+Telangana,Adilabad,Adilabad,Lok Sabha,MP,MP_Telangana_03,1102395.88,23-07-2025,Drainage Improvement,TS-MPLADS-0166,Health Department,In Progress,16-02-2025,Meter
+Telangana,Bhadradri Kothagudem,Bhadradri Kothagudem,Lok Sabha,MP,MP_Telangana_10,1230738.16,25-07-2024,Street Lighting,TS-MPLADS-0167,Health Department,In Progress,04-05-2024,Number
+Telangana,Hanamkonda,Hanamkonda,Lok Sabha,MP,MP_Telangana_02,868198.35,05-03-2023,Bus Shelter,TS-MPLADS-0168,Municipal Administration,Under Execution,25-11-2022,Number
+Telangana,Hyderabad,Hyderabad,Lok Sabha,MP,MP_Telangana_08,1059224.19,18-08-2024,Library Building,TS-MPLADS-0169,Public Works Department,Under Execution,06-04-2024,Number
+Telangana,Jagtial,Jagtial,Lok Sabha,MP,MP_Telangana_02,2151321.32,02-07-2023,School Building Repair,TS-MPLADS-0170,Rural Development Agency,Completed,25-04-2023,Number
+Telangana,Jangaon,Jangaon,Lok Sabha,MP,MP_Telangana_01,590190.4,24-03-2022,Drinking Water Facility,TS-MPLADS-0171,Local Body,Sanctioned,10-12-2021,Number
+Telangana,Jayashankar Bhupalpally,Jayashankar Bhupalpally,Lok Sabha,MP,MP_Telangana_06,553116.34,01-11-2022,Library Building,TS-MPLADS-0172,Local Body,Under Execution,07-08-2022,Number
+Telangana,Jogulamba Gadwal,Jogulamba Gadwal,Lok Sabha,MP,MP_Telangana_04,874663.33,01-01-2024,Drainage Improvement,TS-MPLADS-0173,Public Works Department,Completed,09-07-2023,Meter
+Telangana,Kamareddy,Kamareddy,Lok Sabha,MP,MP_Telangana_11,749527.66,16-12-2022,Drainage Improvement,TS-MPLADS-0174,Local Body,Sanctioned,08-07-2022,Meter
+Telangana,Karimnagar,Karimnagar,Lok Sabha,MP,MP_Telangana_08,934695.35,25-01-2024,School Building Repair,TS-MPLADS-0175,Water Supply Department,Completed,02-10-2023,Number
+Telangana,Khammam,Khammam,Lok Sabha,MP,MP_Telangana_02,19339362.07,12-08-2022,School Building Repair,TS-MPLADS-0176,Rural Development Agency,Sanctioned,03-07-2022,Number
+Telangana,Komaram Bheem Asifabad,Komaram Bheem Asifabad,Lok Sabha,MP,MP_Telangana_10,1597105.79,26-12-2024,School Building Repair,TS-MPLADS-0177,Water Supply Department,In Progress,08-09-2024,Number
+Telangana,Mahabubabad,Mahabubabad,Lok Sabha,MP,MP_Telangana_09,1287976.64,06-12-2025,Health Centre Improvement,TS-MPLADS-0178,Public Works Department,Completed,18-08-2025,Number
+Telangana,Mahabubnagar,Mahabubnagar,Lok Sabha,MP,MP_Telangana_02,2129094.05,17-10-2023,Community Hall,TS-MPLADS-0179,District Panchayat,Under Execution,14-08-2023,Number
+Telangana,Mancherial,Mancherial,Lok Sabha,MP,MP_Telangana_06,976816.79,06-11-2023,Bus Shelter,TS-MPLADS-0180,Local Body,Under Execution,22-05-2023,Number
+Telangana,Medak,Medak,Lok Sabha,MP,MP_Telangana_01,310739.75,23-08-2021,Bus Shelter,TS-MPLADS-0181,Education Department,Completed,25-06-2021,Number
+Telangana,Medchal-Malkajgiri,Medchal-Malkajgiri,Lok Sabha,MP,MP_Telangana_07,2214448.02,08-04-2023,Health Centre Improvement,TS-MPLADS-0182,Rural Development Agency,Completed,13-02-2023,Number
+Telangana,Mulugu,Mulugu,Lok Sabha,MP,MP_Telangana_05,1443702.17,04-11-2021,Library Building,TS-MPLADS-0183,Local Body,Sanctioned,09-07-2021,Number
+Telangana,Nagarkurnool,Nagarkurnool,Lok Sabha,MP,MP_Telangana_04,555235.31,12-06-2022,Street Lighting,TS-MPLADS-0184,Municipal Administration,In Progress,18-12-2021,Number
+Telangana,Nalgonda,Nalgonda,Lok Sabha,MP,MP_Telangana_02,1740223.22,03-03-2021,Community Hall,TS-MPLADS-0185,Municipal Administration,Completed,03-01-2021,Number
+Telangana,Narayanpet,Narayanpet,Lok Sabha,MP,MP_Telangana_06,1446393.84,09-07-2023,Community Hall,TS-MPLADS-0186,Public Works Department,In Progress,14-05-2023,Number
+Telangana,Nirmal,Nirmal,Lok Sabha,MP,MP_Telangana_11,870207.89,16-11-2024,Drainage Improvement,TS-MPLADS-0187,Municipal Administration,In Progress,19-08-2024,Meter
+Telangana,Nizamabad,Nizamabad,Lok Sabha,MP,MP_Telangana_06,651569.79,01-08-2022,Drainage Improvement,TS-MPLADS-0188,District Panchayat,Completed,17-02-2022,Meter
+Telangana,Peddapalli,Peddapalli,Lok Sabha,MP,MP_Telangana_12,469667.04,06-09-2022,Bus Shelter,TS-MPLADS-0189,Public Works Department,In Progress,17-07-2022,Number
+Telangana,Rajanna Sircilla,Rajanna Sircilla,Lok Sabha,MP,MP_Telangana_02,1211741.51,05-06-2024,Library Building,TS-MPLADS-0190,District Panchayat,Completed,24-04-2024,Number
+Telangana,Rangareddy,Rangareddy,Lok Sabha,MP,MP_Telangana_01,919011.76,06-05-2025,Road Improvement,TS-MPLADS-0191,Water Supply Department,Completed,11-04-2025,Km
+Telangana,Sangareddy,Sangareddy,Lok Sabha,MP,MP_Telangana_08,3549836.77,15-11-2021,Community Hall,TS-MPLADS-0192,Rural Development Agency,Sanctioned,08-07-2021,Number
+Telangana,Siddipet,Siddipet,Lok Sabha,MP,MP_Telangana_11,1242323.91,04-02-2024,School Building Repair,TS-MPLADS-0193,District Panchayat,Under Execution,01-10-2023,Number
+Telangana,Suryapet,Suryapet,Lok Sabha,MP,MP_Telangana_02,790206.2,14-02-2024,Drainage Improvement,TS-MPLADS-0194,Local Body,Under Execution,19-11-2023,Meter
+Telangana,Vikarabad,Vikarabad,Lok Sabha,MP,MP_Telangana_12,841177.81,30-04-2022,School Building Repair,TS-MPLADS-0195,Local Body,Sanctioned,09-03-2022,Number
+Telangana,Wanaparthy,Wanaparthy,Lok Sabha,MP,MP_Telangana_05,1086723.79,24-08-2025,Health Centre Improvement,TS-MPLADS-0196,Municipal Administration,In Progress,01-08-2025,Number
+Telangana,Warangal,Warangal,Lok Sabha,MP,MP_Telangana_08,1393783.97,19-10-2024,Drainage Improvement,TS-MPLADS-0197,Education Department,In Progress,20-09-2024,Meter
+Telangana,Yadadri Bhuvanagiri,Yadadri Bhuvanagiri,Lok Sabha,MP,MP_Telangana_01,563340.98,20-11-2022,Public Toilet,TS-MPLADS-0198,Health Department,In Progress,24-06-2022,Number
+Telangana,Adilabad,Adilabad,Lok Sabha,MP,MP_Telangana_02,511152.2,11-06-2021,Drinking Water Facility,TS-MPLADS-0199,Water Supply Department,Sanctioned,02-02-2021,Number
+Telangana,Bhadradri Kothagudem,Bhadradri Kothagudem,Lok Sabha,MP,MP_Telangana_04,874748.51,06-11-2024,Drinking Water Facility,TS-MPLADS-0200,Municipal Administration,Sanctioned,09-06-2024,Number
+Telangana,Hanamkonda,Hanamkonda,Lok Sabha,MP,MP_Telangana_02,818408.71,22-12-2021,School Building Repair,TS-MPLADS-0201,Rural Development Agency,Completed,03-08-2021,Number
+Telangana,Hyderabad,Hyderabad,Lok Sabha,MP,MP_Telangana_12,687568.42,12-06-2023,Bus Shelter,TS-MPLADS-0202,Local Body,Completed,13-05-2023,Number
+Telangana,Jagtial,Jagtial,Lok Sabha,MP,MP_Telangana_08,903612.54,02-12-2025,Drainage Improvement,TS-MPLADS-0203,Education Department,Under Execution,16-08-2025,Meter
+Telangana,Jangaon,Jangaon,Lok Sabha,MP,MP_Telangana_07,479254.04,26-04-2025,Road Improvement,TS-MPLADS-0204,Municipal Administration,In Progress,05-02-2025,Km
+Telangana,Jayashankar Bhupalpally,Jayashankar Bhupalpally,Lok Sabha,MP,MP_Telangana_08,837153.94,21-06-2021,Bus Shelter,TS-MPLADS-0205,District Panchayat,Sanctioned,27-03-2021,Number
+Telangana,Jogulamba Gadwal,Jogulamba Gadwal,Lok Sabha,MP,MP_Telangana_01,2125401.22,03-01-2025,Health Centre Improvement,TS-MPLADS-0206,Municipal Administration,Completed,22-11-2024,Number
+Telangana,Kamareddy,Kamareddy,Lok Sabha,MP,MP_Telangana_04,743961.6,10-04-2026,Library Building,TS-MPLADS-0207,Municipal Administration,Sanctioned,25-01-2025,Number
+Telangana,Karimnagar,Karimnagar,Lok Sabha,MP,MP_Telangana_09,1412279.93,22-03-2023,Drainage Improvement,TS-MPLADS-0208,Water Supply Department,Sanctioned,05-11-2022,Meter
+Telangana,Khammam,Khammam,Lok Sabha,MP,MP_Telangana_12,1073188.63,21-11-2024,School Building Repair,TS-MPLADS-0209,Local Body,Sanctioned,13-07-2024,Number
+Telangana,Komaram Bheem Asifabad,Komaram Bheem Asifabad,Lok Sabha,MP,MP_Telangana_10,1638817.25,06-02-2021,Health Centre Improvement,TS-MPLADS-0210,Public Works Department,In Progress,22-01-2021,Number
+Telangana,Mahabubabad,Mahabubabad,Lok Sabha,MP,MP_Telangana_11,1303128.23,28-10-2021,Health Centre Improvement,TS-MPLADS-0211,Municipal Administration,Sanctioned,09-06-2021,Number
+Telangana,Mahabubnagar,Mahabubnagar,Lok Sabha,MP,MP_Telangana_12,506992.02,21-11-2021,Street Lighting,TS-MPLADS-0212,Health Department,Completed,11-09-2021,Number
+Telangana,Mancherial,Mancherial,Lok Sabha,MP,MP_Telangana_11,998738.08,26-06-2025,Health Centre Improvement,TS-MPLADS-0213,District Panchayat,In Progress,31-12-2024,Number
+Telangana,Medak,Medak,Lok Sabha,MP,MP_Telangana_11,1010879.81,27-09-2024,Library Building,TS-MPLADS-0214,Public Works Department,Sanctioned,31-05-2024,Number
+Telangana,Medchal-Malkajgiri,Medchal-Malkajgiri,Lok Sabha,MP,MP_Telangana_09,804046.57,12-10-2024,Road Improvement,TS-MPLADS-0215,Local Body,Sanctioned,14-06-2024,Km
+Telangana,Mulugu,Mulugu,Lok Sabha,MP,MP_Telangana_11,461008.96,16-11-2021,Street Lighting,TS-MPLADS-0216,Water Supply Department,Under Execution,27-06-2021,Number
+Telangana,Nagarkurnool,Nagarkurnool,Lok Sabha,MP,MP_Telangana_03,1712107.08,29-06-2021,Drainage Improvement,TS-MPLADS-0217,Public Works Department,Completed,19-06-2021,Meter
+Telangana,Nalgonda,Nalgonda,Lok Sabha,MP,MP_Telangana_05,2216907.96,16-01-2026,School Building Repair,TS-MPLADS-0218,Local Body,Under Execution,23-07-2025,Number
+Telangana,Narayanpet,Narayanpet,Lok Sabha,MP,MP_Telangana_04,1521127.15,26-02-2023,Public Toilet,TS-MPLADS-0219,Education Department,Sanctioned,02-11-2022,Number
+Telangana,Nirmal,Nirmal,Lok Sabha,MP,MP_Telangana_08,704839.66,08-12-2022,Drinking Water Facility,TS-MPLADS-0220,Education Department,In Progress,27-11-2022,Number
+Telangana,Nizamabad,Nizamabad,Lok Sabha,MP,MP_Telangana_05,771689.22,06-02-2022,Road Improvement,TS-MPLADS-0221,Water Supply Department,Completed,01-12-2021,Km
+Telangana,Peddapalli,Peddapalli,Lok Sabha,MP,MP_Telangana_09,406130.0,05-12-2021,Drinking Water Facility,TS-MPLADS-0222,Rural Development Agency,Under Execution,04-10-2021,Number
+Telangana,Rajanna Sircilla,Rajanna Sircilla,Lok Sabha,MP,MP_Telangana_02,685834.54,03-04-2022,Bus Shelter,TS-MPLADS-0223,Education Department,Under Execution,19-02-2022,Number
+Telangana,Rangareddy,Rangareddy,Lok Sabha,MP,MP_Telangana_03,500121.18,18-07-2022,Drinking Water Facility,TS-MPLADS-0224,Public Works Department,Sanctioned,18-04-2022,Number
+Telangana,Sangareddy,Sangareddy,Lok Sabha,MP,MP_Telangana_04,771767.11,03-06-2023,Road Improvement,TS-MPLADS-0225,Rural Development Agency,In Progress,08-03-2023,Km
+Telangana,Siddipet,Siddipet,Lok Sabha,MP,MP_Telangana_08,361007.65,09-08-2025,Road Improvement,TS-MPLADS-0226,Local Body,Completed,19-06-2025,Km
+Telangana,Suryapet,Suryapet,Lok Sabha,MP,MP_Telangana_04,1157340.29,08-04-2022,School Building Repair,TS-MPLADS-0227,District Panchayat,Under Execution,06-03-2022,Number
+Telangana,Vikarabad,Vikarabad,Lok Sabha,MP,MP_Telangana_12,474467.74,09-04-2025,Bus Shelter,TS-MPLADS-0228,District Panchayat,Under Execution,13-03-2025,Number
+Telangana,Wanaparthy,Wanaparthy,Lok Sabha,MP,MP_Telangana_02,1391484.37,21-07-2021,Drainage Improvement,TS-MPLADS-0229,Municipal Administration,Sanctioned,03-05-2021,Meter
+Telangana,Warangal,Warangal,Lok Sabha,MP,MP_Telangana_11,448257.03,09-11-2021,Street Lighting,TS-MPLADS-0230,Public Works Department,Sanctioned,14-06-2021,Number
+Telangana,Yadadri Bhuvanagiri,Yadadri Bhuvanagiri,Lok Sabha,MP,MP_Telangana_04,806967.62,01-11-2021,Drainage Improvement,TS-MPLADS-0231,Rural Development Agency,Under Execution,09-10-2021,Meter
+Telangana,Adilabad,Adilabad,Lok Sabha,MP,MP_Telangana_09,945976.92,29-12-2023,Drinking Water Facility,TS-MPLADS-0232,Water Supply Department,In Progress,21-09-2023,Number
+Telangana,Bhadradri Kothagudem,Bhadradri Kothagudem,Lok Sabha,MP,MP_Telangana_10,949704.05,18-12-2022,Library Building,TS-MPLADS-0233,Rural Development Agency,Completed,20-11-2022,Number
+Telangana,Hanamkonda,Hanamkonda,Lok Sabha,MP,MP_Telangana_02,462065.7,07-08-2025,Public Toilet,TS-MPLADS-0234,Health Department,Completed,20-05-2025,Number
+Telangana,Hyderabad,Hyderabad,Lok Sabha,MP,MP_Telangana_11,614923.08,05-05-2022,Drinking Water Facility,TS-MPLADS-0235,Health Department,In Progress,26-03-2022,Number
+Telangana,Jagtial,Jagtial,Lok Sabha,MP,MP_Telangana_03,988978.05,17-03-2023,Road Improvement,TS-MPLADS-0236,Municipal Administration,Under Execution,04-02-2023,Km
+Telangana,Jangaon,Jangaon,Lok Sabha,MP,MP_Telangana_05,1083215.76,12-06-2025,Drainage Improvement,TS-MPLADS-0237,Health Department,Completed,26-01-2025,Meter
+Telangana,Jayashankar Bhupalpally,Jayashankar Bhupalpally,Lok Sabha,MP,MP_Telangana_02,590612.35,22-04-2022,Drinking Water Facility,TS-MPLADS-0238,Rural Development Agency,Under Execution,21-02-2022,Number
+Telangana,Jogulamba Gadwal,Jogulamba Gadwal,Lok Sabha,MP,MP_Telangana_07,1352677.91,18-10-2024,Road Improvement,TS-MPLADS-0239,Public Works Department,Sanctioned,14-08-2024,Km
+Telangana,Kamareddy,Kamareddy,Lok Sabha,MP,MP_Telangana_06,821483.11,29-11-2023,Drinking Water Facility,TS-MPLADS-0240,District Panchayat,Completed,02-07-2023,Number
+Telangana,Karimnagar,Karimnagar,Lok Sabha,MP,MP_Telangana_06,4449886.68,02-07-2025,Community Hall,TS-MPLADS-0241,Municipal Administration,Completed,07-06-2025,Number
+Telangana,Khammam,Khammam,Lok Sabha,MP,MP_Telangana_03,775769.06,21-01-2024,Drinking Water Facility,TS-MPLADS-0242,Water Supply Department,Completed,01-08-2023,Number
+Telangana,Komaram Bheem Asifabad,Komaram Bheem Asifabad,Lok Sabha,MP,MP_Telangana_12,1090999.59,27-08-2021,Drinking Water Facility,TS-MPLADS-0243,Local Body,Sanctioned,22-07-2021,Number
+Telangana,Mahabubabad,Mahabubabad,Lok Sabha,MP,MP_Telangana_05,618060.24,24-08-2023,Road Improvement,TS-MPLADS-0244,Health Department,Completed,02-03-2023,Km
+Telangana,Mahabubnagar,Mahabubnagar,Lok Sabha,MP,MP_Telangana_10,278888.15,11-09-2025,Library Building,TS-MPLADS-0245,District Panchayat,In Progress,08-08-2025,Number
+Telangana,Mancherial,Mancherial,Lok Sabha,MP,MP_Telangana_12,665744.0,14-02-2022,Library Building,TS-MPLADS-0246,Education Department,Completed,17-09-2021,Number
+Telangana,Medak,Medak,Lok Sabha,MP,MP_Telangana_10,3288683.12,25-08-2022,Health Centre Improvement,TS-MPLADS-0247,Rural Development Agency,Under Execution,06-08-2022,Number
+Telangana,Medchal-Malkajgiri,Medchal-Malkajgiri,Lok Sabha,MP,MP_Telangana_03,523463.65,08-02-2025,Public Toilet,TS-MPLADS-0248,Education Department,In Progress,11-09-2024,Number
+Telangana,Mulugu,Mulugu,Lok Sabha,MP,MP_Telangana_01,744279.96,09-05-2024,School Building Repair,TS-MPLADS-0249,District Panchayat,In Progress,23-12-2023,Number
+Telangana,Nagarkurnool,Nagarkurnool,Lok Sabha,MP,MP_Telangana_06,1012187.83,02-07-2021,Library Building,TS-MPLADS-0250,Public Works Department,Completed,16-04-2021,Number
+Telangana,Nalgonda,Nalgonda,Lok Sabha,MP,MP_Telangana_05,868671.74,14-03-2024,Bus Shelter,TS-MPLADS-0251,Health Department,In Progress,11-12-2023,Number
+Telangana,Narayanpet,Narayanpet,Lok Sabha,MP,MP_Telangana_06,519367.51,28-09-2024,Street Lighting,TS-MPLADS-0252,Health Department,Sanctioned,19-05-2024,Number
+Telangana,Nirmal,Nirmal,Lok Sabha,MP,MP_Telangana_12,409661.0,07-07-2023,Road Improvement,TS-MPLADS-0253,Education Department,Completed,15-03-2023,Km
+Telangana,Nizamabad,Nizamabad,Lok Sabha,MP,MP_Telangana_11,873295.38,22-08-2024,Road Improvement,TS-MPLADS-0254,Local Body,In Progress,27-02-2024,Km
+Telangana,Peddapalli,Peddapalli,Lok Sabha,MP,MP_Telangana_09,1482649.81,12-07-2025,School Building Repair,TS-MPLADS-0255,Public Works Department,Sanctioned,26-02-2025,Number
+Telangana,Rajanna Sircilla,Rajanna Sircilla,Lok Sabha,MP,MP_Telangana_04,1174768.53,06-03-2024,Bus Shelter,TS-MPLADS-0256,Health Department,In Progress,27-01-2024,Number
+Telangana,Rangareddy,Rangareddy,Lok Sabha,MP,MP_Telangana_05,791977.03,25-08-2024,Bus Shelter,TS-MPLADS-0257,Municipal Administration,Sanctioned,09-06-2024,Number
+Telangana,Sangareddy,Sangareddy,Lok Sabha,MP,MP_Telangana_11,1200758.07,26-09-2023,Drainage Improvement,TS-MPLADS-0258,Municipal Administration,Sanctioned,16-05-2023,Meter
+Telangana,Siddipet,Siddipet,Lok Sabha,MP,MP_Telangana_05,749044.42,12-12-2022,Street Lighting,TS-MPLADS-0259,District Panchayat,Completed,06-08-2022,Number
+Telangana,Suryapet,Suryapet,Lok Sabha,MP,MP_Telangana_09,877047.16,09-08-2021,Library Building,TS-MPLADS-0260,Health Department,Sanctioned,05-06-2021,Number
+Telangana,Vikarabad,Vikarabad,Lok Sabha,MP,MP_Telangana_04,1325332.17,13-07-2021,Drinking Water Facility,TS-MPLADS-0261,Municipal Administration,Under Execution,03-02-2021,Number
+Telangana,Wanaparthy,Wanaparthy,Lok Sabha,MP,MP_Telangana_03,1049274.85,20-05-2025,Health Centre Improvement,TS-MPLADS-0262,Municipal Administration,Completed,03-01-2025,Number
+Telangana,Warangal,Warangal,Lok Sabha,MP,MP_Telangana_02,1242214.52,31-08-2022,Library Building,TS-MPLADS-0263,District Panchayat,Sanctioned,13-04-2022,Number
+Telangana,Yadadri Bhuvanagiri,Yadadri Bhuvanagiri,Lok Sabha,MP,MP_Telangana_03,1860996.77,11-08-2025,Health Centre Improvement,TS-MPLADS-0264,Education Department,Sanctioned,28-03-2025,Number
+Telangana,Adilabad,Adilabad,Lok Sabha,MP,MP_Telangana_08,708890.67,25-09-2025,Bus Shelter,TS-MPLADS-0265,District Panchayat,Sanctioned,08-06-2025,Number
+Telangana,Bhadradri Kothagudem,Bhadradri Kothagudem,Lok Sabha,MP,MP_Telangana_12,751485.27,08-11-2022,Road Improvement,TS-MPLADS-0266,Public Works Department,Sanctioned,29-06-2022,Km
+Telangana,Hanamkonda,Hanamkonda,Lok Sabha,MP,MP_Telangana_05,899561.42,21-05-2021,Drainage Improvement,TS-MPLADS-0267,Local Body,Sanctioned,09-02-2021,Meter
+Telangana,Hyderabad,Hyderabad,Lok Sabha,MP,MP_Telangana_12,1014044.64,05-03-2023,Drinking Water Facility,TS-MPLADS-0268,District Panchayat,In Progress,25-01-2023,Number
+Telangana,Jagtial,Jagtial,Lok Sabha,MP,MP_Telangana_06,1036318.01,21-11-2023,Library Building,TS-MPLADS-0269,Water Supply Department,In Progress,15-07-2023,Number
+Telangana,Jangaon,Jangaon,Lok Sabha,MP,MP_Telangana_11,1209138.43,09-05-2022,Library Building,TS-MPLADS-0270,District Panchayat,Under Execution,20-02-2022,Number
+Telangana,Jayashankar Bhupalpally,Jayashankar Bhupalpally,Lok Sabha,MP,MP_Telangana_09,1396600.55,03-08-2025,Health Centre Improvement,TS-MPLADS-0271,Municipal Administration,Under Execution,21-07-2025,Number
+Telangana,Jogulamba Gadwal,Jogulamba Gadwal,Lok Sabha,MP,MP_Telangana_06,4184954.49,23-07-2023,Community Hall,TS-MPLADS-0272,Education Department,Sanctioned,29-03-2023,Number
+Telangana,Kamareddy,Kamareddy,Lok Sabha,MP,MP_Telangana_04,584211.16,07-07-2022,Public Toilet,TS-MPLADS-0273,District Panchayat,In Progress,07-05-2022,Number
+Telangana,Karimnagar,Karimnagar,Lok Sabha,MP,MP_Telangana_10,1783546.25,09-05-2022,School Building Repair,TS-MPLADS-0274,Education Department,Completed,08-01-2022,Number
+Telangana,Khammam,Khammam,Lok Sabha,MP,MP_Telangana_05,938112.64,29-01-2021,Drinking Water Facility,TS-MPLADS-0275,Municipal Administration,Under Execution,13-01-2021,Number
+Telangana,Komaram Bheem Asifabad,Komaram Bheem Asifabad,Lok Sabha,MP,MP_Telangana_10,812374.06,30-12-2021,School Building Repair,TS-MPLADS-0276,Rural Development Agency,In Progress,24-08-2021,Number
+Telangana,Mahabubabad,Mahabubabad,Lok Sabha,MP,MP_Telangana_03,649566.21,22-10-2025,Street Lighting,TS-MPLADS-0277,Rural Development Agency,In Progress,25-08-2025,Number
+Telangana,Mahabubnagar,Mahabubnagar,Lok Sabha,MP,MP_Telangana_12,991565.21,27-04-2024,Street Lighting,TS-MPLADS-0278,Health Department,Completed,20-11-2023,Number
+Telangana,Mancherial,Mancherial,Lok Sabha,MP,MP_Telangana_10,1532860.93,11-12-2021,Health Centre Improvement,TS-MPLADS-0279,Public Works Department,Under Execution,23-08-2021,Number
+Telangana,Medak,Medak,Lok Sabha,MP,MP_Telangana_02,699109.94,28-04-2024,School Building Repair,TS-MPLADS-0280,Education Department,Completed,02-02-2024,Number
+Telangana,Medchal-Malkajgiri,Medchal-Malkajgiri,Lok Sabha,MP,MP_Telangana_07,2507453.51,27-03-2023,Community Hall,TS-MPLADS-0281,District Panchayat,Sanctioned,21-12-2022,Number
+Telangana,Mulugu,Mulugu,Lok Sabha,MP,MP_Telangana_12,1075222.47,25-01-2024,Bus Shelter,TS-MPLADS-0282,Rural Development Agency,Completed,15-01-2024,Number
+Telangana,Nagarkurnool,Nagarkurnool,Lok Sabha,MP,MP_Telangana_12,772239.01,21-06-2024,Public Toilet,TS-MPLADS-0283,District Panchayat,In Progress,22-05-2024,Number
+Telangana,Nalgonda,Nalgonda,Lok Sabha,MP,MP_Telangana_01,2998679.22,07-02-2023,Community Hall,TS-MPLADS-0284,Water Supply Department,In Progress,24-12-2022,Number
+Telangana,Narayanpet,Narayanpet,Lok Sabha,MP,MP_Telangana_10,605770.93,03-01-2025,Drinking Water Facility,TS-MPLADS-0285,Local Body,In Progress,31-08-2024,Number
+Telangana,Nirmal,Nirmal,Lok Sabha,MP,MP_Telangana_09,727435.76,19-08-2022,Drinking Water Facility,TS-MPLADS-0286,Municipal Administration,In Progress,01-07-2022,Number
+Telangana,Nizamabad,Nizamabad,Lok Sabha,MP,MP_Telangana_02,1233638.1,23-04-2025,School Building Repair,TS-MPLADS-0287,Local Body,Completed,27-02-2025,Number
+Telangana,Peddapalli,Peddapalli,Lok Sabha,MP,MP_Telangana_07,565998.95,19-11-2021,Drinking Water Facility,TS-MPLADS-0288,Education Department,Completed,18-09-2021,Number
+Telangana,Rajanna Sircilla,Rajanna Sircilla,Lok Sabha,MP,MP_Telangana_06,1104929.22,25-01-2021,School Building Repair,TS-MPLADS-0289,Rural Development Agency,Completed,01-01-2021,Number
+Telangana,Rangareddy,Rangareddy,Lok Sabha,MP,MP_Telangana_10,772904.6,29-05-2024,Drinking Water Facility,TS-MPLADS-0290,Rural Development Agency,Completed,14-01-2024,Number
+Telangana,Sangareddy,Sangareddy,Lok Sabha,MP,MP_Telangana_10,638425.27,27-02-2025,Road Improvement,TS-MPLADS-0291,Public Works Department,Under Execution,03-01-2025,Km
+Telangana,Siddipet,Siddipet,Lok Sabha,MP,MP_Telangana_05,1098867.98,27-08-2021,Road Improvement,TS-MPLADS-0292,Education Department,In Progress,07-06-2021,Km
+Telangana,Suryapet,Suryapet,Lok Sabha,MP,MP_Telangana_07,801063.66,15-08-2024,Drinking Water Facility,TS-MPLADS-0293,Health Department,In Progress,02-07-2024,Number
+Telangana,Vikarabad,Vikarabad,Lok Sabha,MP,MP_Telangana_03,661494.68,06-12-2022,Drinking Water Facility,TS-MPLADS-0294,Health Department,Under Execution,18-09-2022,Number
+Telangana,Wanaparthy,Wanaparthy,Lok Sabha,MP,MP_Telangana_02,1311247.58,08-12-2021,Health Centre Improvement,TS-MPLADS-0295,Municipal Administration,Completed,22-07-2021,Number
+Telangana,Warangal,Warangal,Lok Sabha,MP,MP_Telangana_05,980448.86,20-11-2024,Road Improvement,TS-MPLADS-0296,Water Supply Department,Completed,31-10-2024,Km
+Telangana,Yadadri Bhuvanagiri,Yadadri Bhuvanagiri,Lok Sabha,MP,MP_Telangana_06,1559210.65,26-02-2024,Health Centre Improvement,TS-MPLADS-0297,Municipal Administration,Under Execution,17-01-2024,Number
+Telangana,Adilabad,Adilabad,Lok Sabha,MP,MP_Telangana_11,913269.42,05-01-2026,Health Centre Improvement,TS-MPLADS-0298,Education Department,Completed,17-07-2025,Number
+Telangana,Bhadradri Kothagudem,Bhadradri Kothagudem,Lok Sabha,MP,MP_Telangana_04,354024.34,09-07-2024,Street Lighting,TS-MPLADS-0299,Rural Development Agency,Sanctioned,21-01-2024,Number
+Telangana,Hanamkonda,Hanamkonda,Lok Sabha,MP,MP_Telangana_10,1315128.97,09-10-2023,Bus Shelter,TS-MPLADS-0300,Public Works Department,Completed,26-07-2023,Number
+Telangana,Hyderabad,Hyderabad,Lok Sabha,MP,MP_Telangana_08,461530.95,10-09-2021,Drainage Improvement,TS-MPLADS-0301,Education Department,In Progress,26-03-2021,Meter
+Telangana,Jagtial,Jagtial,Lok Sabha,MP,MP_Telangana_10,685401.49,04-02-2023,School Building Repair,TS-MPLADS-0302,District Panchayat,Sanctioned,13-12-2022,Number
+Telangana,Jangaon,Jangaon,Lok Sabha,MP,MP_Telangana_04,2893323.72,05-03-2023,Community Hall,TS-MPLADS-0303,Municipal Administration,In Progress,18-10-2022,Number
+Telangana,Jayashankar Bhupalpally,Jayashankar Bhupalpally,Lok Sabha,MP,MP_Telangana_09,748768.55,13-12-2023,Street Lighting,TS-MPLADS-0304,District Panchayat,Completed,17-08-2023,Number
+Telangana,Jogulamba Gadwal,Jogulamba Gadwal,Lok Sabha,MP,MP_Telangana_11,795489.5,17-04-2022,Road Improvement,TS-MPLADS-0305,Water Supply Department,Completed,27-12-2021,Km
+Telangana,Kamareddy,Kamareddy,Lok Sabha,MP,MP_Telangana_06,1422802.86,20-03-2025,Library Building,TS-MPLADS-0306,Water Supply Department,Under Execution,22-02-2025,Number
+Telangana,Karimnagar,Karimnagar,Lok Sabha,MP,MP_Telangana_03,1191656.06,18-06-2021,Street Lighting,TS-MPLADS-0307,Public Works Department,Completed,12-04-2021,Number
+Telangana,Khammam,Khammam,Lok Sabha,MP,MP_Telangana_03,552367.38,15-03-2024,Drinking Water Facility,TS-MPLADS-0308,Public Works Department,Completed,01-03-2024,Number
+Telangana,Komaram Bheem Asifabad,Komaram Bheem Asifabad,Lok Sabha,MP,MP_Telangana_03,16883925.8,28-03-2023,Community Hall,TS-MPLADS-0309,Health Department,Under Execution,20-12-2022,Number
+Telangana,Mahabubabad,Mahabubabad,Lok Sabha,MP,MP_Telangana_05,1837603.66,05-09-2022,Community Hall,TS-MPLADS-0310,Education Department,In Progress,29-06-2022,Number
+Telangana,Mahabubnagar,Mahabubnagar,Lok Sabha,MP,MP_Telangana_08,674137.85,10-09-2022,Drinking Water Facility,TS-MPLADS-0311,Water Supply Department,Under Execution,27-03-2022,Number
+Telangana,Mancherial,Mancherial,Lok Sabha,MP,MP_Telangana_02,432151.87,05-09-2025,Road Improvement,TS-MPLADS-0312,Rural Development Agency,Completed,30-04-2025,Km
+Telangana,Medak,Medak,Lok Sabha,MP,MP_Telangana_02,954000.45,07-02-2024,Street Lighting,TS-MPLADS-0313,Local Body,Under Execution,20-11-2023,Number
+Telangana,Medchal-Malkajgiri,Medchal-Malkajgiri,Lok Sabha,MP,MP_Telangana_07,3287693.72,01-03-2025,Community Hall,TS-MPLADS-0314,Public Works Department,Completed,25-10-2024,Number
+Telangana,Mulugu,Mulugu,Lok Sabha,MP,MP_Telangana_04,980684.0,04-12-2022,School Building Repair,TS-MPLADS-0315,Rural Development Agency,Sanctioned,14-11-2022,Number
+Telangana,Nagarkurnool,Nagarkurnool,Lok Sabha,MP,MP_Telangana_03,1012574.56,18-03-2025,Health Centre Improvement,TS-MPLADS-0316,District Panchayat,In Progress,02-10-2024,Number
+Telangana,Nalgonda,Nalgonda,Lok Sabha,MP,MP_Telangana_12,927665.95,18-06-2023,Drainage Improvement,TS-MPLADS-0317,Water Supply Department,In Progress,20-04-2023,Meter
+Telangana,Narayanpet,Narayanpet,Lok Sabha,MP,MP_Telangana_02,854715.19,20-12-2023,Bus Shelter,TS-MPLADS-0318,Municipal Administration,Completed,22-09-2023,Number
+Telangana,Nirmal,Nirmal,Lok Sabha,MP,MP_Telangana_11,1056554.46,17-11-2021,Health Centre Improvement,TS-MPLADS-0319,Education Department,In Progress,25-06-2021,Number
+Telangana,Nizamabad,Nizamabad,Lok Sabha,MP,MP_Telangana_06,512040.34,18-02-2023,Public Toilet,TS-MPLADS-0320,Public Works Department,Under Execution,26-11-2022,Number
+Telangana,Peddapalli,Peddapalli,Lok Sabha,MP,MP_Telangana_05,579387.29,16-09-2025,Library Building,TS-MPLADS-0321,District Panchayat,In Progress,05-05-2025,Number
+Telangana,Rajanna Sircilla,Rajanna Sircilla,Lok Sabha,MP,MP_Telangana_06,1667215.5,07-11-2023,Health Centre Improvement,TS-MPLADS-0322,District Panchayat,Sanctioned,24-08-2023,Number
+Telangana,Rangareddy,Rangareddy,Lok Sabha,MP,MP_Telangana_05,789281.74,21-12-2022,Drinking Water Facility,TS-MPLADS-0323,Education Department,Completed,30-06-2022,Number
+Telangana,Sangareddy,Sangareddy,Lok Sabha,MP,MP_Telangana_09,827746.06,13-01-2022,Drinking Water Facility,TS-MPLADS-0324,Water Supply Department,Completed,10-10-2021,Number
+Telangana,Siddipet,Siddipet,Lok Sabha,MP,MP_Telangana_10,672267.1,31-12-2023,Bus Shelter,TS-MPLADS-0325,Education Department,Under Execution,15-08-2023,Number
+Telangana,Suryapet,Suryapet,Lok Sabha,MP,MP_Telangana_08,1846347.29,05-06-2025,Health Centre Improvement,TS-MPLADS-0326,Local Body,Completed,26-04-2025,Number
+Telangana,Vikarabad,Vikarabad,Lok Sabha,MP,MP_Telangana_05,569737.89,28-10-2025,Public Toilet,TS-MPLADS-0327,Local Body,Sanctioned,27-05-2025,Number
+Telangana,Wanaparthy,Wanaparthy,Lok Sabha,MP,MP_Telangana_01,2644520.38,02-05-2021,Health Centre Improvement,TS-MPLADS-0328,Local Body,Sanctioned,08-01-2021,Number
+Telangana,Warangal,Warangal,Lok Sabha,MP,MP_Telangana_09,327459.68,23-04-2021,Road Improvement,TS-MPLADS-0329,Municipal Administration,In Progress,15-02-2021,Km
+Telangana,Yadadri Bhuvanagiri,Yadadri Bhuvanagiri,Lok Sabha,MP,MP_Telangana_01,1309935.32,28-05-2023,School Building Repair,TS-MPLADS-0330,Local Body,In Progress,03-03-2023,Number
+Telangana,Adilabad,Adilabad,Lok Sabha,MP,MP_Telangana_05,1334384.14,30-07-2025,Library Building,TS-MPLADS-0331,Rural Development Agency,In Progress,02-02-2025,Number
+Telangana,Bhadradri Kothagudem,Bhadradri Kothagudem,Lok Sabha,MP,MP_Telangana_10,237315.11,23-12-2021,Public Toilet,TS-MPLADS-0332,Municipal Administration,Sanctioned,01-10-2021,Number
+Telangana,Hanamkonda,Hanamkonda,Lok Sabha,MP,MP_Telangana_12,952015.13,23-07-2025,School Building Repair,TS-MPLADS-0333,Water Supply Department,Completed,30-06-2025,Number
+Telangana,Hyderabad,Hyderabad,Lok Sabha,MP,MP_Telangana_11,723195.53,29-03-2024,Health Centre Improvement,TS-MPLADS-0334,Public Works Department,Under Execution,08-10-2023,Number
+Telangana,Jagtial,Jagtial,Lok Sabha,MP,MP_Telangana_07,377717.58,20-05-2023,Drainage Improvement,TS-MPLADS-0335,Health Department,Sanctioned,30-03-2023,Meter
+Telangana,Jangaon,Jangaon,Lok Sabha,MP,MP_Telangana_05,1328209.66,10-06-2023,Health Centre Improvement,TS-MPLADS-0336,Municipal Administration,Completed,24-12-2022,Number
+Telangana,Jayashankar Bhupalpally,Jayashankar Bhupalpally,Lok Sabha,MP,MP_Telangana_11,1151866.77,30-10-2024,Library Building,TS-MPLADS-0337,Health Department,In Progress,13-09-2024,Number
+Telangana,Jogulamba Gadwal,Jogulamba Gadwal,Lok Sabha,MP,MP_Telangana_01,798468.78,16-02-2025,Bus Shelter,TS-MPLADS-0338,Education Department,In Progress,26-01-2025,Number
+Telangana,Kamareddy,Kamareddy,Lok Sabha,MP,MP_Telangana_02,493077.17,05-07-2024,Street Lighting,TS-MPLADS-0339,Rural Development Agency,In Progress,19-03-2024,Number
+Telangana,Karimnagar,Karimnagar,Lok Sabha,MP,MP_Telangana_01,982100.39,21-12-2023,Bus Shelter,TS-MPLADS-0340,Local Body,Sanctioned,18-11-2023,Number
+Telangana,Khammam,Khammam,Lok Sabha,MP,MP_Telangana_02,1944831.27,27-03-2022,Health Centre Improvement,TS-MPLADS-0341,Public Works Department,In Progress,31-12-2021,Number
+Telangana,Komaram Bheem Asifabad,Komaram Bheem Asifabad,Lok Sabha,MP,MP_Telangana_12,2747864.69,19-09-2021,Community Hall,TS-MPLADS-0342,Municipal Administration,Under Execution,14-06-2021,Number
+Telangana,Mahabubabad,Mahabubabad,Lok Sabha,MP,MP_Telangana_01,755356.98,04-09-2025,Street Lighting,TS-MPLADS-0343,Local Body,Under Execution,15-07-2025,Number
+Telangana,Mahabubnagar,Mahabubnagar,Lok Sabha,MP,MP_Telangana_06,1161519.13,24-02-2024,Library Building,TS-MPLADS-0344,District Panchayat,Completed,15-12-2023,Number
+Telangana,Mancherial,Mancherial,Lok Sabha,MP,MP_Telangana_12,2693299.72,08-09-2023,School Building Repair,TS-MPLADS-0345,Health Department,Completed,28-06-2023,Number
+Telangana,Medak,Medak,Lok Sabha,MP,MP_Telangana_04,1155023.57,25-07-2024,School Building Repair,TS-MPLADS-0346,Public Works Department,Completed,14-04-2024,Number
+Telangana,Medchal-Malkajgiri,Medchal-Malkajgiri,Lok Sabha,MP,MP_Telangana_11,6335610.12,26-09-2025,Drinking Water Facility,TS-MPLADS-0347,Rural Development Agency,Under Execution,10-05-2025,Number
+Telangana,Mulugu,Mulugu,Lok Sabha,MP,MP_Telangana_07,1256058.02,01-02-2022,Health Centre Improvement,TS-MPLADS-0348,Water Supply Department,Sanctioned,22-09-2021,Number
+Telangana,Nagarkurnool,Nagarkurnool,Lok Sabha,MP,MP_Telangana_06,964673.15,31-03-2023,Bus Shelter,TS-MPLADS-0349,Municipal Administration,Under Execution,07-11-2022,Number
+Telangana,Nalgonda,Nalgonda,Lok Sabha,MP,MP_Telangana_03,1369236.5,04-11-2022,School Building Repair,TS-MPLADS-0350,Municipal Administration,Under Execution,13-06-2022,Number
+Telangana,Narayanpet,Narayanpet,Lok Sabha,MP,MP_Telangana_11,3497846.23,12-10-2021,Community Hall,TS-MPLADS-0351,Education Department,Under Execution,10-06-2021,Number
+Telangana,Nirmal,Nirmal,Lok Sabha,MP,MP_Telangana_11,1425390.48,10-11-2025,Community Hall,TS-MPLADS-0352,Health Department,Completed,18-07-2025,Number
+Telangana,Nizamabad,Nizamabad,Lok Sabha,MP,MP_Telangana_07,1596009.72,14-11-2024,Health Centre Improvement,TS-MPLADS-0353,Local Body,Under Execution,14-09-2024,Number
+Telangana,Peddapalli,Peddapalli,Lok Sabha,MP,MP_Telangana_09,439926.47,03-10-2025,School Building Repair,TS-MPLADS-0354,Public Works Department,In Progress,11-07-2025,Number
+Telangana,Rajanna Sircilla,Rajanna Sircilla,Lok Sabha,MP,MP_Telangana_05,1033513.4,15-12-2022,Library Building,TS-MPLADS-0355,Rural Development Agency,Completed,19-10-2022,Number
+Telangana,Rangareddy,Rangareddy,Lok Sabha,MP,MP_Telangana_10,508030.82,26-08-2021,Bus Shelter,TS-MPLADS-0356,Municipal Administration,Under Execution,12-05-2021,Number
+Telangana,Sangareddy,Sangareddy,Lok Sabha,MP,MP_Telangana_01,1175594.96,01-12-2023,Library Building,TS-MPLADS-0357,Water Supply Department,Completed,07-11-2023,Number
+Telangana,Siddipet,Siddipet,Lok Sabha,MP,MP_Telangana_03,1125746.77,13-12-2025,School Building Repair,TS-MPLADS-0358,Health Department,Under Execution,17-07-2025,Number
+Telangana,Suryapet,Suryapet,Lok Sabha,MP,MP_Telangana_03,892798.23,05-08-2025,Library Building,TS-MPLADS-0359,District Panchayat,Completed,20-07-2025,Number
+Telangana,Vikarabad,Vikarabad,Lok Sabha,MP,MP_Telangana_03,1912860.61,23-05-2021,Health Centre Improvement,TS-MPLADS-0360,District Panchayat,Under Execution,18-04-2021,Number
+Telangana,Wanaparthy,Wanaparthy,Lok Sabha,MP,MP_Telangana_08,1436114.91,02-11-2023,School Building Repair,TS-MPLADS-0361,Education Department,Under Execution,03-07-2023,Number
+Telangana,Warangal,Warangal,Lok Sabha,MP,MP_Telangana_11,1554770.68,16-03-2024,Library Building,TS-MPLADS-0362,Municipal Administration,In Progress,17-11-2023,Number
+Telangana,Yadadri Bhuvanagiri,Yadadri Bhuvanagiri,Lok Sabha,MP,MP_Telangana_03,3542073.64,01-09-2021,Community Hall,TS-MPLADS-0363,Education Department,Under Execution,03-06-2021,Number
+Telangana,Adilabad,Adilabad,Lok Sabha,MP,MP_Telangana_10,929328.41,10-12-2022,Library Building,TS-MPLADS-0364,Public Works Department,Completed,06-10-2022,Number
+Telangana,Bhadradri Kothagudem,Bhadradri Kothagudem,Lok Sabha,MP,MP_Telangana_08,363435.86,10-08-2022,Public Toilet,TS-MPLADS-0365,Municipal Administration,In Progress,30-06-2022,Number
+Telangana,Hanamkonda,Hanamkonda,Lok Sabha,MP,MP_Telangana_09,1298129.81,13-06-2022,Library Building,TS-MPLADS-0366,Health Department,Under Execution,24-01-2022,Number
+Telangana,Hyderabad,Hyderabad,Lok Sabha,MP,MP_Telangana_02,394914.07,14-04-2022,Bus Shelter,TS-MPLADS-0367,Education Department,Sanctioned,16-11-2021,Number
+Telangana,Jagtial,Jagtial,Lok Sabha,MP,MP_Telangana_06,248791.14,30-10-2023,Road Improvement,TS-MPLADS-0368,Rural Development Agency,In Progress,14-05-2023,Km
+Telangana,Jangaon,Jangaon,Lok Sabha,MP,MP_Telangana_06,1021065.38,06-09-2023,Drainage Improvement,TS-MPLADS-0369,Health Department,Sanctioned,24-03-2023,Meter
+Telangana,Jayashankar Bhupalpally,Jayashankar Bhupalpally,Lok Sabha,MP,MP_Telangana_08,1328214.68,04-06-2022,School Building Repair,TS-MPLADS-0370,Education Department,Under Execution,23-01-2022,Number
+Telangana,Jogulamba Gadwal,Jogulamba Gadwal,Lok Sabha,MP,MP_Telangana_11,568757.0,11-06-2023,Road Improvement,TS-MPLADS-0371,Health Department,Completed,09-03-2023,Km
+Telangana,Kamareddy,Kamareddy,Lok Sabha,MP,MP_Telangana_08,870806.53,10-03-2025,Library Building,TS-MPLADS-0372,Local Body,In Progress,29-10-2024,Number
+Telangana,Karimnagar,Karimnagar,Lok Sabha,MP,MP_Telangana_11,619361.77,01-02-2024,Street Lighting,TS-MPLADS-0373,District Panchayat,In Progress,21-12-2023,Number
+Telangana,Khammam,Khammam,Lok Sabha,MP,MP_Telangana_09,465594.83,22-06-2024,Street Lighting,TS-MPLADS-0374,Health Department,In Progress,01-02-2024,Number
+Telangana,Komaram Bheem Asifabad,Komaram Bheem Asifabad,Lok Sabha,MP,MP_Telangana_10,912770.55,19-04-2023,Drainage Improvement,TS-MPLADS-0375,Rural Development Agency,Sanctioned,24-12-2022,Meter
+Telangana,Mahabubabad,Mahabubabad,Lok Sabha,MP,MP_Telangana_03,2262378.72,01-06-2023,Street Lighting,TS-MPLADS-0376,District Panchayat,Completed,21-02-2023,Number
+Telangana,Mahabubnagar,Mahabubnagar,Lok Sabha,MP,MP_Telangana_08,362660.29,15-02-2022,Drinking Water Facility,TS-MPLADS-0377,Municipal Administration,Under Execution,04-12-2021,Number
+Telangana,Mancherial,Mancherial,Lok Sabha,MP,MP_Telangana_02,420347.63,23-07-2022,Bus Shelter,TS-MPLADS-0378,Water Supply Department,Completed,09-04-2022,Number
+Telangana,Medak,Medak,Lok Sabha,MP,MP_Telangana_04,1461526.05,18-02-2022,School Building Repair,TS-MPLADS-0379,Municipal Administration,Under Execution,03-12-2021,Number
+Telangana,Medchal-Malkajgiri,Medchal-Malkajgiri,Lok Sabha,MP,MP_Telangana_09,527294.98,26-11-2025,Bus Shelter,TS-MPLADS-0380,Water Supply Department,In Progress,16-07-2024,Number
+Telangana,Mulugu,Mulugu,Lok Sabha,MP,MP_Telangana_02,745190.34,18-08-2023,Bus Shelter,TS-MPLADS-0381,Municipal Administration,In Progress,25-03-2023,Number
+Telangana,Nagarkurnool,Nagarkurnool,Lok Sabha,MP,MP_Telangana_07,549778.94,13-12-2021,Drinking Water Facility,TS-MPLADS-0382,Municipal Administration,Completed,05-08-2021,Number
+Telangana,Nalgonda,Nalgonda,Lok Sabha,MP,MP_Telangana_10,401175.8,18-05-2023,Street Lighting,TS-MPLADS-0383,Rural Development Agency,Under Execution,29-03-2023,Number
+Telangana,Narayanpet,Narayanpet,Lok Sabha,MP,MP_Telangana_10,964360.94,27-04-2023,School Building Repair,TS-MPLADS-0384,District Panchayat,In Progress,02-02-2023,Number
+Telangana,Nirmal,Nirmal,Lok Sabha,MP,MP_Telangana_06,2976781.06,15-12-2021,Community Hall,TS-MPLADS-0385,Health Department,Completed,27-10-2021,Number
+Telangana,Nizamabad,Nizamabad,Lok Sabha,MP,MP_Telangana_04,1571116.3,10-08-2024,Health Centre Improvement,TS-MPLADS-0386,District Panchayat,Completed,02-07-2024,Number
+Telangana,Peddapalli,Peddapalli,Lok Sabha,MP,MP_Telangana_04,347918.06,25-05-2023,Road Improvement,TS-MPLADS-0387,District Panchayat,Completed,16-01-2023,Km
+Telangana,Rajanna Sircilla,Rajanna Sircilla,Lok Sabha,MP,MP_Telangana_12,1424539.1,10-08-2024,Drainage Improvement,TS-MPLADS-0388,Health Department,Sanctioned,21-07-2024,Meter
+Telangana,Rangareddy,Rangareddy,Lok Sabha,MP,MP_Telangana_12,267386.11,10-05-2025,Road Improvement,TS-MPLADS-0389,Public Works Department,Under Execution,14-01-2025,Km
+Telangana,Sangareddy,Sangareddy,Lok Sabha,MP,MP_Telangana_10,1458790.49,28-06-2025,Library Building,TS-MPLADS-0390,Water Supply Department,Completed,25-03-2025,Number
+Telangana,Siddipet,Siddipet,Lok Sabha,MP,MP_Telangana_06,868813.85,15-05-2021,Bus Shelter,TS-MPLADS-0391,Public Works Department,In Progress,27-01-2021,Number
+Telangana,Suryapet,Suryapet,Lok Sabha,MP,MP_Telangana_07,399111.1,10-01-2024,Street Lighting,TS-MPLADS-0392,Local Body,Completed,24-08-2023,Number
+Telangana,Vikarabad,Vikarabad,Lok Sabha,MP,MP_Telangana_10,387807.33,02-03-2022,Bus Shelter,TS-MPLADS-0393,Water Supply Department,Under Execution,18-01-2022,Number
+Telangana,Wanaparthy,Wanaparthy,Lok Sabha,MP,MP_Telangana_11,670873.78,22-02-2025,Public Toilet,TS-MPLADS-0394,Municipal Administration,In Progress,23-01-2025,Number
+Telangana,Warangal,Warangal,Lok Sabha,MP,MP_Telangana_08,644354.95,28-08-2022,Bus Shelter,TS-MPLADS-0395,Public Works Department,In Progress,01-04-2022,Number
+Telangana,Yadadri Bhuvanagiri,Yadadri Bhuvanagiri,Lok Sabha,MP,MP_Telangana_04,1722700.81,27-11-2023,Health Centre Improvement,TS-MPLADS-0396,Municipal Administration,Completed,05-08-2023,Number
+Telangana,Adilabad,Adilabad,Lok Sabha,MP,MP_Telangana_12,615950.11,03-08-2021,Bus Shelter,TS-MPLADS-0397,Rural Development Agency,Under Execution,09-04-2021,Number
+Telangana,Bhadradri Kothagudem,Bhadradri Kothagudem,Lok Sabha,MP,MP_Telangana_03,917008.71,06-07-2024,Road Improvement,TS-MPLADS-0398,Municipal Administration,Under Execution,04-03-2024,Km
+Telangana,Hanamkonda,Hanamkonda,Lok Sabha,MP,MP_Telangana_11,1575288.79,09-09-2022,Health Centre Improvement,TS-MPLADS-0399,District Panchayat,Sanctioned,27-03-2022,Number
+Telangana,Hyderabad,Hyderabad,Lok Sabha,MP,MP_Telangana_03,1201151.28,05-01-2025,Health Centre Improvement,TS-MPLADS-0400,District Panchayat,Under Execution,16-10-2024,Number
+Telangana,Jagtial,Jagtial,Lok Sabha,MP,MP_Telangana_06,516414.82,05-04-2022,Drainage Improvement,TS-MPLADS-0401,Health Department,In Progress,26-03-2022,Meter
+Telangana,Jangaon,Jangaon,Lok Sabha,MP,MP_Telangana_10,696837.17,02-12-2024,Bus Shelter,TS-MPLADS-0402,Health Department,Under Execution,11-08-2024,Number
+Telangana,Jayashankar Bhupalpally,Jayashankar Bhupalpally,Lok Sabha,MP,MP_Telangana_01,1433434.51,03-05-2022,Library Building,TS-MPLADS-0403,District Panchayat,Under Execution,29-12-2021,Number
+Telangana,Jogulamba Gadwal,Jogulamba Gadwal,Lok Sabha,MP,MP_Telangana_03,947849.96,21-04-2021,Library Building,TS-MPLADS-0404,Health Department,Under Execution,07-03-2021,Number
+Telangana,Kamareddy,Kamareddy,Lok Sabha,MP,MP_Telangana_05,396930.26,04-07-2021,Bus Shelter,TS-MPLADS-0405,Municipal Administration,In Progress,01-06-2021,Number
+Telangana,Karimnagar,Karimnagar,Lok Sabha,MP,MP_Telangana_03,1023150.72,27-12-2021,School Building Repair,TS-MPLADS-0406,Public Works Department,In Progress,18-11-2021,Number
+Telangana,Khammam,Khammam,Lok Sabha,MP,MP_Telangana_08,542250.63,14-04-2025,Bus Shelter,TS-MPLADS-0407,Municipal Administration,Under Execution,05-01-2025,Number
+Telangana,Komaram Bheem Asifabad,Komaram Bheem Asifabad,Lok Sabha,MP,MP_Telangana_05,2717740.97,01-04-2023,Community Hall,TS-MPLADS-0408,Rural Development Agency,Completed,02-12-2022,Number
+Telangana,Mahabubabad,Mahabubabad,Lok Sabha,MP,MP_Telangana_10,2229788.07,18-06-2024,Health Centre Improvement,TS-MPLADS-0409,Public Works Department,In Progress,25-05-2024,Number
+Telangana,Mahabubnagar,Mahabubnagar,Lok Sabha,MP,MP_Telangana_03,4021412.12,15-01-2022,Community Hall,TS-MPLADS-0410,Municipal Administration,In Progress,07-12-2021,Number
+Telangana,Mancherial,Mancherial,Lok Sabha,MP,MP_Telangana_11,2185753.04,30-10-2024,Community Hall,TS-MPLADS-0411,Health Department,In Progress,15-09-2024,Number
+Telangana,Medak,Medak,Lok Sabha,MP,MP_Telangana_04,513945.71,12-05-2022,Public Toilet,TS-MPLADS-0412,Rural Development Agency,Under Execution,12-04-2022,Number
+Telangana,Medchal-Malkajgiri,Medchal-Malkajgiri,Lok Sabha,MP,MP_Telangana_03,483209.08,02-05-2023,Drainage Improvement,TS-MPLADS-0413,Health Department,In Progress,15-11-2022,Meter
+Telangana,Mulugu,Mulugu,Lok Sabha,MP,MP_Telangana_02,1219714.33,25-03-2021,School Building Repair,TS-MPLADS-0414,Public Works Department,Under Execution,01-03-2021,Number
+Telangana,Nagarkurnool,Nagarkurnool,Lok Sabha,MP,MP_Telangana_12,3715484.3,11-03-2022,Community Hall,TS-MPLADS-0415,Municipal Administration,Under Execution,25-12-2021,Number
+Telangana,Nalgonda,Nalgonda,Lok Sabha,MP,MP_Telangana_01,1020783.26,01-05-2022,Road Improvement,TS-MPLADS-0416,Education Department,In Progress,23-01-2022,Km
+Telangana,Narayanpet,Narayanpet,Lok Sabha,MP,MP_Telangana_10,695838.14,28-02-2024,Road Improvement,TS-MPLADS-0417,Rural Development Agency,Under Execution,19-11-2023,Km
+Telangana,Nirmal,Nirmal,Lok Sabha,MP,MP_Telangana_09,3515308.92,12-06-2025,Community Hall,TS-MPLADS-0418,Rural Development Agency,Under Execution,15-05-2025,Number
+Telangana,Nizamabad,Nizamabad,Lok Sabha,MP,MP_Telangana_09,2981294.99,10-12-2023,Community Hall,TS-MPLADS-0419,Municipal Administration,Sanctioned,16-06-2023,Number
+Telangana,Peddapalli,Peddapalli,Lok Sabha,MP,MP_Telangana_02,296596.03,26-07-2022,Public Toilet,TS-MPLADS-0420,District Panchayat,Sanctioned,05-05-2022,Number
+Telangana,Rajanna Sircilla,Rajanna Sircilla,Lok Sabha,MP,MP_Telangana_07,469692.76,12-08-2023,Public Toilet,TS-MPLADS-0421,Water Supply Department,Under Execution,09-05-2023,Number
+Telangana,Rangareddy,Rangareddy,Lok Sabha,MP,MP_Telangana_03,1809714.41,25-08-2025,Health Centre Improvement,TS-MPLADS-0422,District Panchayat,Sanctioned,02-04-2025,Number
+Telangana,Sangareddy,Sangareddy,Lok Sabha,MP,MP_Telangana_03,1374771.49,01-11-2023,School Building Repair,TS-MPLADS-0423,Public Works Department,Under Execution,09-06-2023,Number
+Telangana,Siddipet,Siddipet,Lok Sabha,MP,MP_Telangana_12,1614068.78,07-10-2024,Road Improvement,TS-MPLADS-0424,Public Works Department,In Progress,12-05-2024,Km
+Telangana,Suryapet,Suryapet,Lok Sabha,MP,MP_Telangana_06,1213905.47,21-04-2024,Drinking Water Facility,TS-MPLADS-0425,Municipal Administration,Completed,21-12-2023,Number
+Telangana,Vikarabad,Vikarabad,Lok Sabha,MP,MP_Telangana_11,993346.27,27-03-2023,Drainage Improvement,TS-MPLADS-0426,Education Department,Under Execution,03-12-2022,Meter
+Telangana,Wanaparthy,Wanaparthy,Lok Sabha,MP,MP_Telangana_12,524214.69,03-02-2023,Public Toilet,TS-MPLADS-0427,Water Supply Department,In Progress,13-10-2022,Number
+Telangana,Warangal,Warangal,Lok Sabha,MP,MP_Telangana_05,1696059.65,16-09-2024,School Building Repair,TS-MPLADS-0428,District Panchayat,Sanctioned,02-08-2024,Number
+Telangana,Yadadri Bhuvanagiri,Yadadri Bhuvanagiri,Lok Sabha,MP,MP_Telangana_01,887125.18,01-05-2025,Health Centre Improvement,TS-MPLADS-0429,Local Body,Sanctioned,11-11-2024,Number
+Telangana,Adilabad,Adilabad,Lok Sabha,MP,MP_Telangana_06,639563.26,06-12-2023,Drinking Water Facility,TS-MPLADS-0430,Public Works Department,In Progress,16-08-2023,Number
+Telangana,Bhadradri Kothagudem,Bhadradri Kothagudem,Lok Sabha,MP,MP_Telangana_01,951716.17,27-05-2025,Library Building,TS-MPLADS-0431,Public Works Department,Under Execution,10-01-2025,Number
+Telangana,Hanamkonda,Hanamkonda,Lok Sabha,MP,MP_Telangana_09,947112.41,07-06-2021,Library Building,TS-MPLADS-0432,Education Department,Under Execution,28-03-2021,Number
+Telangana,Hyderabad,Hyderabad,Lok Sabha,MP,MP_Telangana_11,775033.18,03-11-2024,School Building Repair,TS-MPLADS-0433,Education Department,Sanctioned,22-06-2024,Number
+Telangana,Jagtial,Jagtial,Lok Sabha,MP,MP_Telangana_03,326597.83,09-01-2025,Street Lighting,TS-MPLADS-0434,Public Works Department,Completed,17-08-2024,Number
+Telangana,Jangaon,Jangaon,Lok Sabha,MP,MP_Telangana_09,840593.8,11-09-2025,Drinking Water Facility,TS-MPLADS-0435,District Panchayat,Sanctioned,18-06-2025,Number
+Telangana,Jayashankar Bhupalpally,Jayashankar Bhupalpally,Lok Sabha,MP,MP_Telangana_06,1279874.09,20-07-2023,Health Centre Improvement,TS-MPLADS-0436,Rural Development Agency,Sanctioned,23-06-2023,Number
+Telangana,Jogulamba Gadwal,Jogulamba Gadwal,Lok Sabha,MP,MP_Telangana_11,652803.17,21-12-2021,Drinking Water Facility,TS-MPLADS-0437,Rural Development Agency,In Progress,09-12-2021,Number
+Telangana,Kamareddy,Kamareddy,Lok Sabha,MP,MP_Telangana_02,1052350.0,12-10-2023,Health Centre Improvement,TS-MPLADS-0438,Municipal Administration,Under Execution,11-09-2023,Number
+Telangana,Karimnagar,Karimnagar,Lok Sabha,MP,MP_Telangana_04,618198.75,14-09-2025,Public Toilet,TS-MPLADS-0439,District Panchayat,Completed,17-04-2025,Number
+Telangana,Khammam,Khammam,Lok Sabha,MP,MP_Telangana_02,13877313.520000001,14-07-2021,Community Hall,TS-MPLADS-0440,Rural Development Agency,Under Execution,03-06-2021,Number
+Telangana,Komaram Bheem Asifabad,Komaram Bheem Asifabad,Lok Sabha,MP,MP_Telangana_02,503656.64,21-05-2021,Road Improvement,TS-MPLADS-0441,Health Department,Sanctioned,06-05-2021,Km
+Telangana,Mahabubabad,Mahabubabad,Lok Sabha,MP,MP_Telangana_08,678086.94,25-08-2024,Road Improvement,TS-MPLADS-0442,District Panchayat,Sanctioned,09-08-2024,Km
+Telangana,Mahabubnagar,Mahabubnagar,Lok Sabha,MP,MP_Telangana_09,500771.99,23-11-2023,Street Lighting,TS-MPLADS-0443,Health Department,In Progress,07-06-2023,Number
+Telangana,Mancherial,Mancherial,Lok Sabha,MP,MP_Telangana_03,1876440.92,28-03-2023,Community Hall,TS-MPLADS-0444,Water Supply Department,In Progress,07-03-2023,Number
+Telangana,Medak,Medak,Lok Sabha,MP,MP_Telangana_03,716396.48,04-02-2022,Street Lighting,TS-MPLADS-0445,Health Department,In Progress,19-09-2021,Number
+Telangana,Medchal-Malkajgiri,Medchal-Malkajgiri,Lok Sabha,MP,MP_Telangana_11,1225705.23,09-07-2024,Health Centre Improvement,TS-MPLADS-0446,Local Body,Under Execution,12-03-2024,Number
+Telangana,Mulugu,Mulugu,Lok Sabha,MP,MP_Telangana_03,915067.94,23-10-2022,School Building Repair,TS-MPLADS-0447,Health Department,Under Execution,08-06-2022,Number
+Telangana,Nagarkurnool,Nagarkurnool,Lok Sabha,MP,MP_Telangana_07,3672996.36,10-11-2022,Community Hall,TS-MPLADS-0448,District Panchayat,Sanctioned,17-05-2022,Number
+Telangana,Nalgonda,Nalgonda,Lok Sabha,MP,MP_Telangana_08,836583.11,17-02-2024,School Building Repair,TS-MPLADS-0449,Local Body,Completed,24-11-2023,Number
+Telangana,Narayanpet,Narayanpet,Lok Sabha,MP,MP_Telangana_09,641675.58,17-07-2024,Drinking Water Facility,TS-MPLADS-0450,Education Department,Completed,25-03-2024,Number
+Telangana,Nirmal,Nirmal,Lok Sabha,MP,MP_Telangana_05,457249.36,17-02-2023,Bus Shelter,TS-MPLADS-0451,Local Body,Completed,30-01-2023,Number
+Telangana,Nizamabad,Nizamabad,Lok Sabha,MP,MP_Telangana_09,683090.37,20-06-2023,Drinking Water Facility,TS-MPLADS-0452,Rural Development Agency,Under Execution,20-01-2023,Number
+Telangana,Peddapalli,Peddapalli,Lok Sabha,MP,MP_Telangana_06,2219518.65,24-06-2023,Health Centre Improvement,TS-MPLADS-0453,Health Department,Under Execution,15-03-2023,Number
+Telangana,Rajanna Sircilla,Rajanna Sircilla,Lok Sabha,MP,MP_Telangana_07,1013048.64,07-10-2023,Health Centre Improvement,TS-MPLADS-0454,Local Body,Sanctioned,17-04-2023,Number
+Telangana,Rangareddy,Rangareddy,Lok Sabha,MP,MP_Telangana_07,1065622.62,21-07-2021,Community Hall,TS-MPLADS-0455,Education Department,Under Execution,03-05-2021,Number
+Telangana,Sangareddy,Sangareddy,Lok Sabha,MP,MP_Telangana_06,1179470.82,01-08-2023,Drinking Water Facility,TS-MPLADS-0456,Education Department,In Progress,19-04-2023,Number
+Telangana,Siddipet,Siddipet,Lok Sabha,MP,MP_Telangana_03,503698.22,25-01-2022,Drainage Improvement,TS-MPLADS-0457,Education Department,Completed,04-11-2021,Meter
+Telangana,Suryapet,Suryapet,Lok Sabha,MP,MP_Telangana_10,261478.34,18-03-2023,Public Toilet,TS-MPLADS-0458,Health Department,Completed,05-01-2023,Number
+Telangana,Vikarabad,Vikarabad,Lok Sabha,MP,MP_Telangana_02,985216.92,18-02-2024,School Building Repair,TS-MPLADS-0459,Local Body,Completed,27-08-2023,Number
+Telangana,Wanaparthy,Wanaparthy,Lok Sabha,MP,MP_Telangana_04,539358.4,14-01-2024,Street Lighting,TS-MPLADS-0460,District Panchayat,In Progress,02-12-2023,Number
+Telangana,Warangal,Warangal,Lok Sabha,MP,MP_Telangana_03,1418051.65,20-08-2024,School Building Repair,TS-MPLADS-0461,Local Body,Sanctioned,15-07-2024,Number
+Telangana,Yadadri Bhuvanagiri,Yadadri Bhuvanagiri,Lok Sabha,MP,MP_Telangana_11,1262135.71,10-10-2024,Community Hall,TS-MPLADS-0462,Water Supply Department,Completed,09-07-2024,Number
+Telangana,Adilabad,Adilabad,Lok Sabha,MP,MP_Telangana_04,742960.04,11-07-2022,Bus Shelter,TS-MPLADS-0463,Health Department,Sanctioned,03-05-2022,Number
+Telangana,Bhadradri Kothagudem,Bhadradri Kothagudem,Lok Sabha,MP,MP_Telangana_12,829210.58,27-08-2025,Bus Shelter,TS-MPLADS-0464,District Panchayat,Sanctioned,16-08-2025,Number
+Telangana,Hanamkonda,Hanamkonda,Lok Sabha,MP,MP_Telangana_12,1073506.17,20-03-2025,Bus Shelter,TS-MPLADS-0465,Public Works Department,Sanctioned,01-01-2025,Number
+Telangana,Hyderabad,Hyderabad,Lok Sabha,MP,MP_Telangana_04,675729.94,03-01-2025,Public Toilet,TS-MPLADS-0466,Municipal Administration,Under Execution,16-11-2024,Number
+Telangana,Jagtial,Jagtial,Lok Sabha,MP,MP_Telangana_11,779361.41,15-01-2026,Street Lighting,TS-MPLADS-0467,Local Body,In Progress,02-08-2025,Number
+Telangana,Jangaon,Jangaon,Lok Sabha,MP,MP_Telangana_07,857149.12,26-10-2022,Road Improvement,TS-MPLADS-0468,Municipal Administration,Sanctioned,30-06-2022,Km
+Telangana,Jayashankar Bhupalpally,Jayashankar Bhupalpally,Lok Sabha,MP,MP_Telangana_05,1509890.47,08-03-2024,Drainage Improvement,TS-MPLADS-0469,Water Supply Department,In Progress,19-12-2023,Meter
+Telangana,Jogulamba Gadwal,Jogulamba Gadwal,Lok Sabha,MP,MP_Telangana_02,816121.76,24-10-2022,Street Lighting,TS-MPLADS-0470,Education Department,Under Execution,17-07-2022,Number
+Telangana,Kamareddy,Kamareddy,Lok Sabha,MP,MP_Telangana_03,1517263.58,17-02-2023,Health Centre Improvement,TS-MPLADS-0471,Local Body,Sanctioned,29-01-2023,Number
+Telangana,Karimnagar,Karimnagar,Lok Sabha,MP,MP_Telangana_04,1997209.15,30-07-2021,Community Hall,TS-MPLADS-0472,District Panchayat,Sanctioned,05-02-2021,Number
+Telangana,Khammam,Khammam,Lok Sabha,MP,MP_Telangana_01,1180921.21,17-08-2022,Library Building,TS-MPLADS-0473,Local Body,Sanctioned,13-04-2022,Number
+Telangana,Komaram Bheem Asifabad,Komaram Bheem Asifabad,Lok Sabha,MP,MP_Telangana_11,1147610.44,19-02-2021,Library Building,TS-MPLADS-0474,Education Department,Sanctioned,06-02-2021,Number
+Telangana,Mahabubabad,Mahabubabad,Lok Sabha,MP,MP_Telangana_06,1967376.9,30-05-2023,School Building Repair,TS-MPLADS-0475,Public Works Department,Under Execution,26-01-2023,Number
+Telangana,Mahabubnagar,Mahabubnagar,Lok Sabha,MP,MP_Telangana_01,464725.45,30-03-2025,Public Toilet,TS-MPLADS-0476,Education Department,Under Execution,27-02-2025,Number
+Telangana,Mancherial,Mancherial,Lok Sabha,MP,MP_Telangana_02,1085492.15,26-11-2023,Drinking Water Facility,TS-MPLADS-0477,Water Supply Department,Sanctioned,24-07-2023,Number
+Telangana,Medak,Medak,Lok Sabha,MP,MP_Telangana_08,1722411.37,29-06-2024,Community Hall,TS-MPLADS-0478,Water Supply Department,In Progress,17-05-2024,Number
+Telangana,Medchal-Malkajgiri,Medchal-Malkajgiri,Lok Sabha,MP,MP_Telangana_06,1482166.12,08-11-2022,Drainage Improvement,TS-MPLADS-0479,Health Department,Completed,26-05-2022,Meter
+Telangana,Mulugu,Mulugu,Lok Sabha,MP,MP_Telangana_05,596570.15,16-04-2021,Bus Shelter,TS-MPLADS-0480,District Panchayat,Completed,20-03-2021,Number
+Telangana,Nagarkurnool,Nagarkurnool,Lok Sabha,MP,MP_Telangana_08,551347.8,29-04-2023,Drinking Water Facility,TS-MPLADS-0481,Health Department,Under Execution,17-01-2023,Number
+Telangana,Nalgonda,Nalgonda,Lok Sabha,MP,MP_Telangana_09,1288165.25,25-11-2024,Drainage Improvement,TS-MPLADS-0482,Water Supply Department,In Progress,09-10-2024,Meter
+Telangana,Narayanpet,Narayanpet,Lok Sabha,MP,MP_Telangana_03,455485.26,28-02-2024,Public Toilet,TS-MPLADS-0483,Water Supply Department,Completed,23-10-2023,Number
+Telangana,Nirmal,Nirmal,Lok Sabha,MP,MP_Telangana_05,768857.1,22-03-2023,Drainage Improvement,TS-MPLADS-0484,Municipal Administration,Under Execution,13-02-2023,Meter
+Telangana,Nizamabad,Nizamabad,Lok Sabha,MP,MP_Telangana_03,1111452.16,16-07-2025,Drainage Improvement,TS-MPLADS-0485,Education Department,Completed,23-04-2025,Meter
+Telangana,Peddapalli,Peddapalli,Lok Sabha,MP,MP_Telangana_12,809115.17,29-07-2025,Drinking Water Facility,TS-MPLADS-0486,Water Supply Department,Under Execution,22-04-2025,Number
+Telangana,Rajanna Sircilla,Rajanna Sircilla,Lok Sabha,MP,MP_Telangana_11,532684.13,20-08-2025,Bus Shelter,TS-MPLADS-0487,Municipal Administration,Sanctioned,08-07-2025,Number
+Telangana,Rangareddy,Rangareddy,Lok Sabha,MP,MP_Telangana_11,1061764.4,03-06-2021,Bus Shelter,TS-MPLADS-0488,Local Body,Sanctioned,13-05-2021,Number
+Telangana,Sangareddy,Sangareddy,Lok Sabha,MP,MP_Telangana_07,536936.21,08-04-2023,Street Lighting,TS-MPLADS-0489,Health Department,Sanctioned,11-12-2022,Number
+Telangana,Siddipet,Siddipet,Lok Sabha,MP,MP_Telangana_09,357292.13,14-09-2021,Bus Shelter,TS-MPLADS-0490,Education Department,In Progress,08-05-2021,Number
+Telangana,Suryapet,Suryapet,Lok Sabha,MP,MP_Telangana_04,570772.13,27-08-2023,Bus Shelter,TS-MPLADS-0491,Municipal Administration,Sanctioned,17-05-2023,Number
+Telangana,Vikarabad,Vikarabad,Lok Sabha,MP,MP_Telangana_03,383513.16,13-03-2023,Road Improvement,TS-MPLADS-0492,Health Department,In Progress,20-09-2022,Km
+Telangana,Wanaparthy,Wanaparthy,Lok Sabha,MP,MP_Telangana_09,561078.08,28-08-2025,Drainage Improvement,TS-MPLADS-0493,Local Body,Under Execution,22-05-2025,Meter
+Telangana,Warangal,Warangal,Lok Sabha,MP,MP_Telangana_11,394477.51,17-11-2022,Public Toilet,TS-MPLADS-0494,Education Department,Sanctioned,05-10-2022,Number
+Telangana,Yadadri Bhuvanagiri,Yadadri Bhuvanagiri,Lok Sabha,MP,MP_Telangana_04,390395.06,26-05-2025,Street Lighting,TS-MPLADS-0495,Health Department,Under Execution,25-04-2025,Number
+Telangana,Adilabad,Adilabad,Lok Sabha,MP,MP_Telangana_02,691690.4,09-12-2021,Drainage Improvement,TS-MPLADS-0496,Water Supply Department,In Progress,14-09-2021,Meter
+Telangana,Bhadradri Kothagudem,Bhadradri Kothagudem,Lok Sabha,MP,MP_Telangana_06,815952.2,21-07-2021,Drinking Water Facility,TS-MPLADS-0497,Municipal Administration,In Progress,02-05-2021,Number
+Telangana,Hanamkonda,Hanamkonda,Lok Sabha,MP,MP_Telangana_11,6793087.489999999,07-08-2022,Drainage Improvement,TS-MPLADS-0498,District Panchayat,Under Execution,24-07-2022,Meter
+Telangana,Hyderabad,Hyderabad,Lok Sabha,MP,MP_Telangana_12,633241.7,24-06-2023,Road Improvement,TS-MPLADS-0499,Municipal Administration,Completed,29-01-2023,Km
+Telangana,Jagtial,Jagtial,Lok Sabha,MP,MP_Telangana_06,727634.57,20-06-2025,Drinking Water Facility,TS-MPLADS-0500,District Panchayat,Completed,13-02-2025,Number
+Telangana,Jangaon,Jangaon,Lok Sabha,MP,MP_Telangana_01,2717538.92,15-04-2024,Community Hall,TS-MPLADS-0501,Public Works Department,Completed,14-03-2024,Number
+Telangana,Jayashankar Bhupalpally,Jayashankar Bhupalpally,Lok Sabha,MP,MP_Telangana_05,1104927.33,27-05-2023,School Building Repair,TS-MPLADS-0502,District Panchayat,In Progress,20-01-2023,Number
+Telangana,Jogulamba Gadwal,Jogulamba Gadwal,Lok Sabha,MP,MP_Telangana_08,375329.75,30-06-2021,Street Lighting,TS-MPLADS-0503,District Panchayat,Sanctioned,24-02-2021,Number
+Telangana,Kamareddy,Kamareddy,Lok Sabha,MP,MP_Telangana_01,1214829.87,22-09-2021,Bus Shelter,TS-MPLADS-0504,District Panchayat,In Progress,04-07-2021,Number
+Telangana,Karimnagar,Karimnagar,Lok Sabha,MP,MP_Telangana_10,808740.62,21-03-2023,Drinking Water Facility,TS-MPLADS-0505,Water Supply Department,Sanctioned,01-11-2022,Number
+Telangana,Khammam,Khammam,Lok Sabha,MP,MP_Telangana_01,1286280.81,09-11-2023,School Building Repair,TS-MPLADS-0506,Water Supply Department,In Progress,06-10-2023,Number
+Telangana,Komaram Bheem Asifabad,Komaram Bheem Asifabad,Lok Sabha,MP,MP_Telangana_02,1146545.79,02-05-2023,Library Building,TS-MPLADS-0507,Water Supply Department,Under Execution,18-12-2022,Number
+Telangana,Mahabubabad,Mahabubabad,Lok Sabha,MP,MP_Telangana_08,824985.16,02-08-2021,Drinking Water Facility,TS-MPLADS-0508,Local Body,In Progress,07-02-2021,Number
+Telangana,Mahabubnagar,Mahabubnagar,Lok Sabha,MP,MP_Telangana_08,581314.95,04-12-2024,Bus Shelter,TS-MPLADS-0509,Local Body,Under Execution,31-08-2024,Number
+Telangana,Mancherial,Mancherial,Lok Sabha,MP,MP_Telangana_06,814833.48,24-05-2021,Bus Shelter,TS-MPLADS-0510,Education Department,Completed,13-03-2021,Number
+Telangana,Medak,Medak,Lok Sabha,MP,MP_Telangana_12,677298.6,20-08-2022,Bus Shelter,TS-MPLADS-0511,Rural Development Agency,In Progress,26-07-2022,Number
+Telangana,Medchal-Malkajgiri,Medchal-Malkajgiri,Lok Sabha,MP,MP_Telangana_04,1605926.8,10-03-2025,Community Hall,TS-MPLADS-0512,Municipal Administration,Under Execution,03-12-2024,Number
+Telangana,Mulugu,Mulugu,Lok Sabha,MP,MP_Telangana_02,1268805.34,01-04-2023,School Building Repair,TS-MPLADS-0513,Water Supply Department,Sanctioned,19-03-2023,Number
+Telangana,Nagarkurnool,Nagarkurnool,Lok Sabha,MP,MP_Telangana_06,827071.69,13-01-2023,Road Improvement,TS-MPLADS-0514,Health Department,Sanctioned,04-06-2021,Km
+Telangana,Nalgonda,Nalgonda,Lok Sabha,MP,MP_Telangana_04,1463799.62,31-12-2025,Health Centre Improvement,TS-MPLADS-0515,Health Department,Under Execution,09-07-2025,Number
+Telangana,Narayanpet,Narayanpet,Lok Sabha,MP,MP_Telangana_04,1005645.7,05-03-2023,Community Hall,TS-MPLADS-0516,Water Supply Department,In Progress,02-02-2023,Number
+Telangana,Nirmal,Nirmal,Lok Sabha,MP,MP_Telangana_12,673102.66,04-12-2023,Drinking Water Facility,TS-MPLADS-0517,Health Department,In Progress,22-06-2023,Number
+Telangana,Nizamabad,Nizamabad,Lok Sabha,MP,MP_Telangana_05,3235500.14,11-05-2021,Community Hall,TS-MPLADS-0518,Health Department,Sanctioned,22-02-2021,Number
+Telangana,Peddapalli,Peddapalli,Lok Sabha,MP,MP_Telangana_09,665166.34,09-02-2022,Street Lighting,TS-MPLADS-0519,Education Department,In Progress,05-11-2021,Number
+Telangana,Rajanna Sircilla,Rajanna Sircilla,Lok Sabha,MP,MP_Telangana_09,459310.24,17-10-2022,Street Lighting,TS-MPLADS-0520,Health Department,In Progress,17-08-2022,Number
+Telangana,Rangareddy,Rangareddy,Lok Sabha,MP,MP_Telangana_07,2975951.32,08-01-2025,Community Hall,TS-MPLADS-0521,Rural Development Agency,Under Execution,20-12-2024,Number
+Telangana,Sangareddy,Sangareddy,Lok Sabha,MP,MP_Telangana_01,390834.03,20-12-2022,Street Lighting,TS-MPLADS-0522,Education Department,Completed,06-08-2022,Number
+Telangana,Siddipet,Siddipet,Lok Sabha,MP,MP_Telangana_09,1528504.81,15-06-2022,Health Centre Improvement,TS-MPLADS-0523,District Panchayat,Under Execution,10-02-2022,Number
+Telangana,Suryapet,Suryapet,Lok Sabha,MP,MP_Telangana_08,1214719.68,29-06-2025,Health Centre Improvement,TS-MPLADS-0524,Public Works Department,Sanctioned,12-05-2025,Number
+Telangana,Vikarabad,Vikarabad,Lok Sabha,MP,MP_Telangana_05,550105.45,16-11-2025,Public Toilet,TS-MPLADS-0525,Rural Development Agency,Sanctioned,15-08-2025,Number
+Telangana,Wanaparthy,Wanaparthy,Lok Sabha,MP,MP_Telangana_03,1401569.58,15-11-2023,Library Building,TS-MPLADS-0526,District Panchayat,Completed,26-06-2023,Number
+Telangana,Warangal,Warangal,Lok Sabha,MP,MP_Telangana_04,4346981.52,17-08-2025,Road Improvement,TS-MPLADS-0527,Local Body,Completed,27-04-2025,Km
+Telangana,Yadadri Bhuvanagiri,Yadadri Bhuvanagiri,Lok Sabha,MP,MP_Telangana_04,713979.45,21-04-2022,Bus Shelter,TS-MPLADS-0528,District Panchayat,Completed,13-02-2022,Number
+Telangana,Adilabad,Adilabad,Lok Sabha,MP,MP_Telangana_05,705296.01,26-12-2022,Health Centre Improvement,TS-MPLADS-0529,District Panchayat,In Progress,06-10-2022,Number
+Telangana,Bhadradri Kothagudem,Bhadradri Kothagudem,Lok Sabha,MP,MP_Telangana_01,534229.49,22-09-2021,Drinking Water Facility,TS-MPLADS-0530,District Panchayat,Under Execution,02-06-2021,Number
+Telangana,Hanamkonda,Hanamkonda,Lok Sabha,MP,MP_Telangana_12,870479.96,20-10-2025,Drainage Improvement,TS-MPLADS-0531,Water Supply Department,Sanctioned,12-08-2025,Meter
+Telangana,Hyderabad,Hyderabad,Lok Sabha,MP,MP_Telangana_10,1606007.84,04-07-2022,Health Centre Improvement,TS-MPLADS-0532,Health Department,Under Execution,19-06-2022,Number
+Telangana,Jagtial,Jagtial,Lok Sabha,MP,MP_Telangana_06,620196.92,10-04-2025,Street Lighting,TS-MPLADS-0533,Health Department,Under Execution,03-03-2025,Number
+Telangana,Jangaon,Jangaon,Lok Sabha,MP,MP_Telangana_12,371753.1,30-06-2022,Bus Shelter,TS-MPLADS-0534,Local Body,Under Execution,09-06-2022,Number
+Telangana,Jayashankar Bhupalpally,Jayashankar Bhupalpally,Lok Sabha,MP,MP_Telangana_02,467356.73,18-08-2024,Street Lighting,TS-MPLADS-0535,Municipal Administration,Completed,02-08-2024,Number
+Telangana,Jogulamba Gadwal,Jogulamba Gadwal,Lok Sabha,MP,MP_Telangana_10,5714870.42,15-12-2024,Public Toilet,TS-MPLADS-0536,Education Department,Under Execution,02-08-2024,Number
+Telangana,Kamareddy,Kamareddy,Lok Sabha,MP,MP_Telangana_04,917149.92,31-10-2021,Drinking Water Facility,TS-MPLADS-0537,Water Supply Department,Completed,16-06-2021,Number
+Telangana,Karimnagar,Karimnagar,Lok Sabha,MP,MP_Telangana_04,593414.1,30-04-2023,Public Toilet,TS-MPLADS-0538,Water Supply Department,In Progress,01-02-2023,Number
+Telangana,Khammam,Khammam,Lok Sabha,MP,MP_Telangana_04,754733.48,16-03-2025,Road Improvement,TS-MPLADS-0539,Local Body,In Progress,03-02-2025,Km
+Telangana,Komaram Bheem Asifabad,Komaram Bheem Asifabad,Lok Sabha,MP,MP_Telangana_07,527361.48,24-11-2022,Bus Shelter,TS-MPLADS-0540,Public Works Department,In Progress,12-07-2022,Number
+Telangana,Mahabubabad,Mahabubabad,Lok Sabha,MP,MP_Telangana_02,1731763.59,23-05-2023,Drinking Water Facility,TS-MPLADS-0541,Education Department,Sanctioned,05-05-2023,Number
+Telangana,Mahabubnagar,Mahabubnagar,Lok Sabha,MP,MP_Telangana_10,931406.15,06-03-2023,Drainage Improvement,TS-MPLADS-0542,Health Department,Under Execution,04-12-2022,Meter
+Telangana,Mancherial,Mancherial,Lok Sabha,MP,MP_Telangana_12,529269.8,29-11-2024,Road Improvement,TS-MPLADS-0543,Municipal Administration,Completed,27-08-2024,Km
+Telangana,Medak,Medak,Lok Sabha,MP,MP_Telangana_03,1677237.84,26-09-2023,Health Centre Improvement,TS-MPLADS-0544,District Panchayat,Sanctioned,14-06-2023,Number
+Telangana,Medchal-Malkajgiri,Medchal-Malkajgiri,Lok Sabha,MP,MP_Telangana_12,2061123.53,01-05-2022,Drinking Water Facility,TS-MPLADS-0545,District Panchayat,Sanctioned,24-03-2022,Number
+Telangana,Mulugu,Mulugu,Lok Sabha,MP,MP_Telangana_01,575174.66,03-07-2024,Drinking Water Facility,TS-MPLADS-0546,Municipal Administration,Under Execution,10-05-2024,Number
+Telangana,Nagarkurnool,Nagarkurnool,Lok Sabha,MP,MP_Telangana_07,684612.03,30-07-2021,Road Improvement,TS-MPLADS-0547,Rural Development Agency,Sanctioned,25-04-2021,Km
+Telangana,Nalgonda,Nalgonda,Lok Sabha,MP,MP_Telangana_12,865334.2,06-10-2021,Drinking Water Facility,TS-MPLADS-0548,District Panchayat,Completed,21-07-2021,Number
+Telangana,Narayanpet,Narayanpet,Lok Sabha,MP,MP_Telangana_08,1521111.4,03-08-2022,School Building Repair,TS-MPLADS-0549,Public Works Department,In Progress,04-07-2022,Number
+Telangana,Nirmal,Nirmal,Lok Sabha,MP,MP_Telangana_02,946087.52,01-02-2022,Street Lighting,TS-MPLADS-0550,District Panchayat,In Progress,23-09-2021,Number
+Telangana,Nizamabad,Nizamabad,Lok Sabha,MP,MP_Telangana_02,1873395.0,01-10-2025,Bus Shelter,TS-MPLADS-0551,Education Department,Under Execution,18-04-2025,Number
+Telangana,Peddapalli,Peddapalli,Lok Sabha,MP,MP_Telangana_04,371229.78,06-08-2025,Public Toilet,TS-MPLADS-0552,Health Department,In Progress,30-05-2025,Number
+Telangana,Rajanna Sircilla,Rajanna Sircilla,Lok Sabha,MP,MP_Telangana_03,787092.02,09-02-2023,Bus Shelter,TS-MPLADS-0553,Water Supply Department,In Progress,09-12-2022,Number
+Telangana,Rangareddy,Rangareddy,Lok Sabha,MP,MP_Telangana_01,740986.24,05-08-2024,Street Lighting,TS-MPLADS-0554,Rural Development Agency,Sanctioned,13-04-2024,Number
+Telangana,Sangareddy,Sangareddy,Lok Sabha,MP,MP_Telangana_08,1302676.6,18-11-2022,Community Hall,TS-MPLADS-0555,Water Supply Department,Under Execution,31-07-2022,Number
+Telangana,Siddipet,Siddipet,Lok Sabha,MP,MP_Telangana_11,958264.13,12-09-2024,Library Building,TS-MPLADS-0556,Water Supply Department,In Progress,26-06-2024,Number
+Telangana,Suryapet,Suryapet,Lok Sabha,MP,MP_Telangana_07,1934017.67,23-02-2023,Health Centre Improvement,TS-MPLADS-0557,Water Supply Department,Completed,19-09-2022,Number
+Telangana,Vikarabad,Vikarabad,Lok Sabha,MP,MP_Telangana_04,637454.02,31-12-2022,Street Lighting,TS-MPLADS-0558,Municipal Administration,Completed,20-09-2022,Number
+Telangana,Wanaparthy,Wanaparthy,Lok Sabha,MP,MP_Telangana_08,463731.58,23-05-2022,Public Toilet,TS-MPLADS-0559,Municipal Administration,In Progress,22-03-2022,Number
+Telangana,Warangal,Warangal,Lok Sabha,MP,MP_Telangana_10,516145.19,23-12-2023,Public Toilet,TS-MPLADS-0560,District Panchayat,Sanctioned,27-06-2023,Number
+Telangana,Yadadri Bhuvanagiri,Yadadri Bhuvanagiri,Lok Sabha,MP,MP_Telangana_07,1022925.73,30-08-2025,School Building Repair,TS-MPLADS-0561,Local Body,Under Execution,01-07-2025,Number
+Telangana,Adilabad,Adilabad,Lok Sabha,MP,MP_Telangana_06,1054950.84,18-08-2021,Drinking Water Facility,TS-MPLADS-0562,Education Department,Under Execution,10-04-2021,Number
+Telangana,Bhadradri Kothagudem,Bhadradri Kothagudem,Lok Sabha,MP,MP_Telangana_02,738417.68,04-03-2023,Library Building,TS-MPLADS-0563,Rural Development Agency,Completed,19-02-2023,Number
+Telangana,Hanamkonda,Hanamkonda,Lok Sabha,MP,MP_Telangana_07,557709.55,16-07-2024,Bus Shelter,TS-MPLADS-0564,Water Supply Department,Under Execution,01-07-2024,Number
+Telangana,Hyderabad,Hyderabad,Lok Sabha,MP,MP_Telangana_08,927499.71,21-05-2024,Drainage Improvement,TS-MPLADS-0565,Education Department,Under Execution,06-12-2023,Meter
+Telangana,Jagtial,Jagtial,Lok Sabha,MP,MP_Telangana_01,948818.28,03-02-2025,Drainage Improvement,TS-MPLADS-0566,Health Department,Completed,17-01-2025,Meter
+Telangana,Jangaon,Jangaon,Lok Sabha,MP,MP_Telangana_08,2962606.19,19-05-2025,Community Hall,TS-MPLADS-0567,Rural Development Agency,Completed,02-01-2025,Number
+Telangana,Jayashankar Bhupalpally,Jayashankar Bhupalpally,Lok Sabha,MP,MP_Telangana_09,723816.1,07-12-2022,Library Building,TS-MPLADS-0568,Health Department,Completed,31-07-2022,Number
+Telangana,Jogulamba Gadwal,Jogulamba Gadwal,Lok Sabha,MP,MP_Telangana_10,437489.36,28-06-2025,Street Lighting,TS-MPLADS-0569,District Panchayat,In Progress,18-02-2025,Number
+Telangana,Kamareddy,Kamareddy,Lok Sabha,MP,MP_Telangana_09,1534961.6,18-08-2025,Community Hall,TS-MPLADS-0570,Municipal Administration,In Progress,11-07-2025,Number
+Telangana,Karimnagar,Karimnagar,Lok Sabha,MP,MP_Telangana_01,287392.72,28-09-2022,Public Toilet,TS-MPLADS-0571,Education Department,Completed,24-05-2022,Number
+Telangana,Khammam,Khammam,Lok Sabha,MP,MP_Telangana_09,695723.0,30-06-2021,Library Building,TS-MPLADS-0572,District Panchayat,Under Execution,09-01-2021,Number
+Telangana,Komaram Bheem Asifabad,Komaram Bheem Asifabad,Lok Sabha,MP,MP_Telangana_06,1723137.43,02-05-2023,School Building Repair,TS-MPLADS-0573,Rural Development Agency,In Progress,13-03-2023,Number
+Telangana,Mahabubabad,Mahabubabad,Lok Sabha,MP,MP_Telangana_06,1023195.21,19-09-2023,Bus Shelter,TS-MPLADS-0574,Health Department,Under Execution,06-06-2023,Number
+Telangana,Mahabubnagar,Mahabubnagar,Lok Sabha,MP,MP_Telangana_01,524780.4,16-01-2026,Public Toilet,TS-MPLADS-0575,Rural Development Agency,Completed,19-08-2025,Number
+Telangana,Mancherial,Mancherial,Lok Sabha,MP,MP_Telangana_04,866132.97,26-09-2022,Bus Shelter,TS-MPLADS-0576,Rural Development Agency,Under Execution,22-08-2022,Number
+Telangana,Medak,Medak,Lok Sabha,MP,MP_Telangana_12,1156882.46,16-08-2023,Library Building,TS-MPLADS-0577,Local Body,Completed,24-04-2023,Number
+Telangana,Medchal-Malkajgiri,Medchal-Malkajgiri,Lok Sabha,MP,MP_Telangana_01,731782.82,02-04-2023,Road Improvement,TS-MPLADS-0578,Public Works Department,Under Execution,17-11-2022,Km
+Telangana,Mulugu,Mulugu,Lok Sabha,MP,MP_Telangana_03,660715.61,21-01-2022,Drinking Water Facility,TS-MPLADS-0579,Public Works Department,In Progress,22-12-2021,Number
+Telangana,Nagarkurnool,Nagarkurnool,Lok Sabha,MP,MP_Telangana_05,1472157.73,20-10-2023,Library Building,TS-MPLADS-0580,District Panchayat,Completed,14-09-2023,Number
+Telangana,Nalgonda,Nalgonda,Lok Sabha,MP,MP_Telangana_09,893549.06,25-01-2023,Bus Shelter,TS-MPLADS-0581,Water Supply Department,In Progress,30-12-2022,Number
+Telangana,Narayanpet,Narayanpet,Lok Sabha,MP,MP_Telangana_01,1052292.39,23-12-2023,Drainage Improvement,TS-MPLADS-0582,Health Department,Completed,24-08-2023,Meter
+Telangana,Nirmal,Nirmal,Lok Sabha,MP,MP_Telangana_04,1353061.82,09-11-2024,Drainage Improvement,TS-MPLADS-0583,Rural Development Agency,Completed,22-05-2024,Meter
+Telangana,Nizamabad,Nizamabad,Lok Sabha,MP,MP_Telangana_11,1255928.21,16-05-2025,Health Centre Improvement,TS-MPLADS-0584,District Panchayat,Completed,06-01-2025,Number
+Telangana,Peddapalli,Peddapalli,Lok Sabha,MP,MP_Telangana_11,380246.17,17-07-2021,Library Building,TS-MPLADS-0585,Public Works Department,Sanctioned,06-04-2021,Number
+Telangana,Rajanna Sircilla,Rajanna Sircilla,Lok Sabha,MP,MP_Telangana_10,1378103.76,22-02-2023,Bus Shelter,TS-MPLADS-0586,Rural Development Agency,Sanctioned,26-12-2022,Number
+Telangana,Rangareddy,Rangareddy,Lok Sabha,MP,MP_Telangana_02,1335415.61,26-10-2025,Library Building,TS-MPLADS-0587,Local Body,Completed,09-08-2025,Number
+Telangana,Sangareddy,Sangareddy,Lok Sabha,MP,MP_Telangana_11,1427555.88,19-04-2023,School Building Repair,TS-MPLADS-0588,Local Body,Sanctioned,24-03-2023,Number
+Telangana,Siddipet,Siddipet,Lok Sabha,MP,MP_Telangana_06,1530141.54,21-08-2022,Bus Shelter,TS-MPLADS-0589,District Panchayat,Sanctioned,24-03-2022,Number
+Telangana,Suryapet,Suryapet,Lok Sabha,MP,MP_Telangana_04,1788558.89,18-05-2023,School Building Repair,TS-MPLADS-0590,Water Supply Department,In Progress,25-02-2023,Number
+Telangana,Vikarabad,Vikarabad,Lok Sabha,MP,MP_Telangana_02,459867.91,29-09-2022,Library Building,TS-MPLADS-0591,Municipal Administration,Sanctioned,13-09-2022,Number
+Telangana,Wanaparthy,Wanaparthy,Lok Sabha,MP,MP_Telangana_09,656324.85,10-11-2021,Drainage Improvement,TS-MPLADS-0592,Rural Development Agency,Completed,16-08-2021,Meter
+Telangana,Warangal,Warangal,Lok Sabha,MP,MP_Telangana_01,505167.66,30-12-2021,Street Lighting,TS-MPLADS-0593,District Panchayat,Under Execution,14-09-2021,Number
+Telangana,Yadadri Bhuvanagiri,Yadadri Bhuvanagiri,Lok Sabha,MP,MP_Telangana_01,3609665.99,30-09-2025,Community Hall,TS-MPLADS-0594,Rural Development Agency,Completed,06-08-2025,Number
+Telangana,Adilabad,Adilabad,Lok Sabha,MP,MP_Telangana_10,487158.15,11-12-2023,Library Building,TS-MPLADS-0595,Education Department,Completed,04-10-2023,Number
+Telangana,Bhadradri Kothagudem,Bhadradri Kothagudem,Lok Sabha,MP,MP_Telangana_12,752110.79,21-11-2023,Drinking Water Facility,TS-MPLADS-0596,Public Works Department,Completed,09-10-2023,Number
+Telangana,Hanamkonda,Hanamkonda,Lok Sabha,MP,MP_Telangana_07,1130521.13,14-10-2021,Drainage Improvement,TS-MPLADS-0597,Municipal Administration,Under Execution,30-07-2021,Meter
+Telangana,Hyderabad,Hyderabad,Lok Sabha,MP,MP_Telangana_11,330231.36,01-10-2024,Public Toilet,TS-MPLADS-0598,Municipal Administration,Completed,04-07-2024,Number
+Telangana,Jagtial,Jagtial,Lok Sabha,MP,MP_Telangana_04,1374214.21,17-12-2023,Drainage Improvement,TS-MPLADS-0599,Education Department,Under Execution,03-08-2023,Meter
+Telangana,Jangaon,Jangaon,Lok Sabha,MP,MP_Telangana_12,795604.34,16-08-2024,Drainage Improvement,TS-MPLADS-0600,Municipal Administration,Sanctioned,05-03-2024,Meter
+Telangana,Jayashankar Bhupalpally,Jayashankar Bhupalpally,Lok Sabha,MP,MP_Telangana_02,2219438.23,17-06-2023,Health Centre Improvement,TS-MPLADS-0601,Local Body,Sanctioned,09-04-2023,Number
+Telangana,Jogulamba Gadwal,Jogulamba Gadwal,Lok Sabha,MP,MP_Telangana_12,1700732.92,26-09-2021,Community Hall,TS-MPLADS-0602,Rural Development Agency,Completed,25-04-2021,Number
+Telangana,Kamareddy,Kamareddy,Lok Sabha,MP,MP_Telangana_02,618276.82,24-12-2024,Bus Shelter,TS-MPLADS-0603,Local Body,Sanctioned,25-07-2024,Number
+Telangana,Karimnagar,Karimnagar,Lok Sabha,MP,MP_Telangana_09,2537581.83,16-05-2021,Community Hall,TS-MPLADS-0604,District Panchayat,Under Execution,27-04-2021,Number
+Telangana,Khammam,Khammam,Lok Sabha,MP,MP_Telangana_09,409352.9,18-04-2025,Road Improvement,TS-MPLADS-0605,Public Works Department,In Progress,08-11-2024,Km
+Telangana,Komaram Bheem Asifabad,Komaram Bheem Asifabad,Lok Sabha,MP,MP_Telangana_12,854176.66,12-05-2024,Health Centre Improvement,TS-MPLADS-0606,Municipal Administration,Sanctioned,31-03-2024,Number
+Telangana,Mahabubabad,Mahabubabad,Lok Sabha,MP,MP_Telangana_10,302062.42,18-05-2023,Street Lighting,TS-MPLADS-0607,Public Works Department,Completed,14-01-2023,Number
+Telangana,Mahabubnagar,Mahabubnagar,Lok Sabha,MP,MP_Telangana_07,513098.58,17-04-2022,Road Improvement,TS-MPLADS-0608,Water Supply Department,Sanctioned,11-12-2021,Km
+Telangana,Mancherial,Mancherial,Lok Sabha,MP,MP_Telangana_05,558697.09,24-06-2021,Road Improvement,TS-MPLADS-0609,Water Supply Department,Sanctioned,25-03-2021,Km
+Telangana,Medak,Medak,Lok Sabha,MP,MP_Telangana_09,882732.61,17-05-2024,Drinking Water Facility,TS-MPLADS-0610,District Panchayat,Under Execution,23-01-2024,Number
+Telangana,Medchal-Malkajgiri,Medchal-Malkajgiri,Lok Sabha,MP,MP_Telangana_07,516978.55,17-05-2024,Bus Shelter,TS-MPLADS-0611,Water Supply Department,Completed,29-11-2023,Number
+Telangana,Mulugu,Mulugu,Lok Sabha,MP,MP_Telangana_07,1089830.63,10-09-2022,Community Hall,TS-MPLADS-0612,Education Department,Sanctioned,10-04-2022,Number
+Telangana,Nagarkurnool,Nagarkurnool,Lok Sabha,MP,MP_Telangana_08,440821.14,19-08-2021,Drinking Water Facility,TS-MPLADS-0613,Rural Development Agency,Sanctioned,03-06-2021,Number
+Telangana,Nalgonda,Nalgonda,Lok Sabha,MP,MP_Telangana_08,770478.11,20-01-2025,Library Building,TS-MPLADS-0614,District Panchayat,In Progress,07-11-2024,Number
+Telangana,Narayanpet,Narayanpet,Lok Sabha,MP,MP_Telangana_11,364914.31,30-06-2023,Bus Shelter,TS-MPLADS-0615,District Panchayat,Sanctioned,29-01-2023,Number
+Telangana,Nirmal,Nirmal,Lok Sabha,MP,MP_Telangana_01,1243151.18,23-11-2022,School Building Repair,TS-MPLADS-0616,Public Works Department,Completed,18-09-2022,Number
+Telangana,Nizamabad,Nizamabad,Lok Sabha,MP,MP_Telangana_12,2485311.19,12-03-2023,Community Hall,TS-MPLADS-0617,Local Body,Completed,27-09-2022,Number
+Telangana,Peddapalli,Peddapalli,Lok Sabha,MP,MP_Telangana_05,1050277.77,16-08-2021,Health Centre Improvement,TS-MPLADS-0618,Water Supply Department,In Progress,29-06-2021,Number
+Telangana,Rajanna Sircilla,Rajanna Sircilla,Lok Sabha,MP,MP_Telangana_10,708868.19,30-12-2024,Library Building,TS-MPLADS-0619,Municipal Administration,In Progress,06-08-2024,Number
+Telangana,Rangareddy,Rangareddy,Lok Sabha,MP,MP_Telangana_12,2562107.95,18-09-2021,Community Hall,TS-MPLADS-0620,Health Department,Sanctioned,28-03-2021,Number
+Telangana,Sangareddy,Sangareddy,Lok Sabha,MP,MP_Telangana_03,1998176.85,24-11-2023,Health Centre Improvement,TS-MPLADS-0621,Health Department,In Progress,28-07-2023,Number
+Telangana,Siddipet,Siddipet,Lok Sabha,MP,MP_Telangana_09,3272089.55,23-06-2021,Community Hall,TS-MPLADS-0622,Public Works Department,Under Execution,27-02-2021,Number
+Telangana,Suryapet,Suryapet,Lok Sabha,MP,MP_Telangana_01,845963.43,17-09-2022,Bus Shelter,TS-MPLADS-0623,Health Department,Under Execution,17-04-2022,Number
+Telangana,Vikarabad,Vikarabad,Lok Sabha,MP,MP_Telangana_08,991936.28,14-11-2023,Road Improvement,TS-MPLADS-0624,Health Department,In Progress,25-06-2023,Km
+Telangana,Wanaparthy,Wanaparthy,Lok Sabha,MP,MP_Telangana_02,643524.89,14-09-2021,Library Building,TS-MPLADS-0625,District Panchayat,Under Execution,23-07-2021,Number
+Telangana,Warangal,Warangal,Lok Sabha,MP,MP_Telangana_03,625560.15,18-09-2021,Drinking Water Facility,TS-MPLADS-0626,Local Body,Completed,05-09-2021,Number
+Telangana,Yadadri Bhuvanagiri,Yadadri Bhuvanagiri,Lok Sabha,MP,MP_Telangana_07,1008574.66,21-12-2021,Drinking Water Facility,TS-MPLADS-0627,District Panchayat,Sanctioned,05-10-2021,Number
+Telangana,Adilabad,Adilabad,Lok Sabha,MP,MP_Telangana_02,1345859.47,22-06-2025,School Building Repair,TS-MPLADS-0628,Rural Development Agency,Under Execution,31-03-2025,Number
+Telangana,Bhadradri Kothagudem,Bhadradri Kothagudem,Lok Sabha,MP,MP_Telangana_08,5156759.649999999,02-01-2025,Health Centre Improvement,TS-MPLADS-0629,Education Department,Sanctioned,10-11-2024,Number
+Telangana,Hanamkonda,Hanamkonda,Lok Sabha,MP,MP_Telangana_01,1699652.69,26-06-2024,Drainage Improvement,TS-MPLADS-0630,Local Body,Sanctioned,19-03-2024,Meter
+Telangana,Hyderabad,Hyderabad,Lok Sabha,MP,MP_Telangana_05,2413762.05,24-09-2024,Community Hall,TS-MPLADS-0631,Water Supply Department,Sanctioned,21-08-2024,Number
+Telangana,Jagtial,Jagtial,Lok Sabha,MP,MP_Telangana_06,1295716.9,23-05-2023,Drinking Water Facility,TS-MPLADS-0632,Water Supply Department,Completed,13-05-2023,Number
+Telangana,Jangaon,Jangaon,Lok Sabha,MP,MP_Telangana_05,3325604.15,23-11-2023,Community Hall,TS-MPLADS-0633,Public Works Department,Completed,16-06-2023,Number
+Telangana,Jayashankar Bhupalpally,Jayashankar Bhupalpally,Lok Sabha,MP,MP_Telangana_04,732408.98,14-12-2022,Public Toilet,TS-MPLADS-0634,Municipal Administration,In Progress,28-06-2022,Number
+Telangana,Jogulamba Gadwal,Jogulamba Gadwal,Lok Sabha,MP,MP_Telangana_12,2063627.19,17-05-2024,Community Hall,TS-MPLADS-0635,Education Department,Sanctioned,31-12-2023,Number
+Telangana,Kamareddy,Kamareddy,Lok Sabha,MP,MP_Telangana_04,2135069.15,03-04-2021,Health Centre Improvement,TS-MPLADS-0636,Water Supply Department,Completed,12-02-2021,Number
+Telangana,Karimnagar,Karimnagar,Lok Sabha,MP,MP_Telangana_09,1703347.03,10-03-2024,Library Building,TS-MPLADS-0637,Municipal Administration,Sanctioned,17-11-2023,Number
+Telangana,Khammam,Khammam,Lok Sabha,MP,MP_Telangana_05,405084.96,27-12-2023,Public Toilet,TS-MPLADS-0638,Health Department,Completed,24-10-2023,Number
+Telangana,Komaram Bheem Asifabad,Komaram Bheem Asifabad,Lok Sabha,MP,MP_Telangana_12,626556.32,11-02-2024,Street Lighting,TS-MPLADS-0639,Health Department,Sanctioned,19-01-2024,Number
+Telangana,Mahabubabad,Mahabubabad,Lok Sabha,MP,MP_Telangana_10,607250.95,28-09-2024,Public Toilet,TS-MPLADS-0640,Municipal Administration,Sanctioned,30-06-2024,Number
+Telangana,Mahabubnagar,Mahabubnagar,Lok Sabha,MP,MP_Telangana_11,1113482.68,23-08-2024,School Building Repair,TS-MPLADS-0641,District Panchayat,Under Execution,30-03-2024,Number
+Telangana,Mancherial,Mancherial,Lok Sabha,MP,MP_Telangana_03,780634.64,20-09-2021,Drinking Water Facility,TS-MPLADS-0642,Education Department,In Progress,11-05-2021,Number
+Telangana,Medak,Medak,Lok Sabha,MP,MP_Telangana_02,1494646.54,05-09-2022,Library Building,TS-MPLADS-0643,Rural Development Agency,In Progress,23-07-2022,Number
+Telangana,Medchal-Malkajgiri,Medchal-Malkajgiri,Lok Sabha,MP,MP_Telangana_11,940598.59,24-11-2024,Library Building,TS-MPLADS-0644,Water Supply Department,Completed,29-07-2024,Number
+Telangana,Mulugu,Mulugu,Lok Sabha,MP,MP_Telangana_11,566842.5,29-09-2022,Library Building,TS-MPLADS-0645,District Panchayat,In Progress,18-05-2022,Number
+Telangana,Nagarkurnool,Nagarkurnool,Lok Sabha,MP,MP_Telangana_12,1730084.13,05-09-2025,Health Centre Improvement,TS-MPLADS-0646,Water Supply Department,Sanctioned,22-05-2025,Number
+Telangana,Nalgonda,Nalgonda,Lok Sabha,MP,MP_Telangana_10,758926.56,25-06-2023,Drainage Improvement,TS-MPLADS-0647,District Panchayat,Completed,16-02-2023,Meter
+Telangana,Narayanpet,Narayanpet,Lok Sabha,MP,MP_Telangana_03,714694.72,05-04-2024,Street Lighting,TS-MPLADS-0648,Rural Development Agency,In Progress,11-11-2023,Number
+Telangana,Nirmal,Nirmal,Lok Sabha,MP,MP_Telangana_10,385619.77,01-08-2025,Drinking Water Facility,TS-MPLADS-0649,District Panchayat,Under Execution,16-02-2025,Number
+Telangana,Nizamabad,Nizamabad,Lok Sabha,MP,MP_Telangana_06,939106.76,08-05-2022,Road Improvement,TS-MPLADS-0650,Public Works Department,Under Execution,06-04-2022,Km
+Telangana,Peddapalli,Peddapalli,Lok Sabha,MP,MP_Telangana_11,914625.88,14-04-2025,Drainage Improvement,TS-MPLADS-0651,Local Body,Under Execution,31-10-2024,Meter
+Telangana,Rajanna Sircilla,Rajanna Sircilla,Lok Sabha,MP,MP_Telangana_12,575404.67,13-05-2022,Drinking Water Facility,TS-MPLADS-0652,Municipal Administration,In Progress,24-01-2022,Number
+Telangana,Rangareddy,Rangareddy,Lok Sabha,MP,MP_Telangana_05,824977.87,18-10-2023,Bus Shelter,TS-MPLADS-0653,Health Department,Completed,11-08-2023,Number
+Telangana,Sangareddy,Sangareddy,Lok Sabha,MP,MP_Telangana_06,1599170.83,08-09-2021,Health Centre Improvement,TS-MPLADS-0654,Education Department,Sanctioned,21-05-2021,Number
+Telangana,Siddipet,Siddipet,Lok Sabha,MP,MP_Telangana_06,356839.74,16-07-2023,Public Toilet,TS-MPLADS-0655,Education Department,Completed,05-06-2023,Number
+Telangana,Suryapet,Suryapet,Lok Sabha,MP,MP_Telangana_03,1683914.49,12-01-2025,School Building Repair,TS-MPLADS-0656,Water Supply Department,Under Execution,30-10-2024,Number
+Telangana,Vikarabad,Vikarabad,Lok Sabha,MP,MP_Telangana_11,2124396.52,02-11-2023,Health Centre Improvement,TS-MPLADS-0657,Water Supply Department,Under Execution,05-09-2023,Number
+Telangana,Wanaparthy,Wanaparthy,Lok Sabha,MP,MP_Telangana_10,995331.87,06-11-2024,Drinking Water Facility,TS-MPLADS-0658,Municipal Administration,Under Execution,24-05-2024,Number
+Telangana,Warangal,Warangal,Lok Sabha,MP,MP_Telangana_06,898412.61,25-09-2025,Road Improvement,TS-MPLADS-0659,Public Works Department,Sanctioned,16-08-2025,Km
+Telangana,Yadadri Bhuvanagiri,Yadadri Bhuvanagiri,Lok Sabha,MP,MP_Telangana_12,773938.36,23-07-2023,Road Improvement,TS-MPLADS-0660,Public Works Department,Sanctioned,09-02-2023,Km
+Telangana,Adilabad,Adilabad,Lok Sabha,MP,MP_Telangana_03,1474915.1,16-11-2021,Drainage Improvement,TS-MPLADS-0661,Health Department,In Progress,30-06-2021,Meter
+Telangana,Bhadradri Kothagudem,Bhadradri Kothagudem,Lok Sabha,MP,MP_Telangana_03,1095644.27,15-02-2023,Health Centre Improvement,TS-MPLADS-0662,Education Department,Under Execution,01-11-2022,Number
+Telangana,Hanamkonda,Hanamkonda,Lok Sabha,MP,MP_Telangana_01,502102.7,23-06-2025,Drinking Water Facility,TS-MPLADS-0663,Public Works Department,In Progress,02-03-2025,Number
+Telangana,Hyderabad,Hyderabad,Lok Sabha,MP,MP_Telangana_06,697381.51,25-02-2024,Drinking Water Facility,TS-MPLADS-0664,Public Works Department,In Progress,11-11-2023,Number
+Telangana,Jagtial,Jagtial,Lok Sabha,MP,MP_Telangana_07,1107924.78,04-11-2023,Drinking Water Facility,TS-MPLADS-0665,Water Supply Department,Under Execution,17-09-2023,Number
+Telangana,Jangaon,Jangaon,Lok Sabha,MP,MP_Telangana_05,393675.11,12-07-2024,Public Toilet,TS-MPLADS-0666,Education Department,Under Execution,21-06-2024,Number
+Telangana,Jayashankar Bhupalpally,Jayashankar Bhupalpally,Lok Sabha,MP,MP_Telangana_07,1136581.37,12-10-2021,School Building Repair,TS-MPLADS-0667,Water Supply Department,Sanctioned,18-09-2021,Number
+Telangana,Jogulamba Gadwal,Jogulamba Gadwal,Lok Sabha,MP,MP_Telangana_09,788206.33,26-06-2022,Drinking Water Facility,TS-MPLADS-0668,Public Works Department,Sanctioned,10-02-2022,Number
+Telangana,Kamareddy,Kamareddy,Lok Sabha,MP,MP_Telangana_05,2504661.84,16-08-2025,Community Hall,TS-MPLADS-0669,Municipal Administration,Under Execution,01-06-2025,Number
+Telangana,Karimnagar,Karimnagar,Lok Sabha,MP,MP_Telangana_02,915553.15,08-03-2025,Street Lighting,TS-MPLADS-0670,Education Department,Completed,27-01-2025,Number
+Telangana,Khammam,Khammam,Lok Sabha,MP,MP_Telangana_11,1222195.89,18-04-2023,Health Centre Improvement,TS-MPLADS-0671,Health Department,Sanctioned,31-10-2022,Number
+Telangana,Komaram Bheem Asifabad,Komaram Bheem Asifabad,Lok Sabha,MP,MP_Telangana_10,500790.32,26-03-2024,Road Improvement,TS-MPLADS-0672,Rural Development Agency,In Progress,22-10-2022,Km
+Telangana,Mahabubabad,Mahabubabad,Lok Sabha,MP,MP_Telangana_03,751914.09,29-04-2025,Drainage Improvement,TS-MPLADS-0673,Education Department,Sanctioned,26-02-2025,Meter
+Telangana,Mahabubnagar,Mahabubnagar,Lok Sabha,MP,MP_Telangana_03,514667.06,02-08-2025,Library Building,TS-MPLADS-0674,Rural Development Agency,Under Execution,11-07-2025,Number
+Telangana,Mancherial,Mancherial,Lok Sabha,MP,MP_Telangana_07,1221883.76,27-03-2022,Health Centre Improvement,TS-MPLADS-0675,Public Works Department,Completed,20-01-2022,Number
+Telangana,Medak,Medak,Lok Sabha,MP,MP_Telangana_07,702303.06,10-11-2023,Street Lighting,TS-MPLADS-0676,District Panchayat,In Progress,05-08-2023,Number
+Telangana,Medchal-Malkajgiri,Medchal-Malkajgiri,Lok Sabha,MP,MP_Telangana_03,303239.43,19-02-2023,Public Toilet,TS-MPLADS-0677,Water Supply Department,Under Execution,29-11-2022,Number
+Telangana,Mulugu,Mulugu,Lok Sabha,MP,MP_Telangana_05,727511.61,27-09-2021,Drinking Water Facility,TS-MPLADS-0678,Local Body,Completed,21-08-2021,Number
+Telangana,Nagarkurnool,Nagarkurnool,Lok Sabha,MP,MP_Telangana_07,1157100.61,05-07-2022,Bus Shelter,TS-MPLADS-0679,Education Department,In Progress,23-05-2022,Number
+Telangana,Nalgonda,Nalgonda,Lok Sabha,MP,MP_Telangana_03,1022816.46,17-07-2023,Drainage Improvement,TS-MPLADS-0680,District Panchayat,Sanctioned,22-02-2023,Meter
+Telangana,Narayanpet,Narayanpet,Lok Sabha,MP,MP_Telangana_02,820553.25,02-03-2024,Road Improvement,TS-MPLADS-0681,Education Department,Completed,06-09-2023,Km
+Telangana,Nirmal,Nirmal,Lok Sabha,MP,MP_Telangana_05,942500.45,27-12-2024,School Building Repair,TS-MPLADS-0682,Municipal Administration,Completed,24-07-2024,Number
+Telangana,Nizamabad,Nizamabad,Lok Sabha,MP,MP_Telangana_06,643653.46,04-04-2022,Bus Shelter,TS-MPLADS-0683,Local Body,Completed,14-11-2021,Number
+Telangana,Peddapalli,Peddapalli,Lok Sabha,MP,MP_Telangana_11,487782.23,23-08-2024,Road Improvement,TS-MPLADS-0684,Education Department,Under Execution,15-05-2024,Km
+Telangana,Rajanna Sircilla,Rajanna Sircilla,Lok Sabha,MP,MP_Telangana_11,837944.25,28-02-2025,Street Lighting,TS-MPLADS-0685,Education Department,Sanctioned,17-09-2024,Number
+Telangana,Rangareddy,Rangareddy,Lok Sabha,MP,MP_Telangana_08,665608.02,04-09-2023,Drainage Improvement,TS-MPLADS-0686,Education Department,Completed,12-06-2023,Meter
+Telangana,Sangareddy,Sangareddy,Lok Sabha,MP,MP_Telangana_01,1363137.95,05-07-2022,Drainage Improvement,TS-MPLADS-0687,Education Department,In Progress,21-06-2022,Meter
+Telangana,Siddipet,Siddipet,Lok Sabha,MP,MP_Telangana_11,257121.54,13-03-2024,Road Improvement,TS-MPLADS-0688,District Panchayat,Completed,23-02-2024,Km
+Telangana,Suryapet,Suryapet,Lok Sabha,MP,MP_Telangana_11,1536654.94,07-11-2024,School Building Repair,TS-MPLADS-0689,Municipal Administration,Under Execution,21-09-2024,Number
+Telangana,Vikarabad,Vikarabad,Lok Sabha,MP,MP_Telangana_08,511963.08,26-12-2022,Public Toilet,TS-MPLADS-0690,Rural Development Agency,In Progress,27-08-2022,Number
+Telangana,Wanaparthy,Wanaparthy,Lok Sabha,MP,MP_Telangana_02,615406.28,16-11-2021,Drainage Improvement,TS-MPLADS-0691,Rural Development Agency,Sanctioned,18-08-2021,Meter
+Telangana,Warangal,Warangal,Lok Sabha,MP,MP_Telangana_03,1277874.17,23-10-2022,School Building Repair,TS-MPLADS-0692,Municipal Administration,Sanctioned,21-08-2022,Number
+Telangana,Yadadri Bhuvanagiri,Yadadri Bhuvanagiri,Lok Sabha,MP,MP_Telangana_12,659668.6,22-10-2023,Bus Shelter,TS-MPLADS-0693,Education Department,Under Execution,06-07-2023,Number
+Telangana,Adilabad,Adilabad,Lok Sabha,MP,MP_Telangana_09,443812.97,04-12-2022,Bus Shelter,TS-MPLADS-0694,Water Supply Department,Under Execution,08-05-2021,Number
+Telangana,Bhadradri Kothagudem,Bhadradri Kothagudem,Lok Sabha,MP,MP_Telangana_08,607958.31,21-12-2023,Road Improvement,TS-MPLADS-0695,Education Department,Sanctioned,13-09-2023,Km
+Telangana,Hanamkonda,Hanamkonda,Lok Sabha,MP,MP_Telangana_12,1139454.77,08-10-2024,Bus Shelter,TS-MPLADS-0696,Education Department,Completed,02-08-2024,Number
+Telangana,Hyderabad,Hyderabad,Lok Sabha,MP,MP_Telangana_02,322209.19,31-01-2024,Street Lighting,TS-MPLADS-0697,Health Department,In Progress,10-10-2023,Number
+Telangana,Jagtial,Jagtial,Lok Sabha,MP,MP_Telangana_03,763521.99,19-10-2024,Drainage Improvement,TS-MPLADS-0698,Rural Development Agency,Completed,27-05-2024,Meter
+Telangana,Jangaon,Jangaon,Lok Sabha,MP,MP_Telangana_09,1376226.27,10-03-2025,School Building Repair,TS-MPLADS-0699,Public Works Department,Completed,24-01-2025,Number
+Telangana,Jayashankar Bhupalpally,Jayashankar Bhupalpally,Lok Sabha,MP,MP_Telangana_04,875314.31,14-11-2023,Street Lighting,TS-MPLADS-0700,District Panchayat,In Progress,08-08-2023,Number
+Telangana,Jogulamba Gadwal,Jogulamba Gadwal,Lok Sabha,MP,MP_Telangana_04,3250609.85,04-09-2025,Community Hall,TS-MPLADS-0701,Education Department,Completed,19-04-2025,Number
+Telangana,Kamareddy,Kamareddy,Lok Sabha,MP,MP_Telangana_12,829666.19,05-12-2025,Library Building,TS-MPLADS-0702,Rural Development Agency,In Progress,13-06-2025,Number
+Telangana,Karimnagar,Karimnagar,Lok Sabha,MP,MP_Telangana_10,634352.13,09-06-2022,School Building Repair,TS-MPLADS-0703,Municipal Administration,Completed,09-01-2022,Number
+Telangana,Khammam,Khammam,Lok Sabha,MP,MP_Telangana_06,1403127.8,20-05-2023,Library Building,TS-MPLADS-0704,Water Supply Department,Sanctioned,07-02-2023,Number
+Telangana,Komaram Bheem Asifabad,Komaram Bheem Asifabad,Lok Sabha,MP,MP_Telangana_08,688809.12,19-06-2024,Drinking Water Facility,TS-MPLADS-0705,Education Department,In Progress,30-12-2023,Number
+Telangana,Mahabubabad,Mahabubabad,Lok Sabha,MP,MP_Telangana_10,588473.54,30-04-2021,Public Toilet,TS-MPLADS-0706,Education Department,In Progress,19-03-2021,Number
+Telangana,Mahabubnagar,Mahabubnagar,Lok Sabha,MP,MP_Telangana_03,834189.2,10-07-2022,Bus Shelter,TS-MPLADS-0707,Local Body,Completed,22-02-2022,Number
+Telangana,Mancherial,Mancherial,Lok Sabha,MP,MP_Telangana_10,903409.1,12-05-2021,Drainage Improvement,TS-MPLADS-0708,Education Department,In Progress,20-04-2021,Meter
+Telangana,Medak,Medak,Lok Sabha,MP,MP_Telangana_10,2014111.57,08-03-2023,School Building Repair,TS-MPLADS-0709,Education Department,Under Execution,04-01-2023,Number
+Telangana,Medchal-Malkajgiri,Medchal-Malkajgiri,Lok Sabha,MP,MP_Telangana_08,1763766.0,13-08-2025,School Building Repair,TS-MPLADS-0710,Municipal Administration,Sanctioned,17-05-2025,Number
+Telangana,Mulugu,Mulugu,Lok Sabha,MP,MP_Telangana_05,639667.12,13-08-2023,Road Improvement,TS-MPLADS-0711,Municipal Administration,In Progress,18-02-2023,Km
+Telangana,Nagarkurnool,Nagarkurnool,Lok Sabha,MP,MP_Telangana_05,1263734.28,15-09-2021,Drainage Improvement,TS-MPLADS-0712,Water Supply Department,In Progress,27-06-2021,Meter
+Telangana,Nalgonda,Nalgonda,Lok Sabha,MP,MP_Telangana_12,519389.38,04-10-2023,Public Toilet,TS-MPLADS-0713,Water Supply Department,Sanctioned,05-08-2023,Number
+Telangana,Narayanpet,Narayanpet,Lok Sabha,MP,MP_Telangana_01,617784.76,02-03-2023,Library Building,TS-MPLADS-0714,Local Body,Completed,18-02-2023,Number
+Telangana,Nirmal,Nirmal,Lok Sabha,MP,MP_Telangana_05,2073964.83,16-05-2022,Community Hall,TS-MPLADS-0715,Education Department,Completed,12-04-2022,Number
+Telangana,Nizamabad,Nizamabad,Lok Sabha,MP,MP_Telangana_02,3284600.71,15-11-2021,Community Hall,TS-MPLADS-0716,District Panchayat,In Progress,03-10-2021,Number
+Telangana,Peddapalli,Peddapalli,Lok Sabha,MP,MP_Telangana_03,666174.07,26-09-2023,Street Lighting,TS-MPLADS-0717,Public Works Department,Under Execution,22-07-2023,Number
+Telangana,Rajanna Sircilla,Rajanna Sircilla,Lok Sabha,MP,MP_Telangana_02,768098.82,11-11-2021,Drinking Water Facility,TS-MPLADS-0718,Local Body,Under Execution,04-07-2021,Number
+Telangana,Rangareddy,Rangareddy,Lok Sabha,MP,MP_Telangana_08,2154403.61,15-03-2024,Drainage Improvement,TS-MPLADS-0719,Health Department,Completed,17-11-2023,Meter
+Telangana,Sangareddy,Sangareddy,Lok Sabha,MP,MP_Telangana_03,564601.49,01-10-2025,Drinking Water Facility,TS-MPLADS-0720,Education Department,In Progress,15-07-2025,Number
+Telangana,Siddipet,Siddipet,Lok Sabha,MP,MP_Telangana_12,2710209.77,07-01-2023,Community Hall,TS-MPLADS-0721,Public Works Department,Under Execution,15-10-2022,Number
+Telangana,Suryapet,Suryapet,Lok Sabha,MP,MP_Telangana_08,880554.78,07-02-2023,Street Lighting,TS-MPLADS-0722,Education Department,Completed,07-10-2022,Number
+Telangana,Vikarabad,Vikarabad,Lok Sabha,MP,MP_Telangana_07,416167.44,03-07-2025,Street Lighting,TS-MPLADS-0723,Water Supply Department,Completed,18-04-2025,Number
+Telangana,Wanaparthy,Wanaparthy,Lok Sabha,MP,MP_Telangana_09,1266470.51,31-07-2023,Drainage Improvement,TS-MPLADS-0724,District Panchayat,Completed,26-06-2023,Meter
+Telangana,Warangal,Warangal,Lok Sabha,MP,MP_Telangana_11,1088923.53,14-04-2022,Library Building,TS-MPLADS-0725,District Panchayat,Sanctioned,20-02-2022,Number
+Telangana,Yadadri Bhuvanagiri,Yadadri Bhuvanagiri,Lok Sabha,MP,MP_Telangana_01,731603.1,08-12-2025,Bus Shelter,TS-MPLADS-0726,Rural Development Agency,Sanctioned,26-08-2025,Number
+Telangana,Adilabad,Adilabad,Lok Sabha,MP,MP_Telangana_08,623976.07,20-05-2021,Public Toilet,TS-MPLADS-0727,Public Works Department,Sanctioned,12-04-2021,Number
+Telangana,Bhadradri Kothagudem,Bhadradri Kothagudem,Lok Sabha,MP,MP_Telangana_09,386389.45,20-11-2022,Street Lighting,TS-MPLADS-0728,Education Department,Completed,13-09-2022,Number
+Telangana,Hanamkonda,Hanamkonda,Lok Sabha,MP,MP_Telangana_11,1832626.08,26-12-2023,Health Centre Improvement,TS-MPLADS-0729,Water Supply Department,In Progress,16-08-2023,Number
+Telangana,Hyderabad,Hyderabad,Lok Sabha,MP,MP_Telangana_02,360616.22,09-11-2022,Bus Shelter,TS-MPLADS-0730,Health Department,Completed,01-07-2022,Number
+Telangana,Jagtial,Jagtial,Lok Sabha,MP,MP_Telangana_03,2071499.84,03-01-2026,Community Hall,TS-MPLADS-0731,Local Body,Completed,05-08-2025,Number
+Telangana,Jangaon,Jangaon,Lok Sabha,MP,MP_Telangana_06,683644.24,11-09-2022,Public Toilet,TS-MPLADS-0732,Education Department,Under Execution,28-04-2022,Number
+Telangana,Jayashankar Bhupalpally,Jayashankar Bhupalpally,Lok Sabha,MP,MP_Telangana_11,778441.43,15-10-2025,Road Improvement,TS-MPLADS-0733,Rural Development Agency,Under Execution,17-06-2025,Km
+Telangana,Jogulamba Gadwal,Jogulamba Gadwal,Lok Sabha,MP,MP_Telangana_11,2225398.15,07-12-2021,Community Hall,TS-MPLADS-0734,Municipal Administration,In Progress,09-09-2021,Number
+Telangana,Kamareddy,Kamareddy,Lok Sabha,MP,MP_Telangana_01,396429.13,01-01-2022,Public Toilet,TS-MPLADS-0735,Health Department,Under Execution,24-09-2021,Number
+Telangana,Karimnagar,Karimnagar,Lok Sabha,MP,MP_Telangana_08,1541847.38,04-11-2021,Health Centre Improvement,TS-MPLADS-0736,Local Body,Sanctioned,21-06-2021,Number
+Telangana,Khammam,Khammam,Lok Sabha,MP,MP_Telangana_04,488987.3,28-11-2022,Drinking Water Facility,TS-MPLADS-0737,Local Body,Completed,29-06-2022,Number
+Telangana,Komaram Bheem Asifabad,Komaram Bheem Asifabad,Lok Sabha,MP,MP_Telangana_08,1217420.85,21-04-2023,School Building Repair,TS-MPLADS-0738,District Panchayat,Under Execution,09-03-2023,Number
+Telangana,Mahabubabad,Mahabubabad,Lok Sabha,MP,MP_Telangana_10,1814521.98,27-07-2023,Health Centre Improvement,TS-MPLADS-0739,Health Department,Sanctioned,10-05-2023,Number
+Telangana,Mahabubnagar,Mahabubnagar,Lok Sabha,MP,MP_Telangana_11,548844.09,24-08-2024,School Building Repair,TS-MPLADS-0740,Water Supply Department,In Progress,02-05-2024,Number
+Telangana,Mancherial,Mancherial,Lok Sabha,MP,MP_Telangana_08,1328644.24,29-10-2021,Bus Shelter,TS-MPLADS-0741,Health Department,Completed,19-06-2021,Number
+Telangana,Medak,Medak,Lok Sabha,MP,MP_Telangana_07,648998.85,04-10-2021,Street Lighting,TS-MPLADS-0742,Municipal Administration,Sanctioned,14-04-2021,Number
+Telangana,Medchal-Malkajgiri,Medchal-Malkajgiri,Lok Sabha,MP,MP_Telangana_10,684783.31,20-02-2025,Public Toilet,TS-MPLADS-0743,Local Body,Sanctioned,06-09-2024,Number
+Telangana,Mulugu,Mulugu,Lok Sabha,MP,MP_Telangana_06,896664.24,03-09-2023,Library Building,TS-MPLADS-0744,Municipal Administration,Completed,16-08-2023,Number
+Telangana,Nagarkurnool,Nagarkurnool,Lok Sabha,MP,MP_Telangana_02,1447350.95,07-12-2025,Library Building,TS-MPLADS-0745,Health Department,Sanctioned,23-07-2025,Number
+Telangana,Nalgonda,Nalgonda,Lok Sabha,MP,MP_Telangana_09,986831.29,19-04-2022,Street Lighting,TS-MPLADS-0746,Public Works Department,Under Execution,21-02-2022,Number
+Telangana,Narayanpet,Narayanpet,Lok Sabha,MP,MP_Telangana_02,778535.1,08-01-2024,Public Toilet,TS-MPLADS-0747,Water Supply Department,Under Execution,30-09-2023,Number
+Telangana,Nirmal,Nirmal,Lok Sabha,MP,MP_Telangana_11,1299303.74,15-07-2022,School Building Repair,TS-MPLADS-0748,Public Works Department,Sanctioned,13-05-2022,Number
+Telangana,Nizamabad,Nizamabad,Lok Sabha,MP,MP_Telangana_09,1355111.88,24-09-2022,Drainage Improvement,TS-MPLADS-0749,Municipal Administration,Completed,19-04-2022,Meter
+Telangana,Peddapalli,Peddapalli,Lok Sabha,MP,MP_Telangana_03,802356.52,01-10-2022,Drainage Improvement,TS-MPLADS-0750,District Panchayat,Sanctioned,09-07-2022,Meter
+Telangana,Rajanna Sircilla,Rajanna Sircilla,Lok Sabha,MP,MP_Telangana_07,7587314.909999999,16-04-2023,Drainage Improvement,TS-MPLADS-0751,Public Works Department,Completed,18-03-2023,Meter
+Telangana,Rangareddy,Rangareddy,Lok Sabha,MP,MP_Telangana_11,513079.27,31-08-2022,Drinking Water Facility,TS-MPLADS-0752,Health Department,In Progress,30-03-2022,Number
+Telangana,Sangareddy,Sangareddy,Lok Sabha,MP,MP_Telangana_01,605978.2,17-11-2024,Street Lighting,TS-MPLADS-0753,Public Works Department,Completed,04-09-2024,Number
+Telangana,Siddipet,Siddipet,Lok Sabha,MP,MP_Telangana_09,5090015.06,03-09-2025,Community Hall,TS-MPLADS-0754,Local Body,Completed,03-08-2025,Number
+Telangana,Suryapet,Suryapet,Lok Sabha,MP,MP_Telangana_08,791437.88,06-04-2023,Drinking Water Facility,TS-MPLADS-0755,Municipal Administration,Under Execution,10-11-2021,Number
+Telangana,Vikarabad,Vikarabad,Lok Sabha,MP,MP_Telangana_06,379979.62,17-10-2024,Public Toilet,TS-MPLADS-0756,District Panchayat,Sanctioned,24-07-2024,Number
+Telangana,Wanaparthy,Wanaparthy,Lok Sabha,MP,MP_Telangana_03,484541.13,02-09-2025,Public Toilet,TS-MPLADS-0757,Public Works Department,Completed,11-04-2025,Number
+Telangana,Warangal,Warangal,Lok Sabha,MP,MP_Telangana_10,629721.62,22-01-2024,Library Building,TS-MPLADS-0758,Water Supply Department,In Progress,08-01-2024,Number
+Telangana,Yadadri Bhuvanagiri,Yadadri Bhuvanagiri,Lok Sabha,MP,MP_Telangana_02,1045270.51,29-12-2023,Street Lighting,TS-MPLADS-0759,Education Department,In Progress,16-11-2023,Number
+Telangana,Adilabad,Adilabad,Lok Sabha,MP,MP_Telangana_06,2121051.65,08-03-2024,School Building Repair,TS-MPLADS-0760,Municipal Administration,Under Execution,14-10-2023,Number
+Telangana,Bhadradri Kothagudem,Bhadradri Kothagudem,Lok Sabha,MP,MP_Telangana_06,611766.14,20-10-2022,Drinking Water Facility,TS-MPLADS-0761,Health Department,Completed,28-09-2022,Number
+Telangana,Hanamkonda,Hanamkonda,Lok Sabha,MP,MP_Telangana_06,2224091.41,18-06-2024,Community Hall,TS-MPLADS-0762,Education Department,Under Execution,28-05-2024,Number
+Telangana,Hyderabad,Hyderabad,Lok Sabha,MP,MP_Telangana_09,407214.0,27-01-2025,Road Improvement,TS-MPLADS-0763,Rural Development Agency,Under Execution,18-10-2024,Km
+Telangana,Jagtial,Jagtial,Lok Sabha,MP,MP_Telangana_08,724674.52,08-08-2022,Public Toilet,TS-MPLADS-0764,Water Supply Department,In Progress,28-07-2022,Number
+Telangana,Jangaon,Jangaon,Lok Sabha,MP,MP_Telangana_02,1060442.49,02-03-2022,School Building Repair,TS-MPLADS-0765,District Panchayat,Under Execution,13-01-2022,Number
+Telangana,Jayashankar Bhupalpally,Jayashankar Bhupalpally,Lok Sabha,MP,MP_Telangana_04,820083.14,26-10-2024,Library Building,TS-MPLADS-0766,Public Works Department,In Progress,17-07-2024,Number
+Telangana,Jogulamba Gadwal,Jogulamba Gadwal,Lok Sabha,MP,MP_Telangana_12,342210.29,11-12-2023,Bus Shelter,TS-MPLADS-0767,Public Works Department,Under Execution,19-07-2023,Number
+Telangana,Kamareddy,Kamareddy,Lok Sabha,MP,MP_Telangana_01,1914625.72,13-08-2023,Community Hall,TS-MPLADS-0768,District Panchayat,In Progress,03-03-2023,Number
+Telangana,Karimnagar,Karimnagar,Lok Sabha,MP,MP_Telangana_03,646850.22,20-04-2022,Public Toilet,TS-MPLADS-0769,Municipal Administration,Completed,15-03-2022,Number
+Telangana,Khammam,Khammam,Lok Sabha,MP,MP_Telangana_10,675962.93,27-10-2025,Road Improvement,TS-MPLADS-0770,Rural Development Agency,Sanctioned,19-06-2025,Km
+Telangana,Komaram Bheem Asifabad,Komaram Bheem Asifabad,Lok Sabha,MP,MP_Telangana_08,1318762.44,25-11-2022,Drainage Improvement,TS-MPLADS-0771,Rural Development Agency,Under Execution,18-07-2022,Meter
+Telangana,Mahabubabad,Mahabubabad,Lok Sabha,MP,MP_Telangana_04,895944.92,01-10-2022,School Building Repair,TS-MPLADS-0772,Education Department,Sanctioned,29-05-2022,Number
+Telangana,Mahabubnagar,Mahabubnagar,Lok Sabha,MP,MP_Telangana_08,512678.5,08-05-2023,Road Improvement,TS-MPLADS-0773,Water Supply Department,Sanctioned,07-02-2023,Km
+Telangana,Mancherial,Mancherial,Lok Sabha,MP,MP_Telangana_04,1185134.36,02-10-2022,Library Building,TS-MPLADS-0774,Local Body,In Progress,06-04-2022,Number
+Telangana,Medak,Medak,Lok Sabha,MP,MP_Telangana_06,1417012.18,09-12-2022,Library Building,TS-MPLADS-0775,Health Department,Completed,18-07-2022,Number
+Telangana,Medchal-Malkajgiri,Medchal-Malkajgiri,Lok Sabha,MP,MP_Telangana_02,1024710.55,01-09-2023,School Building Repair,TS-MPLADS-0776,Health Department,Under Execution,10-07-2023,Number
+Telangana,Mulugu,Mulugu,Lok Sabha,MP,MP_Telangana_11,1976137.19,14-02-2023,Community Hall,TS-MPLADS-0777,Health Department,Completed,27-12-2022,Number
+Telangana,Nagarkurnool,Nagarkurnool,Lok Sabha,MP,MP_Telangana_10,2850386.88,15-08-2024,School Building Repair,TS-MPLADS-0778,Education Department,Completed,11-05-2024,Number
+Telangana,Nalgonda,Nalgonda,Lok Sabha,MP,MP_Telangana_05,765747.54,29-08-2024,Road Improvement,TS-MPLADS-0779,Education Department,Completed,13-08-2024,Km
+Telangana,Narayanpet,Narayanpet,Lok Sabha,MP,MP_Telangana_01,810454.97,11-09-2025,Street Lighting,TS-MPLADS-0780,Public Works Department,Sanctioned,21-08-2025,Number
+Telangana,Nirmal,Nirmal,Lok Sabha,MP,MP_Telangana_09,1090889.37,24-06-2024,Road Improvement,TS-MPLADS-0781,District Panchayat,Completed,03-06-2024,Km
+Telangana,Nizamabad,Nizamabad,Lok Sabha,MP,MP_Telangana_08,514929.23,09-02-2021,Drinking Water Facility,TS-MPLADS-0782,Water Supply Department,Completed,02-01-2021,Number
+Telangana,Peddapalli,Peddapalli,Lok Sabha,MP,MP_Telangana_04,866899.33,13-02-2022,Drinking Water Facility,TS-MPLADS-0783,Water Supply Department,Completed,13-11-2021,Number
+Telangana,Rajanna Sircilla,Rajanna Sircilla,Lok Sabha,MP,MP_Telangana_04,466134.24,05-07-2025,Bus Shelter,TS-MPLADS-0784,Rural Development Agency,Under Execution,07-04-2025,Number
+Telangana,Rangareddy,Rangareddy,Lok Sabha,MP,MP_Telangana_09,2313638.08,19-09-2021,Health Centre Improvement,TS-MPLADS-0785,Rural Development Agency,Sanctioned,31-08-2021,Number
+Telangana,Sangareddy,Sangareddy,Lok Sabha,MP,MP_Telangana_03,2273896.38,04-07-2021,School Building Repair,TS-MPLADS-0786,Water Supply Department,Sanctioned,13-06-2021,Number
+Telangana,Siddipet,Siddipet,Lok Sabha,MP,MP_Telangana_09,2427732.8,04-12-2025,School Building Repair,TS-MPLADS-0787,Education Department,Under Execution,05-08-2025,Number
+Telangana,Suryapet,Suryapet,Lok Sabha,MP,MP_Telangana_01,788666.13,04-05-2024,Street Lighting,TS-MPLADS-0788,Health Department,In Progress,27-02-2024,Number
+Telangana,Vikarabad,Vikarabad,Lok Sabha,MP,MP_Telangana_07,651991.59,24-01-2021,Public Toilet,TS-MPLADS-0789,Water Supply Department,In Progress,08-01-2021,Number
+Telangana,Wanaparthy,Wanaparthy,Lok Sabha,MP,MP_Telangana_03,1085772.79,13-09-2023,Library Building,TS-MPLADS-0790,Local Body,Completed,16-04-2023,Number
+Telangana,Warangal,Warangal,Lok Sabha,MP,MP_Telangana_11,1658671.32,23-06-2024,Health Centre Improvement,TS-MPLADS-0791,Education Department,In Progress,20-05-2024,Number
+Telangana,Yadadri Bhuvanagiri,Yadadri Bhuvanagiri,Lok Sabha,MP,MP_Telangana_01,899312.95,21-03-2022,School Building Repair,TS-MPLADS-0792,Public Works Department,Sanctioned,28-11-2021,Number
+Telangana,Adilabad,Adilabad,Lok Sabha,MP,MP_Telangana_05,1526534.18,25-05-2024,School Building Repair,TS-MPLADS-0793,Education Department,Completed,07-01-2024,Number
+Telangana,Bhadradri Kothagudem,Bhadradri Kothagudem,Lok Sabha,MP,MP_Telangana_12,886654.76,04-01-2022,Drainage Improvement,TS-MPLADS-0794,District Panchayat,Under Execution,20-09-2021,Meter
+Telangana,Hanamkonda,Hanamkonda,Lok Sabha,MP,MP_Telangana_08,1263576.5,22-08-2025,Library Building,TS-MPLADS-0795,Water Supply Department,In Progress,08-04-2025,Number
+Telangana,Hyderabad,Hyderabad,Lok Sabha,MP,MP_Telangana_01,582193.57,25-02-2021,Road Improvement,TS-MPLADS-0796,Local Body,Completed,07-01-2021,Km
+Telangana,Jagtial,Jagtial,Lok Sabha,MP,MP_Telangana_09,4224347.54,29-09-2022,Public Toilet,TS-MPLADS-0797,Local Body,Sanctioned,21-08-2022,Number
+Telangana,Jangaon,Jangaon,Lok Sabha,MP,MP_Telangana_09,378904.81,07-02-2022,Public Toilet,TS-MPLADS-0798,Education Department,Completed,06-09-2021,Number
+Telangana,Jayashankar Bhupalpally,Jayashankar Bhupalpally,Lok Sabha,MP,MP_Telangana_04,1139185.97,15-05-2022,Library Building,TS-MPLADS-0799,Education Department,Under Execution,23-04-2022,Number
+Telangana,Jogulamba Gadwal,Jogulamba Gadwal,Lok Sabha,MP,MP_Telangana_09,761113.57,12-09-2024,Road Improvement,TS-MPLADS-0800,Water Supply Department,Under Execution,15-07-2024,Km
+Telangana,Kamareddy,Kamareddy,Lok Sabha,MP,MP_Telangana_03,1431260.58,25-05-2024,Health Centre Improvement,TS-MPLADS-0801,District Panchayat,In Progress,26-02-2024,Number
+Telangana,Karimnagar,Karimnagar,Lok Sabha,MP,MP_Telangana_02,2279768.02,08-03-2023,Community Hall,TS-MPLADS-0802,District Panchayat,Completed,17-01-2023,Number
+Telangana,Khammam,Khammam,Lok Sabha,MP,MP_Telangana_02,1089776.84,19-10-2021,Drainage Improvement,TS-MPLADS-0803,Municipal Administration,In Progress,07-10-2021,Meter
+Telangana,Komaram Bheem Asifabad,Komaram Bheem Asifabad,Lok Sabha,MP,MP_Telangana_04,1351852.28,05-01-2023,School Building Repair,TS-MPLADS-0804,Local Body,Sanctioned,27-08-2022,Number
+Telangana,Mahabubabad,Mahabubabad,Lok Sabha,MP,MP_Telangana_04,461805.7,02-09-2025,Bus Shelter,TS-MPLADS-0805,Local Body,Sanctioned,12-04-2025,Number
+Telangana,Mahabubnagar,Mahabubnagar,Lok Sabha,MP,MP_Telangana_10,1216625.61,07-10-2022,School Building Repair,TS-MPLADS-0806,District Panchayat,In Progress,11-08-2022,Number
+Telangana,Mancherial,Mancherial,Lok Sabha,MP,MP_Telangana_07,2659884.42,15-10-2025,Community Hall,TS-MPLADS-0807,Local Body,In Progress,10-07-2025,Number
+Telangana,Medak,Medak,Lok Sabha,MP,MP_Telangana_10,295980.68,30-04-2021,Public Toilet,TS-MPLADS-0808,Water Supply Department,In Progress,05-03-2021,Number
+Telangana,Medchal-Malkajgiri,Medchal-Malkajgiri,Lok Sabha,MP,MP_Telangana_01,743446.67,02-10-2023,School Building Repair,TS-MPLADS-0809,Municipal Administration,Sanctioned,20-08-2023,Number
+Telangana,Mulugu,Mulugu,Lok Sabha,MP,MP_Telangana_06,744981.25,15-05-2021,School Building Repair,TS-MPLADS-0810,Rural Development Agency,Completed,03-05-2021,Number
+Telangana,Nagarkurnool,Nagarkurnool,Lok Sabha,MP,MP_Telangana_10,396914.8,07-04-2023,Street Lighting,TS-MPLADS-0811,District Panchayat,Completed,17-11-2021,Number
+Telangana,Nalgonda,Nalgonda,Lok Sabha,MP,MP_Telangana_08,1395439.04,22-08-2025,Health Centre Improvement,TS-MPLADS-0812,Health Department,Sanctioned,20-06-2025,Number
+Telangana,Narayanpet,Narayanpet,Lok Sabha,MP,MP_Telangana_10,1352375.96,25-07-2024,Drainage Improvement,TS-MPLADS-0813,Public Works Department,Sanctioned,12-04-2024,Meter
+Telangana,Nirmal,Nirmal,Lok Sabha,MP,MP_Telangana_02,2217310.78,24-12-2022,Community Hall,TS-MPLADS-0814,Public Works Department,Completed,05-07-2022,Number
+Telangana,Nizamabad,Nizamabad,Lok Sabha,MP,MP_Telangana_02,577760.48,20-11-2023,Road Improvement,TS-MPLADS-0815,Water Supply Department,Sanctioned,14-04-2022,Km
+Telangana,Peddapalli,Peddapalli,Lok Sabha,MP,MP_Telangana_06,488953.61,07-01-2024,Road Improvement,TS-MPLADS-0816,Municipal Administration,In Progress,05-12-2023,Km
+Telangana,Rajanna Sircilla,Rajanna Sircilla,Lok Sabha,MP,MP_Telangana_09,915821.65,16-12-2022,Street Lighting,TS-MPLADS-0817,Education Department,In Progress,23-08-2022,Number
+Telangana,Rangareddy,Rangareddy,Lok Sabha,MP,MP_Telangana_12,1236397.04,19-04-2023,School Building Repair,TS-MPLADS-0818,Local Body,In Progress,08-04-2023,Number
+Telangana,Sangareddy,Sangareddy,Lok Sabha,MP,MP_Telangana_01,812863.09,27-04-2023,Library Building,TS-MPLADS-0819,Public Works Department,In Progress,26-03-2023,Number
+Telangana,Siddipet,Siddipet,Lok Sabha,MP,MP_Telangana_12,380934.22,16-08-2022,Street Lighting,TS-MPLADS-0820,District Panchayat,Completed,12-03-2022,Number
+Telangana,Suryapet,Suryapet,Lok Sabha,MP,MP_Telangana_01,2544463.56,31-05-2021,Health Centre Improvement,TS-MPLADS-0821,District Panchayat,Completed,16-04-2021,Number
+Telangana,Vikarabad,Vikarabad,Lok Sabha,MP,MP_Telangana_12,3026232.81,30-09-2025,Community Hall,TS-MPLADS-0822,Water Supply Department,Sanctioned,06-05-2025,Number
+Telangana,Wanaparthy,Wanaparthy,Lok Sabha,MP,MP_Telangana_01,400964.11,12-08-2022,Street Lighting,TS-MPLADS-0823,Water Supply Department,Completed,12-05-2022,Number
+Telangana,Warangal,Warangal,Lok Sabha,MP,MP_Telangana_04,766217.83,17-10-2021,Road Improvement,TS-MPLADS-0824,Local Body,In Progress,26-05-2021,Km
+Telangana,Yadadri Bhuvanagiri,Yadadri Bhuvanagiri,Lok Sabha,MP,MP_Telangana_10,436429.45,22-05-2024,Bus Shelter,TS-MPLADS-0825,Municipal Administration,Under Execution,18-04-2024,Number
+Telangana,Adilabad,Adilabad,Lok Sabha,MP,MP_Telangana_11,1476698.1,18-12-2022,Health Centre Improvement,TS-MPLADS-0826,Education Department,Completed,23-11-2022,Number
+Telangana,Bhadradri Kothagudem,Bhadradri Kothagudem,Lok Sabha,MP,MP_Telangana_04,789012.01,25-08-2025,Road Improvement,TS-MPLADS-0827,Rural Development Agency,Completed,25-05-2025,Km
+Telangana,Hanamkonda,Hanamkonda,Lok Sabha,MP,MP_Telangana_05,533164.09,27-10-2022,Street Lighting,TS-MPLADS-0828,Education Department,Under Execution,16-09-2022,Number
+Telangana,Hyderabad,Hyderabad,Lok Sabha,MP,MP_Telangana_07,1757985.7,22-10-2022,Library Building,TS-MPLADS-0829,Health Department,Under Execution,12-05-2022,Number
+Telangana,Jagtial,Jagtial,Lok Sabha,MP,MP_Telangana_02,789173.75,06-11-2021,Drinking Water Facility,TS-MPLADS-0830,Public Works Department,Sanctioned,25-09-2021,Number
+Telangana,Jangaon,Jangaon,Lok Sabha,MP,MP_Telangana_08,892092.65,17-10-2024,Library Building,TS-MPLADS-0831,District Panchayat,In Progress,14-09-2024,Number
+Telangana,Jayashankar Bhupalpally,Jayashankar Bhupalpally,Lok Sabha,MP,MP_Telangana_02,672875.3,04-06-2021,Library Building,TS-MPLADS-0832,Rural Development Agency,In Progress,25-02-2021,Number
+Telangana,Jogulamba Gadwal,Jogulamba Gadwal,Lok Sabha,MP,MP_Telangana_05,1043332.1,22-06-2023,School Building Repair,TS-MPLADS-0833,Local Body,In Progress,23-04-2023,Number
+Telangana,Kamareddy,Kamareddy,Lok Sabha,MP,MP_Telangana_09,1420798.84,06-04-2024,Drainage Improvement,TS-MPLADS-0834,Municipal Administration,In Progress,27-02-2024,Meter
+Telangana,Karimnagar,Karimnagar,Lok Sabha,MP,MP_Telangana_08,1747107.91,25-02-2024,School Building Repair,TS-MPLADS-0835,Health Department,In Progress,22-09-2023,Number
+Telangana,Khammam,Khammam,Lok Sabha,MP,MP_Telangana_08,991744.21,29-05-2024,Drainage Improvement,TS-MPLADS-0836,District Panchayat,In Progress,25-03-2024,Meter
+Telangana,Komaram Bheem Asifabad,Komaram Bheem Asifabad,Lok Sabha,MP,MP_Telangana_01,869754.23,05-06-2025,Road Improvement,TS-MPLADS-0837,District Panchayat,Completed,26-02-2025,Km
+Telangana,Mahabubabad,Mahabubabad,Lok Sabha,MP,MP_Telangana_06,843576.85,23-09-2023,Drinking Water Facility,TS-MPLADS-0838,Health Department,Under Execution,13-05-2023,Number
+Telangana,Mahabubnagar,Mahabubnagar,Lok Sabha,MP,MP_Telangana_12,1266473.12,14-04-2023,Drainage Improvement,TS-MPLADS-0839,Municipal Administration,Under Execution,13-02-2023,Meter
+Telangana,Mancherial,Mancherial,Lok Sabha,MP,MP_Telangana_07,767650.79,19-08-2025,Street Lighting,TS-MPLADS-0840,Education Department,Sanctioned,18-04-2025,Number
+Telangana,Medak,Medak,Lok Sabha,MP,MP_Telangana_12,1881614.15,08-01-2024,Health Centre Improvement,TS-MPLADS-0841,Municipal Administration,In Progress,23-07-2023,Number
+Telangana,Medchal-Malkajgiri,Medchal-Malkajgiri,Lok Sabha,MP,MP_Telangana_09,1352700.22,09-11-2021,Library Building,TS-MPLADS-0842,Health Department,Completed,24-08-2021,Number
+Telangana,Mulugu,Mulugu,Lok Sabha,MP,MP_Telangana_12,1573312.82,15-11-2024,School Building Repair,TS-MPLADS-0843,Health Department,Completed,12-06-2024,Number
+Telangana,Nagarkurnool,Nagarkurnool,Lok Sabha,MP,MP_Telangana_08,919353.53,21-06-2024,Road Improvement,TS-MPLADS-0844,Education Department,Under Execution,22-03-2024,Km
+Telangana,Nalgonda,Nalgonda,Lok Sabha,MP,MP_Telangana_11,613621.04,11-09-2023,Street Lighting,TS-MPLADS-0845,Water Supply Department,Under Execution,09-06-2023,Number
+Telangana,Narayanpet,Narayanpet,Lok Sabha,MP,MP_Telangana_04,592761.38,08-08-2023,Street Lighting,TS-MPLADS-0846,Health Department,Completed,28-05-2023,Number
+Telangana,Nirmal,Nirmal,Lok Sabha,MP,MP_Telangana_02,634349.99,23-07-2024,Bus Shelter,TS-MPLADS-0847,Education Department,Completed,26-01-2024,Number
+Telangana,Nizamabad,Nizamabad,Lok Sabha,MP,MP_Telangana_03,339378.12,16-09-2022,Street Lighting,TS-MPLADS-0848,Rural Development Agency,Under Execution,25-05-2022,Number
+Telangana,Peddapalli,Peddapalli,Lok Sabha,MP,MP_Telangana_11,920415.52,29-04-2021,Bus Shelter,TS-MPLADS-0849,Public Works Department,In Progress,08-04-2021,Number
+Telangana,Rajanna Sircilla,Rajanna Sircilla,Lok Sabha,MP,MP_Telangana_05,1276955.14,23-02-2024,School Building Repair,TS-MPLADS-0850,District Panchayat,Sanctioned,26-01-2024,Number
+Telangana,Rangareddy,Rangareddy,Lok Sabha,MP,MP_Telangana_11,579242.43,01-11-2021,Public Toilet,TS-MPLADS-0851,Public Works Department,Under Execution,27-05-2021,Number
+Telangana,Sangareddy,Sangareddy,Lok Sabha,MP,MP_Telangana_07,271712.4,24-09-2023,Bus Shelter,TS-MPLADS-0852,Public Works Department,Completed,15-08-2023,Number
+Telangana,Siddipet,Siddipet,Lok Sabha,MP,MP_Telangana_07,489911.99,14-06-2021,Bus Shelter,TS-MPLADS-0853,Public Works Department,In Progress,10-05-2021,Number
+Telangana,Suryapet,Suryapet,Lok Sabha,MP,MP_Telangana_08,647007.21,04-05-2021,Street Lighting,TS-MPLADS-0854,Water Supply Department,Completed,13-01-2021,Number
+Telangana,Vikarabad,Vikarabad,Lok Sabha,MP,MP_Telangana_05,707390.34,16-08-2021,Road Improvement,TS-MPLADS-0855,Municipal Administration,In Progress,10-03-2021,Km
+Telangana,Wanaparthy,Wanaparthy,Lok Sabha,MP,MP_Telangana_10,640195.04,06-07-2024,Road Improvement,TS-MPLADS-0856,Local Body,Under Execution,29-02-2024,Km
+Telangana,Warangal,Warangal,Lok Sabha,MP,MP_Telangana_07,697974.36,17-08-2024,Road Improvement,TS-MPLADS-0857,Rural Development Agency,Completed,22-03-2024,Km
+Telangana,Yadadri Bhuvanagiri,Yadadri Bhuvanagiri,Lok Sabha,MP,MP_Telangana_10,1783426.08,07-12-2025,Community Hall,TS-MPLADS-0858,Municipal Administration,Under Execution,12-08-2025,Number
+Telangana,Adilabad,Adilabad,Lok Sabha,MP,MP_Telangana_10,1350882.05,27-02-2021,Road Improvement,TS-MPLADS-0859,Public Works Department,Under Execution,04-02-2021,Km
+Telangana,Bhadradri Kothagudem,Bhadradri Kothagudem,Lok Sabha,MP,MP_Telangana_04,793468.38,28-03-2021,Drinking Water Facility,TS-MPLADS-0860,Rural Development Agency,Under Execution,12-01-2021,Number
+Telangana,Hanamkonda,Hanamkonda,Lok Sabha,MP,MP_Telangana_04,480719.76,04-02-2024,Road Improvement,TS-MPLADS-0861,Water Supply Department,Under Execution,20-11-2023,Km
+Telangana,Hyderabad,Hyderabad,Lok Sabha,MP,MP_Telangana_06,1226697.12,22-04-2023,Library Building,TS-MPLADS-0862,Public Works Department,In Progress,17-01-2023,Number
+Telangana,Jagtial,Jagtial,Lok Sabha,MP,MP_Telangana_06,417475.89,03-12-2023,Drinking Water Facility,TS-MPLADS-0863,Public Works Department,Under Execution,29-07-2023,Number
+Telangana,Jangaon,Jangaon,Lok Sabha,MP,MP_Telangana_07,1947846.21,02-07-2025,Community Hall,TS-MPLADS-0864,District Panchayat,Sanctioned,04-05-2025,Number
+Telangana,Jayashankar Bhupalpally,Jayashankar Bhupalpally,Lok Sabha,MP,MP_Telangana_07,897364.37,08-05-2025,Road Improvement,TS-MPLADS-0865,Municipal Administration,Sanctioned,26-11-2024,Km
+Telangana,Jogulamba Gadwal,Jogulamba Gadwal,Lok Sabha,MP,MP_Telangana_09,1426213.1,25-04-2024,School Building Repair,TS-MPLADS-0866,Education Department,In Progress,24-02-2024,Number
+Telangana,Kamareddy,Kamareddy,Lok Sabha,MP,MP_Telangana_01,556553.07,24-03-2024,School Building Repair,TS-MPLADS-0867,Education Department,Sanctioned,28-09-2023,Number
+Telangana,Karimnagar,Karimnagar,Lok Sabha,MP,MP_Telangana_10,543249.89,23-11-2021,Drinking Water Facility,TS-MPLADS-0868,Health Department,Under Execution,08-08-2021,Number
+Telangana,Khammam,Khammam,Lok Sabha,MP,MP_Telangana_11,839177.74,17-01-2023,Drinking Water Facility,TS-MPLADS-0869,Local Body,Sanctioned,29-10-2022,Number
+Telangana,Komaram Bheem Asifabad,Komaram Bheem Asifabad,Lok Sabha,MP,MP_Telangana_08,1161097.54,25-04-2021,Drinking Water Facility,TS-MPLADS-0870,Rural Development Agency,Sanctioned,02-01-2021,Number
+Telangana,Mahabubabad,Mahabubabad,Lok Sabha,MP,MP_Telangana_10,799807.1,16-07-2023,Bus Shelter,TS-MPLADS-0871,Public Works Department,In Progress,25-04-2023,Number
+Telangana,Mahabubnagar,Mahabubnagar,Lok Sabha,MP,MP_Telangana_09,513179.24,09-10-2025,Drainage Improvement,TS-MPLADS-0872,Municipal Administration,Under Execution,19-06-2025,Meter
+Telangana,Mancherial,Mancherial,Lok Sabha,MP,MP_Telangana_10,383442.92,20-09-2025,Street Lighting,TS-MPLADS-0873,Water Supply Department,Completed,12-04-2025,Number
+Telangana,Medak,Medak,Lok Sabha,MP,MP_Telangana_10,633744.38,07-12-2023,Road Improvement,TS-MPLADS-0874,Education Department,Under Execution,13-07-2023,Km
+Telangana,Medchal-Malkajgiri,Medchal-Malkajgiri,Lok Sabha,MP,MP_Telangana_05,1022644.79,25-10-2021,Library Building,TS-MPLADS-0875,Local Body,In Progress,06-07-2021,Number
+Telangana,Mulugu,Mulugu,Lok Sabha,MP,MP_Telangana_02,431445.01,19-12-2021,Public Toilet,TS-MPLADS-0876,Local Body,In Progress,04-07-2021,Number
+Telangana,Nagarkurnool,Nagarkurnool,Lok Sabha,MP,MP_Telangana_01,344974.63,16-09-2021,Street Lighting,TS-MPLADS-0877,Rural Development Agency,Completed,24-03-2021,Number
+Telangana,Nalgonda,Nalgonda,Lok Sabha,MP,MP_Telangana_10,834003.67,12-06-2024,Public Toilet,TS-MPLADS-0878,Health Department,Sanctioned,13-04-2024,Number
+Telangana,Narayanpet,Narayanpet,Lok Sabha,MP,MP_Telangana_04,923376.76,08-11-2021,Library Building,TS-MPLADS-0879,Health Department,Sanctioned,20-09-2021,Number
+Telangana,Nirmal,Nirmal,Lok Sabha,MP,MP_Telangana_03,568007.47,18-11-2026,Drainage Improvement,TS-MPLADS-0880,Health Department,In Progress,15-02-2025,Meter
+Telangana,Nizamabad,Nizamabad,Lok Sabha,MP,MP_Telangana_12,966605.1,19-09-2023,Street Lighting,TS-MPLADS-0881,Municipal Administration,Under Execution,28-03-2023,Number
+Telangana,Peddapalli,Peddapalli,Lok Sabha,MP,MP_Telangana_07,349350.14,07-05-2025,Street Lighting,TS-MPLADS-0882,Municipal Administration,Sanctioned,08-01-2025,Number
+Telangana,Rajanna Sircilla,Rajanna Sircilla,Lok Sabha,MP,MP_Telangana_10,758917.87,29-05-2022,School Building Repair,TS-MPLADS-0883,Education Department,Under Execution,13-05-2022,Number
+Telangana,Rangareddy,Rangareddy,Lok Sabha,MP,MP_Telangana_07,1340341.39,15-02-2024,Drainage Improvement,TS-MPLADS-0884,Education Department,Sanctioned,25-11-2023,Meter
+Telangana,Sangareddy,Sangareddy,Lok Sabha,MP,MP_Telangana_03,984607.88,26-08-2025,Road Improvement,TS-MPLADS-0885,District Panchayat,Under Execution,18-03-2025,Km
+Telangana,Siddipet,Siddipet,Lok Sabha,MP,MP_Telangana_06,904695.42,15-01-2025,Bus Shelter,TS-MPLADS-0886,Municipal Administration,In Progress,03-01-2025,Number
+Telangana,Suryapet,Suryapet,Lok Sabha,MP,MP_Telangana_02,1635521.69,14-01-2025,Community Hall,TS-MPLADS-0887,Local Body,In Progress,19-07-2024,Number
+Telangana,Vikarabad,Vikarabad,Lok Sabha,MP,MP_Telangana_05,1986960.27,21-10-2022,School Building Repair,TS-MPLADS-0888,Public Works Department,In Progress,02-07-2022,Number
+Telangana,Wanaparthy,Wanaparthy,Lok Sabha,MP,MP_Telangana_01,645531.47,26-07-2024,Bus Shelter,TS-MPLADS-0889,Health Department,Under Execution,20-06-2024,Number
+Telangana,Warangal,Warangal,Lok Sabha,MP,MP_Telangana_09,624626.12,04-03-2023,Public Toilet,TS-MPLADS-0890,District Panchayat,Under Execution,14-11-2022,Number
+Telangana,Yadadri Bhuvanagiri,Yadadri Bhuvanagiri,Lok Sabha,MP,MP_Telangana_06,1407808.51,24-11-2022,Health Centre Improvement,TS-MPLADS-0891,Public Works Department,In Progress,26-10-2022,Number
+Telangana,Adilabad,Adilabad,Lok Sabha,MP,MP_Telangana_04,717431.47,18-10-2024,Street Lighting,TS-MPLADS-0892,Public Works Department,Completed,28-09-2024,Number
+Telangana,Bhadradri Kothagudem,Bhadradri Kothagudem,Lok Sabha,MP,MP_Telangana_12,1359594.18,15-06-2021,School Building Repair,TS-MPLADS-0893,Municipal Administration,In Progress,17-03-2021,Number
+Telangana,Hanamkonda,Hanamkonda,Lok Sabha,MP,MP_Telangana_02,502206.09,26-06-2022,Public Toilet,TS-MPLADS-0894,Local Body,Completed,03-05-2022,Number
+Telangana,Hyderabad,Hyderabad,Lok Sabha,MP,MP_Telangana_01,537880.16,28-09-2025,Street Lighting,TS-MPLADS-0895,Municipal Administration,Completed,10-05-2025,Number
+Telangana,Jagtial,Jagtial,Lok Sabha,MP,MP_Telangana_03,572069.94,26-01-2022,Public Toilet,TS-MPLADS-0896,Public Works Department,In Progress,05-12-2021,Number
+Telangana,Jangaon,Jangaon,Lok Sabha,MP,MP_Telangana_11,1554345.83,24-11-2023,Drainage Improvement,TS-MPLADS-0897,Education Department,Sanctioned,12-11-2023,Meter
+Telangana,Jayashankar Bhupalpally,Jayashankar Bhupalpally,Lok Sabha,MP,MP_Telangana_02,707591.76,22-11-2022,Street Lighting,TS-MPLADS-0898,District Panchayat,Under Execution,14-09-2022,Number
+Telangana,Jogulamba Gadwal,Jogulamba Gadwal,Lok Sabha,MP,MP_Telangana_04,1217405.36,14-01-2024,Drainage Improvement,TS-MPLADS-0899,Municipal Administration,Under Execution,24-11-2023,Meter
+Telangana,Kamareddy,Kamareddy,Lok Sabha,MP,MP_Telangana_07,568509.48,19-04-2024,Street Lighting,TS-MPLADS-0900,Municipal Administration,Sanctioned,11-02-2024,Number
+Telangana,Karimnagar,Karimnagar,Lok Sabha,MP,MP_Telangana_03,2631053.38,01-02-2024,Health Centre Improvement,TS-MPLADS-0901,Water Supply Department,Under Execution,29-12-2023,Number
+Telangana,Khammam,Khammam,Lok Sabha,MP,MP_Telangana_05,693989.73,05-03-2024,Drainage Improvement,TS-MPLADS-0902,District Panchayat,Completed,16-10-2023,Meter
+Telangana,Komaram Bheem Asifabad,Komaram Bheem Asifabad,Lok Sabha,MP,MP_Telangana_03,1244879.89,20-11-2024,Drainage Improvement,TS-MPLADS-0903,Education Department,Sanctioned,29-10-2024,Meter
+Telangana,Mahabubabad,Mahabubabad,Lok Sabha,MP,MP_Telangana_01,612793.3,25-08-2022,Public Toilet,TS-MPLADS-0904,Health Department,Completed,16-04-2022,Number
+Telangana,Mahabubnagar,Mahabubnagar,Lok Sabha,MP,MP_Telangana_10,386569.04,01-08-2021,Street Lighting,TS-MPLADS-0905,Municipal Administration,In Progress,30-03-2021,Number
+Telangana,Mancherial,Mancherial,Lok Sabha,MP,MP_Telangana_11,1542483.09,19-05-2022,School Building Repair,TS-MPLADS-0906,Local Body,Completed,25-02-2022,Number
+Telangana,Medak,Medak,Lok Sabha,MP,MP_Telangana_03,1933753.44,19-09-2022,Health Centre Improvement,TS-MPLADS-0907,Water Supply Department,Completed,10-06-2022,Number
+Telangana,Medchal-Malkajgiri,Medchal-Malkajgiri,Lok Sabha,MP,MP_Telangana_06,885933.37,07-03-2022,Drainage Improvement,TS-MPLADS-0908,Education Department,Completed,27-09-2021,Meter
+Telangana,Mulugu,Mulugu,Lok Sabha,MP,MP_Telangana_11,1280742.58,11-06-2022,School Building Repair,TS-MPLADS-0909,Municipal Administration,Sanctioned,28-12-2021,Number
+Telangana,Nagarkurnool,Nagarkurnool,Lok Sabha,MP,MP_Telangana_06,1642052.91,06-04-2022,Drinking Water Facility,TS-MPLADS-0910,District Panchayat,Completed,13-02-2022,Number
+Telangana,Nalgonda,Nalgonda,Lok Sabha,MP,MP_Telangana_07,3055010.61,05-11-2022,Health Centre Improvement,TS-MPLADS-0911,Water Supply Department,Sanctioned,08-10-2022,Number
+Telangana,Narayanpet,Narayanpet,Lok Sabha,MP,MP_Telangana_05,578031.68,04-06-2022,Bus Shelter,TS-MPLADS-0912,Water Supply Department,Under Execution,19-05-2022,Number
+Telangana,Nirmal,Nirmal,Lok Sabha,MP,MP_Telangana_07,935855.87,16-12-2022,Drinking Water Facility,TS-MPLADS-0913,Local Body,Completed,02-07-2022,Number
+Telangana,Nizamabad,Nizamabad,Lok Sabha,MP,MP_Telangana_03,573170.23,18-06-2024,Road Improvement,TS-MPLADS-0914,Health Department,In Progress,08-06-2024,Km
+Telangana,Peddapalli,Peddapalli,Lok Sabha,MP,MP_Telangana_02,1631593.25,29-03-2022,Road Improvement,TS-MPLADS-0915,District Panchayat,Under Execution,10-11-2021,Km
+Telangana,Rajanna Sircilla,Rajanna Sircilla,Lok Sabha,MP,MP_Telangana_05,662978.91,20-01-2024,Public Toilet,TS-MPLADS-0916,Municipal Administration,Sanctioned,12-11-2023,Number
+Telangana,Rangareddy,Rangareddy,Lok Sabha,MP,MP_Telangana_07,493236.9,27-10-2021,Public Toilet,TS-MPLADS-0917,Local Body,In Progress,06-06-2021,Number
+Telangana,Sangareddy,Sangareddy,Lok Sabha,MP,MP_Telangana_01,1020319.63,11-09-2022,School Building Repair,TS-MPLADS-0918,Rural Development Agency,In Progress,24-05-2022,Number
+Telangana,Siddipet,Siddipet,Lok Sabha,MP,MP_Telangana_03,946428.86,06-03-2025,Bus Shelter,TS-MPLADS-0919,Local Body,Sanctioned,10-02-2025,Number
+Telangana,Suryapet,Suryapet,Lok Sabha,MP,MP_Telangana_02,820124.04,07-05-2021,Drainage Improvement,TS-MPLADS-0920,Municipal Administration,Sanctioned,14-04-2021,Meter
+Telangana,Vikarabad,Vikarabad,Lok Sabha,MP,MP_Telangana_09,1445168.91,25-06-2023,Library Building,TS-MPLADS-0921,Municipal Administration,Under Execution,17-01-2023,Number
+Telangana,Wanaparthy,Wanaparthy,Lok Sabha,MP,MP_Telangana_10,1084737.25,30-11-2025,Health Centre Improvement,TS-MPLADS-0922,Local Body,Under Execution,14-08-2025,Number
+Telangana,Warangal,Warangal,Lok Sabha,MP,MP_Telangana_10,1213570.31,13-08-2024,Drinking Water Facility,TS-MPLADS-0923,Education Department,In Progress,26-05-2024,Number
+Telangana,Yadadri Bhuvanagiri,Yadadri Bhuvanagiri,Lok Sabha,MP,MP_Telangana_07,1591265.23,06-04-2024,Community Hall,TS-MPLADS-0924,Municipal Administration,In Progress,22-12-2023,Number
+Telangana,Adilabad,Adilabad,Lok Sabha,MP,MP_Telangana_10,3059078.54,16-03-2025,Bus Shelter,TS-MPLADS-0925,Education Department,Completed,25-10-2024,Number
+Telangana,Bhadradri Kothagudem,Bhadradri Kothagudem,Lok Sabha,MP,MP_Telangana_10,717520.27,18-05-2024,Drainage Improvement,TS-MPLADS-0926,Municipal Administration,Under Execution,21-04-2024,Meter
+Telangana,Hanamkonda,Hanamkonda,Lok Sabha,MP,MP_Telangana_07,522884.78,02-01-2024,Street Lighting,TS-MPLADS-0927,Health Department,Under Execution,02-09-2023,Number
+Telangana,Hyderabad,Hyderabad,Lok Sabha,MP,MP_Telangana_09,1312803.11,08-06-2022,School Building Repair,TS-MPLADS-0928,Water Supply Department,In Progress,10-03-2022,Number
+Telangana,Jagtial,Jagtial,Lok Sabha,MP,MP_Telangana_03,564751.14,24-03-2022,Public Toilet,TS-MPLADS-0929,Water Supply Department,Sanctioned,26-12-2021,Number
+Telangana,Jangaon,Jangaon,Lok Sabha,MP,MP_Telangana_09,701056.17,02-07-2021,Road Improvement,TS-MPLADS-0930,Water Supply Department,Under Execution,03-06-2021,Km
+Telangana,Jayashankar Bhupalpally,Jayashankar Bhupalpally,Lok Sabha,MP,MP_Telangana_03,781520.63,27-09-2022,Bus Shelter,TS-MPLADS-0931,Health Department,Sanctioned,11-06-2022,Number
+Telangana,Jogulamba Gadwal,Jogulamba Gadwal,Lok Sabha,MP,MP_Telangana_10,476221.21,14-03-2023,Bus Shelter,TS-MPLADS-0932,District Panchayat,In Progress,06-02-2023,Number
+Telangana,Kamareddy,Kamareddy,Lok Sabha,MP,MP_Telangana_04,721457.86,18-05-2022,Street Lighting,TS-MPLADS-0933,Municipal Administration,Completed,21-03-2022,Number
+Telangana,Karimnagar,Karimnagar,Lok Sabha,MP,MP_Telangana_04,4987941.18,06-11-2025,Community Hall,TS-MPLADS-0934,District Panchayat,Completed,07-08-2025,Number
+Telangana,Khammam,Khammam,Lok Sabha,MP,MP_Telangana_10,1028277.9,01-07-2021,Library Building,TS-MPLADS-0935,Municipal Administration,In Progress,10-04-2021,Number
+Telangana,Komaram Bheem Asifabad,Komaram Bheem Asifabad,Lok Sabha,MP,MP_Telangana_08,1025745.98,30-03-2024,School Building Repair,TS-MPLADS-0936,District Panchayat,Under Execution,31-01-2024,Number
+Telangana,Mahabubabad,Mahabubabad,Lok Sabha,MP,MP_Telangana_10,696834.56,03-07-2024,Street Lighting,TS-MPLADS-0937,District Panchayat,In Progress,03-03-2024,Number
+Telangana,Mahabubnagar,Mahabubnagar,Lok Sabha,MP,MP_Telangana_01,582289.12,05-08-2024,Street Lighting,TS-MPLADS-0938,Rural Development Agency,Under Execution,12-04-2024,Number
+Telangana,Mancherial,Mancherial,Lok Sabha,MP,MP_Telangana_11,379249.19,26-08-2021,Public Toilet,TS-MPLADS-0939,Public Works Department,Completed,25-05-2021,Number
+Telangana,Medak,Medak,Lok Sabha,MP,MP_Telangana_12,520735.73,16-10-2023,Drinking Water Facility,TS-MPLADS-0940,Education Department,Completed,12-06-2023,Number
+Telangana,Medchal-Malkajgiri,Medchal-Malkajgiri,Lok Sabha,MP,MP_Telangana_09,1141163.38,10-12-2022,Health Centre Improvement,TS-MPLADS-0941,Health Department,In Progress,17-08-2022,Number
+Telangana,Mulugu,Mulugu,Lok Sabha,MP,MP_Telangana_02,862652.03,09-07-2021,Road Improvement,TS-MPLADS-0942,Rural Development Agency,Sanctioned,09-02-2021,Km
+Telangana,Nagarkurnool,Nagarkurnool,Lok Sabha,MP,MP_Telangana_10,1137131.35,11-04-2024,Drainage Improvement,TS-MPLADS-0943,Rural Development Agency,In Progress,09-01-2024,Meter
+Telangana,Nalgonda,Nalgonda,Lok Sabha,MP,MP_Telangana_03,1849752.17,24-03-2021,Community Hall,TS-MPLADS-0944,Education Department,Completed,27-01-2021,Number
+Telangana,Narayanpet,Narayanpet,Lok Sabha,MP,MP_Telangana_02,1323951.17,22-02-2021,School Building Repair,TS-MPLADS-0945,Water Supply Department,Sanctioned,04-02-2021,Number
+Telangana,Nirmal,Nirmal,Lok Sabha,MP,MP_Telangana_10,687827.38,02-07-2025,Public Toilet,TS-MPLADS-0946,Water Supply Department,Completed,10-05-2025,Number
+Telangana,Nizamabad,Nizamabad,Lok Sabha,MP,MP_Telangana_01,1247737.2,03-10-2023,Library Building,TS-MPLADS-0947,District Panchayat,In Progress,17-08-2023,Number
+Telangana,Peddapalli,Peddapalli,Lok Sabha,MP,MP_Telangana_04,1917338.26,21-01-2023,Health Centre Improvement,TS-MPLADS-0948,Water Supply Department,Under Execution,29-12-2022,Number
+Telangana,Rajanna Sircilla,Rajanna Sircilla,Lok Sabha,MP,MP_Telangana_08,427706.09,18-10-2024,Public Toilet,TS-MPLADS-0949,Education Department,Completed,30-07-2024,Number
+Telangana,Rangareddy,Rangareddy,Lok Sabha,MP,MP_Telangana_07,762396.38,24-07-2024,Drainage Improvement,TS-MPLADS-0950,Municipal Administration,In Progress,13-05-2024,Meter
+Telangana,Sangareddy,Sangareddy,Lok Sabha,MP,MP_Telangana_08,1247487.64,05-09-2025,Library Building,TS-MPLADS-0951,Public Works Department,Sanctioned,10-05-2025,Number
+Telangana,Siddipet,Siddipet,Lok Sabha,MP,MP_Telangana_06,959181.41,21-03-2023,Bus Shelter,TS-MPLADS-0952,Rural Development Agency,In Progress,05-12-2022,Number
+Telangana,Suryapet,Suryapet,Lok Sabha,MP,MP_Telangana_01,561125.64,04-09-2024,Bus Shelter,TS-MPLADS-0953,Public Works Department,In Progress,11-03-2024,Number
+Telangana,Vikarabad,Vikarabad,Lok Sabha,MP,MP_Telangana_08,672335.91,09-08-2024,Drinking Water Facility,TS-MPLADS-0954,Rural Development Agency,Sanctioned,06-03-2024,Number
+Telangana,Wanaparthy,Wanaparthy,Lok Sabha,MP,MP_Telangana_07,448510.02,27-11-2025,Road Improvement,TS-MPLADS-0955,Health Department,Sanctioned,19-06-2025,Km
+Telangana,Warangal,Warangal,Lok Sabha,MP,MP_Telangana_04,1174008.91,28-02-2022,Drainage Improvement,TS-MPLADS-0956,Education Department,In Progress,06-02-2022,Meter
+Telangana,Yadadri Bhuvanagiri,Yadadri Bhuvanagiri,Lok Sabha,MP,MP_Telangana_05,2258896.17,16-02-2023,Health Centre Improvement,TS-MPLADS-0957,District Panchayat,Completed,16-09-2022,Number
+Telangana,Adilabad,Adilabad,Lok Sabha,MP,MP_Telangana_06,1040295.38,02-11-2024,Drinking Water Facility,TS-MPLADS-0958,Public Works Department,Completed,29-09-2024,Number
+Telangana,Bhadradri Kothagudem,Bhadradri Kothagudem,Lok Sabha,MP,MP_Telangana_01,847432.82,04-08-2023,Road Improvement,TS-MPLADS-0959,Rural Development Agency,In Progress,10-03-2023,Km
+Telangana,Hanamkonda,Hanamkonda,Lok Sabha,MP,MP_Telangana_04,1409572.76,14-09-2025,School Building Repair,TS-MPLADS-0960,Rural Development Agency,In Progress,02-06-2025,Number
+Telangana,Hyderabad,Hyderabad,Lok Sabha,MP,MP_Telangana_06,1307272.25,23-03-2024,Community Hall,TS-MPLADS-0961,Water Supply Department,Completed,21-11-2023,Number
+Telangana,Jagtial,Jagtial,Lok Sabha,MP,MP_Telangana_02,1633640.57,04-12-2021,Community Hall,TS-MPLADS-0962,Health Department,In Progress,09-07-2021,Number
+Telangana,Jangaon,Jangaon,Lok Sabha,MP,MP_Telangana_12,1009865.77,09-02-2021,School Building Repair,TS-MPLADS-0963,Water Supply Department,In Progress,04-01-2021,Number
+Telangana,Jayashankar Bhupalpally,Jayashankar Bhupalpally,Lok Sabha,MP,MP_Telangana_11,1030070.29,10-08-2024,Drinking Water Facility,TS-MPLADS-0964,Local Body,In Progress,04-05-2024,Number
+Telangana,Jogulamba Gadwal,Jogulamba Gadwal,Lok Sabha,MP,MP_Telangana_01,671301.22,01-09-2025,School Building Repair,TS-MPLADS-0965,Rural Development Agency,Under Execution,15-07-2025,Number
+Telangana,Kamareddy,Kamareddy,Lok Sabha,MP,MP_Telangana_04,894324.13,19-07-2025,Library Building,TS-MPLADS-0966,Water Supply Department,Sanctioned,29-04-2025,Number
+Telangana,Karimnagar,Karimnagar,Lok Sabha,MP,MP_Telangana_07,846364.68,05-10-2023,Street Lighting,TS-MPLADS-0967,Local Body,Sanctioned,27-05-2023,Number
+Telangana,Khammam,Khammam,Lok Sabha,MP,MP_Telangana_05,676192.8,29-06-2022,Bus Shelter,TS-MPLADS-0968,Education Department,Completed,13-06-2022,Number
+Telangana,Komaram Bheem Asifabad,Komaram Bheem Asifabad,Lok Sabha,MP,MP_Telangana_10,498962.55,13-01-2022,Street Lighting,TS-MPLADS-0969,Municipal Administration,Sanctioned,01-09-2021,Number
+Telangana,Mahabubabad,Mahabubabad,Lok Sabha,MP,MP_Telangana_09,1934962.52,02-01-2023,Community Hall,TS-MPLADS-0970,Public Works Department,Under Execution,29-09-2022,Number
+Telangana,Mahabubnagar,Mahabubnagar,Lok Sabha,MP,MP_Telangana_10,810204.65,23-11-2023,Drainage Improvement,TS-MPLADS-0971,Rural Development Agency,In Progress,19-07-2023,Meter
+Telangana,Mancherial,Mancherial,Lok Sabha,MP,MP_Telangana_05,928902.36,10-03-2025,Library Building,TS-MPLADS-0972,Municipal Administration,In Progress,11-01-2025,Number
+Telangana,Medak,Medak,Lok Sabha,MP,MP_Telangana_07,650527.22,14-11-2023,Street Lighting,TS-MPLADS-0973,Water Supply Department,In Progress,01-06-2023,Number
+Telangana,Medchal-Malkajgiri,Medchal-Malkajgiri,Lok Sabha,MP,MP_Telangana_11,1270462.19,12-06-2022,Street Lighting,TS-MPLADS-0974,District Panchayat,Under Execution,06-01-2022,Number
+Telangana,Mulugu,Mulugu,Lok Sabha,MP,MP_Telangana_07,772562.82,20-02-2022,Road Improvement,TS-MPLADS-0975,Health Department,Under Execution,19-12-2021,Km
+Telangana,Nagarkurnool,Nagarkurnool,Lok Sabha,MP,MP_Telangana_11,659660.37,20-09-2021,Road Improvement,TS-MPLADS-0976,Water Supply Department,Sanctioned,25-08-2021,Km
+Telangana,Nalgonda,Nalgonda,Lok Sabha,MP,MP_Telangana_01,2293281.33,24-09-2023,School Building Repair,TS-MPLADS-0977,Rural Development Agency,In Progress,18-05-2023,Number
+Telangana,Narayanpet,Narayanpet,Lok Sabha,MP,MP_Telangana_08,1565179.98,04-10-2022,Street Lighting,TS-MPLADS-0978,Water Supply Department,Completed,06-08-2022,Number
+Telangana,Nirmal,Nirmal,Lok Sabha,MP,MP_Telangana_03,617023.45,19-10-2021,Drinking Water Facility,TS-MPLADS-0979,District Panchayat,Sanctioned,05-05-2021,Number
+Telangana,Nizamabad,Nizamabad,Lok Sabha,MP,MP_Telangana_11,519309.92,15-12-2021,Library Building,TS-MPLADS-0980,Health Department,Completed,30-10-2021,Number
+Telangana,Peddapalli,Peddapalli,Lok Sabha,MP,MP_Telangana_04,1148186.73,02-07-2025,Library Building,TS-MPLADS-0981,District Panchayat,Under Execution,28-01-2025,Number
+Telangana,Rajanna Sircilla,Rajanna Sircilla,Lok Sabha,MP,MP_Telangana_09,888527.06,09-10-2025,Public Toilet,TS-MPLADS-0982,Rural Development Agency,Sanctioned,25-05-2025,Number
+Telangana,Rangareddy,Rangareddy,Lok Sabha,MP,MP_Telangana_12,2148571.48,10-09-2025,School Building Repair,TS-MPLADS-0983,Rural Development Agency,In Progress,09-08-2025,Number
+Telangana,Sangareddy,Sangareddy,Lok Sabha,MP,MP_Telangana_02,558565.71,28-09-2022,Drinking Water Facility,TS-MPLADS-0984,Local Body,In Progress,21-06-2022,Number
+Telangana,Siddipet,Siddipet,Lok Sabha,MP,MP_Telangana_02,1726467.18,16-10-2022,Health Centre Improvement,TS-MPLADS-0985,Municipal Administration,In Progress,10-08-2022,Number
+Telangana,Suryapet,Suryapet,Lok Sabha,MP,MP_Telangana_12,776513.78,26-12-2021,Road Improvement,TS-MPLADS-0986,Local Body,Sanctioned,01-09-2021,Km
+Telangana,Vikarabad,Vikarabad,Lok Sabha,MP,MP_Telangana_01,1078799.74,19-03-2022,Bus Shelter,TS-MPLADS-0987,Local Body,Completed,01-12-2021,Number
+Telangana,Wanaparthy,Wanaparthy,Lok Sabha,MP,MP_Telangana_06,432614.17,29-12-2021,Public Toilet,TS-MPLADS-0988,District Panchayat,Completed,25-08-2021,Number
+Telangana,Warangal,Warangal,Lok Sabha,MP,MP_Telangana_07,548761.38,07-02-2023,Drainage Improvement,TS-MPLADS-0989,Rural Development Agency,In Progress,20-01-2023,Meter
+Telangana,Yadadri Bhuvanagiri,Yadadri Bhuvanagiri,Lok Sabha,MP,MP_Telangana_03,685811.19,25-07-2021,School Building Repair,TS-MPLADS-0990,Rural Development Agency,Under Execution,03-05-2021,Number
+Telangana,Adilabad,Adilabad,Lok Sabha,MP,MP_Telangana_12,671353.46,27-01-2026,Street Lighting,TS-MPLADS-0991,Health Department,Completed,21-08-2025,Number
+Telangana,Bhadradri Kothagudem,Bhadradri Kothagudem,Lok Sabha,MP,MP_Telangana_03,922312.77,16-07-2022,Library Building,TS-MPLADS-0992,Health Department,Completed,05-07-2022,Number
+Telangana,Hanamkonda,Hanamkonda,Lok Sabha,MP,MP_Telangana_05,692986.97,22-06-2023,Library Building,TS-MPLADS-0993,Health Department,Sanctioned,10-02-2023,Number
+Telangana,Hyderabad,Hyderabad,Lok Sabha,MP,MP_Telangana_11,2801565.37,17-02-2023,School Building Repair,TS-MPLADS-0994,District Panchayat,Sanctioned,31-08-2022,Number
+Telangana,Jagtial,Jagtial,Lok Sabha,MP,MP_Telangana_06,826299.02,01-12-2021,Drainage Improvement,TS-MPLADS-0995,Public Works Department,Completed,10-11-2021,Meter
+Telangana,Jangaon,Jangaon,Lok Sabha,MP,MP_Telangana_04,1377998.6,04-01-2024,School Building Repair,TS-MPLADS-0996,Municipal Administration,Under Execution,07-11-2023,Number
+Telangana,Jayashankar Bhupalpally,Jayashankar Bhupalpally,Lok Sabha,MP,MP_Telangana_07,1136190.58,05-06-2021,Drainage Improvement,TS-MPLADS-0997,Health Department,In Progress,15-03-2021,Meter
+Telangana,Jogulamba Gadwal,Jogulamba Gadwal,Lok Sabha,MP,MP_Telangana_02,607977.91,01-08-2023,Library Building,TS-MPLADS-0998,Local Body,Completed,09-02-2023,Number
+Telangana,Kamareddy,Kamareddy,Lok Sabha,MP,MP_Telangana_04,1953852.82,13-02-2022,Health Centre Improvement,TS-MPLADS-0999,Health Department,Under Execution,25-11-2021,Number
+Telangana,Karimnagar,Karimnagar,Lok Sabha,MP,MP_Telangana_08,1290911.95,21-08-2025,School Building Repair,TS-MPLADS-1000,Education Department,In Progress,29-05-2025,Number
